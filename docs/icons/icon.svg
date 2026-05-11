@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" ry="96" fill="#d65a31"/>
+  <!-- White "L" drawn as two rectangles. The geometry mirrors generate_icons.py
+       so SVG-favicon and rasterised PWA icons render identically. -->
+  <rect x="160" y="112" width="68" height="288" fill="#ffffff"/>
+  <rect x="160" y="332" width="244" height="68" fill="#ffffff"/>
+</svg>

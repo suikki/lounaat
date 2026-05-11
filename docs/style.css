@@ -1,0 +1,240 @@
+:root {
+  --bg: #fafaf7;
+  --fg: #1f1f1f;
+  --muted: #6b6b6b;
+  --accent: #d65a31;
+  --card: #ffffff;
+  --border: #e2e2dd;
+  --warn-bg: #fff4e0;
+  --warn-fg: #7a4a00;
+  --err-bg: #fdecea;
+  --err-fg: #8a1c1c;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1a1a;
+    --fg: #eeeeec;
+    --muted: #9a9a96;
+    --accent: #ff7a4d;
+    --card: #242422;
+    --border: #353532;
+    --warn-bg: #3a2d0e;
+    --warn-fg: #f0c060;
+    --err-bg: #3a1414;
+    --err-fg: #f4a8a8;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  line-height: 1.45;
+}
+
+.topbar {
+  padding: 1.2rem 1.4rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.topbar h1 {
+  margin: 0;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+.muted { color: var(--muted); font-weight: 400; }
+.meta { font-size: 0.85rem; color: var(--muted); margin-top: 0.3rem; }
+
+.tabs {
+  display: flex;
+  gap: 0.25rem;
+  padding: 0.8rem 1.4rem;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+.tabs button {
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+.tabs button[aria-pressed="true"] {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+.tabs button .tab-short { display: none; }
+.tabs button .tab-date {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+.tabs button[aria-pressed="true"] .tab-date { color: rgba(255,255,255,0.85); }
+.tabs button.tab-today .tab-long::after {
+  content: '·';
+  margin-left: 0.35rem;
+  color: var(--accent);
+  font-weight: 700;
+}
+.tabs button.tab-today[aria-pressed="true"] .tab-long::after { color: white; }
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.8rem;
+  padding: 1rem 1rem 1.2rem;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem 0.7rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+}
+.card h2 {
+  margin: 0 0 0.55rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.card h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+.card h2 a:hover { text-decoration: underline; }
+.card .addr { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+.section {
+  background: rgba(0, 0, 0, 0.035);
+  border-radius: 8px;
+  padding: 0.55rem 0.75rem 0.5rem;
+  margin-top: 0.5rem;
+}
+.section:first-of-type { margin-top: 0.4rem; }
+
+@media (prefers-color-scheme: dark) {
+  .section { background: rgba(255, 255, 255, 0.045); }
+}
+
+.section-name {
+  margin: 0 0 0.25rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.dishes {
+  list-style: none;
+  padding: 0;
+  margin: 0.2rem 0 0;
+}
+.dishes li {
+  padding: 0.2rem 0;
+  border-bottom: 1px dashed var(--border);
+}
+.dishes li:last-child { border-bottom: 0; }
+.dish-meta {
+  color: var(--muted);
+  opacity: 0.7;
+  font-size: 0.82em;
+}
+
+.note {
+  font-style: italic;
+  color: var(--muted);
+  padding: 0.3rem 0;
+}
+.empty {
+  color: var(--muted);
+  padding: 0.4rem 0;
+}
+
+.banner {
+  font-size: 0.82rem;
+  padding: 0.35rem 0.55rem;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+}
+.banner.warn { background: var(--warn-bg); color: var(--warn-fg); }
+.banner.err { background: var(--err-bg); color: var(--err-fg); }
+
+footer {
+  padding: 0.5rem 1rem 1.5rem;
+  font-size: 0.85rem;
+}
+footer a { color: inherit; }
+
+@media (max-width: 640px) {
+  .topbar { padding: 0.9rem 1rem 0.4rem; }
+  .topbar h1 { font-size: 1.25rem; }
+  .topbar h1 .muted { font-size: 0.85rem; }
+  .meta { font-size: 0.78rem; }
+
+  /* Day selection: 5 equal-width buttons in one row, no scroll.
+     Long weekday names are hidden; we show short code + date stacked. */
+  .tabs {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.35rem;
+    padding: 0.55rem 0.7rem;
+    overflow-x: visible;
+  }
+  .tabs button {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.05rem;
+    padding: 0.45rem 0.2rem;
+    border-radius: 10px;
+    min-height: 48px;
+  }
+  .tabs button .tab-long { display: none; }
+  .tabs button .tab-short {
+    display: inline;
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.1;
+  }
+  .tabs button .tab-date {
+    font-size: 0.72rem;
+  }
+  .tabs button.tab-today .tab-short::after {
+    content: '';
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent);
+    vertical-align: middle;
+    margin-left: 4px;
+  }
+  .tabs button.tab-today[aria-pressed="true"] .tab-short::after { background: white; }
+  /* Disable the desktop ::after dot on mobile */
+  .tabs button.tab-today .tab-long::after { content: none; }
+
+  main { padding: 0.7rem 0 1rem; gap: 0.6rem; }
+  .card {
+    padding: 0.8rem 0.9rem 0.9rem;
+    border-radius: 0;
+    border-left: 0;
+    border-right: 0;
+  }
+  .card h2 { font-size: 1.05rem; }
+  .dishes li { padding: 0.3rem 0; }
+  footer { padding: 0.4rem 0.8rem 1.2rem; font-size: 0.8rem; }
+}

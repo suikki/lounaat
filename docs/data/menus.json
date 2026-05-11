@@ -1,0 +1,601 @@
+{
+  "generated_at": "2026-05-11T20:13:02Z",
+  "iso_week": 20,
+  "restaurants": [
+    {
+      "key": "linkosuo_hertta",
+      "name": "Linkosuo Hertta",
+      "url": "https://linkosuo.fi/toimipaikka/hertta/",
+      "days": [
+        {
+          "date": "2026-05-11",
+          "weekday": "Maanantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Valkosipuligratinoitua uunimakkaraa & kermaperunaa (maito, sinappi, L, G)",
+                "Broileria Tikka masala & riisiä (M, G)"
+              ]
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                "Parsakaalisosekeitto (M, G, VEG)"
+              ]
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                "Lohimurekepihvit Hollandaisekastikkeella (maito, kaura, selleri, kananmuna)"
+              ]
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                "Tofua Tikka masala"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-12",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Hot honey chicken & curry-ananasdippi (kananmuna, sinappi, M, G)",
+                "Shahi paneer halloumijuustolla (maito, L, G)"
+              ]
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                "Paahdettu paprika-tomaattikeitto (M, G)"
+              ]
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                "French onion naudanlihaburgeri & ranskanperunat (sis. naudan jauhelihapihvi, sipuli, viinietikkasipsit, tomaattia. salaattia, miso-kevätsipulimajoneesia, sis. kananmuna, soija, sinappi, M)"
+              ]
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                "raikas hedelmäsalaatti (M, G, VEG)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-13",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Mureaa puolukka-karamellipossua",
+                "– hölskyperunat tillillä ja smetanalla",
+                "hertan pinaattiletut"
+              ]
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                "Tomaattinen katkarapukeitto"
+              ]
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                "Rapeita kanan boneless wingsejä Texas Pete kastikkeella, ranskalaiset, sinihomejuustodippiä ja dippikasviksia"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-14",
+          "weekday": "Torstai",
+          "sections": [],
+          "note": "Helatorstai"
+        },
+        {
+          "date": "2026-05-15",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Parmesan paneroitua broileria & appelsiinijogurttia",
+                "– harissajuureksia & sitrus-timjami perunat",
+                "Kaalikääryleitä & puolukkaa"
+              ]
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                "Kasvissosekeitto"
+              ]
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                "Lohi-caesar salaatti paistetulla parsalla & lehtikaalilla"
+              ]
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                "uuniomena rahkaa (L, G)"
+              ]
+            }
+          ],
+          "note": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "key": "linkosuo_orvokki",
+      "name": "Linkosuo Orvokki",
+      "url": "https://linkosuo.fi/toimipaikka/lounasravintola-orvokki/",
+      "days": [
+        {
+          "date": "2026-05-11",
+          "weekday": "Maanantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Possun baby back ribsit (M, G)",
+                "– juustoinen bourbon whiskey BBQ- dippi ja savupaprikaperunat (L, G, VEG)",
+                "Punajuuri-vuohenjuustolasagne (L)",
+                "Vihreä kalakeitto (M, G)"
+              ]
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                "Punajuuritagliatellea voipavuilla ja pestolla (VEG)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-12",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Teemana Etelä-afrikka – makuja kokin kotimaasta:",
+                "Salaattipöydästä löytyy muun muassa porkkana-ananassalaattia, persikkaista curry-nuudelisalaattia, banaanisalaattia, mintulla ja sitruunalla maustettua couscous-juustosalaattia siemenillä…",
+                "Green bean beef stew – mureaa naudan lapaa ja vihreitä papuja (M, G)",
+                "Cape Malay chicken curry with sambal – mausteinen broilericurry sekä Orvokin oma sambal-chilikastike (M, G)",
+                "Chakalaka – Tomaattinen papu-kasvispata (G, VEG)",
+                "Lisukkeina keltainen riisi rusinoilla sekä paahdetut bataattilohkot (VEG)",
+                "Tarjolla myös paahdetulla chilillä maustettua kurpitsasosekeittoa (G, VEG)",
+                "Kahvin kanssa milktart – kanelilla maustettua maitotorttua"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-13",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Kievin kana (saa myös L,G, L)",
+                "– paahdettu valkosipulidippi ja sitruuna-persiljaperunat (L, G, VEG)",
+                "Japanilainen yakisoba-nuudeliwok rapealla possun kyljellä (M)",
+                "Kookoksella ja limellä maustettu porkkanasosekeitto (G, VEG)"
+              ]
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                "Yakisoba-nuudeliwok vegelastuilla (VEG)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-14",
+          "weekday": "Torstai",
+          "sections": [],
+          "note": "Helatorstai"
+        },
+        {
+          "date": "2026-05-15",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Rapea porsaanleike (M)",
+                "– sinappinen kurkkumajoneesi (M, G)",
+                "– uuniranskalaiset (G, VEG)",
+                "Havaijin huli huli kanapata (M, G)",
+                "Tikka masala-tuoretomaattikeitto paahdetuilla kikherneillä (G, VEG)",
+                "Kahvin kanssa vaahtokarkkimousse ja mustikkakastike (L, G)"
+              ]
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                "Seitanrulla (VEG)"
+              ]
+            }
+          ],
+          "note": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "key": "antell_hermianfarmi",
+      "name": "Antell Hermianfarmi",
+      "url": "https://antell.fi/lounas/tampere/hermianfarmi/",
+      "days": [
+        {
+          "date": "2026-05-11",
+          "weekday": "Maanantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Kanaa paholaisenkastikkeessa",
+                "Cheddar-uunimakkaraa",
+                "Musta dal makhani – linssipataa",
+                "Riisiä",
+                "Currypaahdettua kukkakaalia",
+                "Kuningatarrahkaa"
+              ]
+            },
+            {
+              "name": "Grilliannos",
+              "dishes": [
+                "Kirjolohi remouladekastikkeella",
+                "Paahdettua kukka- ja parsakaalia",
+                "Maalaisranskalaiset"
+              ]
+            },
+            {
+              "name": "Delilounas",
+              "dishes": [
+                "Tomaatti-mozzarellakeittoa",
+                "Mausteisia kanansiipiä",
+                "Peruna-pinaatti-oliivimunakasta",
+                "Aurinkokuivattu tomaatti-pastasalaatti",
+                "Kreikkalainen salaatti"
+              ]
+            },
+            {
+              "name": "Pizzalounas",
+              "dishes": [
+                "Pepperonipizzaa",
+                "Vihreäsalaatti"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-12",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Antellin lasagnea",
+                "Chicken madras – mausteista intialaista kanacurrya",
+                "Herne-mantelipastaa",
+                "Grilliperunoita",
+                "Paahdettua palsternakkaa",
+                "Yrtti-jogurttikastiketta",
+                "Porkkanapiirakkaa"
+              ]
+            },
+            {
+              "name": "Grilliannos",
+              "dishes": [
+                "Lehtipihvi ranskalaisilla",
+                "Vihreä tankoparsa"
+              ]
+            },
+            {
+              "name": "Delilounas",
+              "dishes": [
+                "Kanakeittoa",
+                "Mustamakkaraa",
+                "Kaura-punajuuripyöryköitä",
+                "Aioli-katkarapuja",
+                "Caesar-salaattia"
+              ]
+            },
+            {
+              "name": "Pizzalounas",
+              "dishes": [
+                "Margherita-pizzaa",
+                "Vihreäsalaatti",
+                "Kinkku-ananas-aurajuustopizzaa"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-13",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Ylikypsää possua ramenliemessä",
+                "Maissipaneroitua kanaa",
+                "Itte tehtyjä punajuuriohukaisia",
+                "Perunamuusia",
+                "Uunijuureksia",
+                "Chili-limejugurttia"
+              ]
+            },
+            {
+              "name": "Grilliannos",
+              "dishes": [
+                "Smash-burger",
+                "Ranskalaisia perunoita"
+              ]
+            },
+            {
+              "name": "Delilounas",
+              "dishes": [
+                "Itämaista lohikeittoa",
+                "Pulled pork",
+                "BBQ-majoneesia",
+                "Täytettyjä paprikoita",
+                "Maalaisperunasalaattia",
+                "Katkarapu-caesarsalaatti"
+              ]
+            },
+            {
+              "name": "Pizzalounas",
+              "dishes": [
+                "Pepperonipizzaa",
+                "Margherita-pizzaa",
+                "Vihreäsalaatti"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-14",
+          "weekday": "Torstai",
+          "sections": [],
+          "note": "Ei lounaslistaa saatavilla"
+        },
+        {
+          "date": "2026-05-15",
+          "weekday": "Perjantai",
+          "sections": [],
+          "note": "Ei lounaslistaa saatavilla"
+        }
+      ],
+      "error": null
+    },
+    {
+      "key": "caffitella_duo",
+      "name": "Caffitella Duo Tampere",
+      "url": "https://www.caffitella.fi/lounaslista/",
+      "days": [
+        {
+          "date": "2026-05-11",
+          "weekday": "Maanantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Paneroitua porsaanleikettä (suomalaista possua, M)",
+                "Chimichurri Majoneesi (M, G)",
+                "Jauheliha-kaalikääryleitä & puolukkahillo (suomalaista possua ja nautaa, M, G)",
+                "Juures perunamuusia (L, G)"
+              ]
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                "Paprika burger Halloumi salaatti (L, G)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-12",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Jauhelihapihvejä talon pippuri-kermakastikkeessa (suomalaista nautaa ja possua, L, G)",
+                "Paneroitua kalaa",
+                "Perunamuusia (L, G)"
+              ]
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                "Yrttibroileri burger Vuohenjuusto poke (L, G)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-13",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Possun sisäfileetä hunaja-sinappi kastikkeessa (suomalaista possua, L, G)",
+                "Bearnaise kanaa (suomalaista broileria, VL, G)",
+                "Paahdettua perunaa (M, G)",
+                "Riisiä (M, G)"
+              ]
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                "Halloumi burger Burger salaatti (L, G)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-14",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Crispy chicken (suomalaista broileria, M)",
+                "Caffitellan Chorizopyörykät (L, G)",
+                "Juustoinen kermaperuna (L, G)"
+              ]
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                "Pulled Pork fries & fries Paneroitu broileri poke (L, G)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-15",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Caffitellan Jauhelihalasagnea (suomalaista nautaa ja possua, L)",
+                "Broileria & kasviksia (suomalaista broileria, M, G)"
+              ]
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                "Kanaburger (L)"
+              ]
+            }
+          ],
+          "note": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "key": "speakeasy_hervanta",
+      "name": "Speakeasy Hervanta",
+      "url": "https://www.speakeasy.fi/hervanta/lounas/",
+      "days": [
+        {
+          "date": "2026-05-11",
+          "weekday": "Maanantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Kievinkana ja mangomajoneesi, ranskalaiset (L)",
+                "Kebabpasta (L)",
+                "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                "Mustikkarahka (L, G)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-12",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Broileria teriyakikastikkeella, riisi (L)",
+                "Lohikiusaus (L, G)",
+                "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                "Omenapiirakka ja vaniljakastike (L)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-13",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "Karjalanpaisti, muusi (L, G)",
+                "Kalapuikot kermaviilikastikkeella (L)",
+                "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                "Suklaa-dominomousse (L)"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-14",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "All you can eat! -siipipäiviä",
+                "Tusinatorstaisin Hervannan Speakeasy viettää",
+                "All you can eat! -siipipäiviä klo 12 alkaen aina iltaan asti",
+                "0,5l limsan kanssa 20€"
+              ]
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-15",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                "SPEAKEASYN BURGERBUFFET (L)",
+                "Talon naudanlihapihvejä ja paneroitua kanaa",
+                "Maalaisranskalaisia ja olutpaneroituja sipulirenkaita",
+                "Speakeasyn original wingsejä eri kastikevahvuuksilla(l",
+                "Mansikkapirtelö",
+                " (L, G)"
+              ]
+            }
+          ],
+          "note": null
+        }
+      ],
+      "error": null
+    }
+  ]
+}

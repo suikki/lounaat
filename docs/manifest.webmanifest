@@ -1,0 +1,15 @@
+{
+  "name": "Lounaat Hervanta",
+  "short_name": "Lounaat",
+  "description": "Tampereen Hervannan ravintoloiden lounaslistat yhdellä sivulla.",
+  "lang": "fi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fafaf7",
+  "theme_color": "#d65a31",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

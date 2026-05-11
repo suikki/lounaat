@@ -1,0 +1,48 @@
+name: Scrape lunch menus
+
+on:
+  schedule:
+    # 05:30 UTC weekdays — ~07:30 (winter) / 08:30 (summer) Helsinki time
+    - cron: '30 5 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python scrape.py
+
+      - name: Commit if changed
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          # Ignore the generated_at timestamp line so we only commit when the
+          # actual menu content changed.
+          if git diff --quiet -I '"generated_at"' -- docs/data/menus.json; then
+            echo "menus.json unchanged (timestamp only) — skipping commit"
+            exit 0
+          fi
+          git add docs/data/menus.json
+          git commit -m "data: update menus $(date -u +%Y-%m-%d)"
+          git push
