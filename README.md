@@ -1,5 +1,7 @@
 # lounaat
 
+Live site: **<https://lounaat.suikki.org/>**
+
 Aggregates weekly lunch menus from a handful of Tampere restaurants onto a single static page.
 
 No backend. A GitHub Actions cron job runs `scrape.py` on a schedule, commits the resulting `docs/data/menus.json`, and GitHub Pages serves the static site that reads it.
