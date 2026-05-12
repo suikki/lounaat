@@ -29,19 +29,40 @@ PRICE_RE = re.compile(r"^\s*\d+[,.]?\d*\s*€?\s*$")
 DROP_DISHES = {"kahvi", "keksi"}
 
 
+def _diet_codes(button) -> str | None:
+    """Return the dish's diet code list (e.g. ``"G, L"``) from the
+    ``accordion__footer__special-diets`` div that sits as a sibling of the
+    button's ``accordion`` wrapper, or None if absent/empty. The ``A`` code
+    is Antell-specific and not informative to readers, so it's filtered out."""
+    li = button.find_parent("li")
+    if li is None:
+        return None
+    footer = li.find("div", class_="accordion__footer__special-diets")
+    if footer is None:
+        return None
+    text = clean_text(footer.get_text(" "))
+    tokens = [t.strip() for t in text.split(",") if t.strip() and t.strip().upper() != "A"]
+    return ", ".join(tokens) if tokens else None
+
+
+def _dish_string(button) -> str | None:
+    """Return ``"Name (codes)"`` for an accordion button, or None if the
+    button should be dropped (empty / on the drop list)."""
+    name = clean_text(button.get_text(" "))
+    if not name or name.lower() in DROP_DISHES:
+        return None
+    name = name.rstrip("#").strip()
+    codes = _diet_codes(button)
+    return f"{name} ({codes})" if codes else name
+
+
 def _collect_dishes(scope) -> list[str]:
-    """Collect accordion button names within a scope, dropping uninteresting
-    items and stripping the trailing '#' annotation Antell's CMS surfaces
-    without a legend."""
+    """Collect dish strings for every accordion button under `scope`."""
     out: list[str] = []
     for btn in scope.find_all("button", class_="accordion__button"):
-        name = clean_text(btn.get_text(" "))
-        if not name:
-            continue
-        if name.lower() in DROP_DISHES:
-            continue
-        name = name.rstrip("#").strip()
-        out.append(name)
+        s = _dish_string(btn)
+        if s is not None:
+            out.append(s)
     return out
 
 
@@ -60,11 +81,9 @@ def _parse_specials(div) -> list[Section]:
         elif el.name == "button" and "accordion__button" in (el.get("class") or []):
             if current is None:
                 continue
-            name = clean_text(el.get_text(" "))
-            if not name or name.lower() in DROP_DISHES:
-                continue
-            current.dishes.append(name.rstrip("#").strip())
-    # Drop sections that ended up empty (no dishes found)
+            s = _dish_string(el)
+            if s is not None:
+                current.dishes.append(s)
     return [s for s in sections if s.dishes]
 
 

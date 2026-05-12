@@ -72,19 +72,12 @@ function findDayForRestaurant(restaurant, targetIso, targetWeekdayName) {
 }
 
 function renderDish(li, dish) {
-  // Wrap parenthesized fragments in a "dish-meta" span so they can be styled
-  // smaller and dimmer (e.g. allergen codes, ingredient notes).
-  const parts = dish.split(/(\([^)]*\))/g);
-  for (const part of parts) {
-    if (!part) continue;
-    if (part.startsWith('(') && part.endsWith(')')) {
-      const span = document.createElement('span');
-      span.className = 'dish-meta';
-      span.textContent = part;
-      li.appendChild(span);
-    } else {
-      li.appendChild(document.createTextNode(part));
-    }
+  li.appendChild(document.createTextNode(dish.name));
+  if (dish.meta) {
+    const span = document.createElement('span');
+    span.className = 'dish-meta';
+    span.textContent = ` (${dish.meta})`;
+    li.appendChild(span);
   }
 }
 

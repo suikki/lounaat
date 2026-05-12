@@ -63,9 +63,14 @@ class Restaurant:
     error: str | None = None
 
     def to_dict(self) -> dict:
-        """Serialise to a JSON-ready dict with normalised notes and dishes —
-        single source of truth for the published format so any future scraper
-        gets uniform allergen formatting and sentence-case notes for free."""
+        """Serialise to a JSON-ready dict — single source of truth for the
+        published format so any future scraper gets uniform notes and dish
+        shape for free.
+
+        Each dish becomes ``{"name": str, "meta": str | None}`` where ``meta``
+        holds the trailing parenthesised info (allergen codes + dietary notes)
+        that the frontend renders dimmed alongside the name.
+        """
         d = asdict(self)
         for day in d.get("days", []):
             if day.get("note"):
@@ -140,20 +145,20 @@ _WHITESPACE_RE = re.compile(r"\s+")
 _TRAIL_PUNCT_RE = re.compile(r"[\s,;]+$")
 _ADJACENT_PARENS_RE = re.compile(r"\(([^)]*)\)(\s*\(([^)]*)\))+")
 _ALL_PARENS_RE = re.compile(r"\(([^)]*)\)")
+_TRAILING_PAREN_RE = re.compile(r"^(.+?)\s*\(([^)]*)\)\s*$", re.DOTALL)
 
 
-def normalize_dish(s: str) -> str:
-    """Pull allergen/diet codes out of a dish string and re-append them in a
-    consistent canonical format like ``(L, M, G)`` at the end.
+def normalize_dish(s: str) -> dict:
+    """Normalise a dish string and return ``{"name": str, "meta": str | None}``.
 
-    Handles the format variation across sites:
-      * ``"X M, G"`` / ``"X M,G"`` (suffix, with or without space)
-      * ``"X (M, G)"`` / ``"X (M,G)"`` (parens)
-      * ``"X (l,g)"`` (lowercase)
-      * ``"X (M) (suomalaista possua)"`` (codes mixed with non-allergen parens)
+    All allergen / diet codes scattered through the source text (``"M, G"``,
+    ``"(l,g)"``, ``"(M) (suomalaista possua)"``) are collected and merged with
+    any other parenthesised note into a single trailing paren whose contents
+    become the ``meta`` field. The frontend renders ``meta`` dimmed beside the
+    dish name, without needing to parse anything itself.
 
     Non-allergen parenthetical notes (``"(maito, sinappi)"``, ``"(suomalaista
-    possua)"``) are preserved as-is.
+    possua)"``) are preserved as-is and merged with the allergen codes.
     """
     found: set[str] = set()
 
@@ -185,7 +190,12 @@ def normalize_dish(s: str) -> str:
 
     # Merge consecutive parenthetical groups separated only by whitespace into
     # a single comma-separated paren: "(maito, sinappi) (L, G)" → "(maito, sinappi, L, G)".
-    return _merge_adjacent_parens(s)
+    s = _merge_adjacent_parens(s)
+
+    m = _TRAILING_PAREN_RE.match(s)
+    if m:
+        return {"name": m.group(1).strip(), "meta": m.group(2).strip()}
+    return {"name": s.strip(), "meta": None}
 
 
 def normalize_note(s: str | None) -> str | None:

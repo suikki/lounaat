@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T08:10:29Z",
+  "generated_at": "2026-05-12T19:15:48Z",
   "iso_week": 20,
   "restaurants": [
     {
@@ -14,26 +14,41 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Valkosipuligratinoitua uunimakkaraa & kermaperunaa (maito, sinappi, L, G)",
-                "Broileria Tikka masala & riisiä (M, G)"
+                {
+                  "name": "Valkosipuligratinoitua uunimakkaraa & kermaperunaa",
+                  "meta": "maito, sinappi, L, G"
+                },
+                {
+                  "name": "Broileria Tikka masala & riisiä",
+                  "meta": "M, G"
+                }
               ]
             },
             {
               "name": "Keitto",
               "dishes": [
-                "Parsakaalisosekeitto (M, G, VEG)"
+                {
+                  "name": "Parsakaalisosekeitto",
+                  "meta": "M, G, VEG"
+                }
               ]
             },
             {
               "name": "Chef's menu",
               "dishes": [
-                "Lohimurekepihvit Hollandaisekastikkeella (maito, kaura, selleri, kananmuna)"
+                {
+                  "name": "Lohimurekepihvit Hollandaisekastikkeella",
+                  "meta": "maito, kaura, selleri, kananmuna"
+                }
               ]
             },
             {
               "name": "Keittiöstä päivän vegaani",
               "dishes": [
-                "Tofua Tikka masala"
+                {
+                  "name": "Tofua Tikka masala",
+                  "meta": null
+                }
               ]
             }
           ],
@@ -46,26 +61,32 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Hot honey chicken & curry-ananasdippi (kananmuna, sinappi, M, G)",
-                "Shahi paneer halloumijuustolla (maito, L, G)"
+                {
+                  "name": "Hot honey chicken & curry-ananasdippi",
+                  "meta": "kananmuna, sinappi, M, G"
+                },
+                {
+                  "name": "Shahi paneer halloumijuustolla",
+                  "meta": "maito, L, G"
+                }
               ]
             },
             {
               "name": "Keitto",
               "dishes": [
-                "Paahdettu paprika-tomaattikeitto (M, G)"
-              ]
-            },
-            {
-              "name": "Chef's menu",
-              "dishes": [
-                "French onion naudanlihaburgeri & ranskanperunat (sis. naudan jauhelihapihvi, sipuli, viinietikkasipsit, tomaattia. salaattia, miso-kevätsipulimajoneesia, sis. kananmuna, soija, sinappi, M)"
+                {
+                  "name": "Paahdettu paprika-tomaattikeitto",
+                  "meta": "M, G"
+                }
               ]
             },
             {
               "name": "Jälkiruoka",
               "dishes": [
-                "raikas hedelmäsalaatti (M, G, VEG)"
+                {
+                  "name": "raikas hedelmäsalaatti",
+                  "meta": "M, G, VEG"
+                }
               ]
             }
           ],
@@ -78,21 +99,36 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Mureaa puolukka-karamellipossua",
-                "– hölskyperunat tillillä ja smetanalla",
-                "hertan pinaattiletut"
+                {
+                  "name": "Mureaa puolukka-karamellipossua",
+                  "meta": null
+                },
+                {
+                  "name": "– hölskyperunat tillillä ja smetanalla",
+                  "meta": null
+                },
+                {
+                  "name": "hertan pinaattiletut",
+                  "meta": null
+                }
               ]
             },
             {
               "name": "Keitto",
               "dishes": [
-                "Tomaattinen katkarapukeitto"
+                {
+                  "name": "Tomaattinen katkarapukeitto",
+                  "meta": null
+                }
               ]
             },
             {
               "name": "Chef's menu",
               "dishes": [
-                "Rapeita kanan boneless wingsejä Texas Pete kastikkeella, ranskalaiset, sinihomejuustodippiä ja dippikasviksia"
+                {
+                  "name": "Rapeita kanan boneless wingsejä Texas Pete kastikkeella, ranskalaiset, sinihomejuustodippiä ja dippikasviksia",
+                  "meta": null
+                }
               ]
             }
           ],
@@ -111,27 +147,45 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Parmesan paneroitua broileria & appelsiinijogurttia",
-                "– harissajuureksia & sitrus-timjami perunat",
-                "Kaalikääryleitä & puolukkaa"
+                {
+                  "name": "Parmesan paneroitua broileria & appelsiinijogurttia",
+                  "meta": null
+                },
+                {
+                  "name": "– harissajuureksia & sitrus-timjami perunat",
+                  "meta": null
+                },
+                {
+                  "name": "Kaalikääryleitä & puolukkaa",
+                  "meta": null
+                }
               ]
             },
             {
               "name": "Keitto",
               "dishes": [
-                "Kasvissosekeitto"
+                {
+                  "name": "Kasvissosekeitto",
+                  "meta": null
+                }
               ]
             },
             {
               "name": "Chef's menu",
               "dishes": [
-                "Lohi-caesar salaatti paistetulla parsalla & lehtikaalilla"
+                {
+                  "name": "Lohi-caesar salaatti paistetulla parsalla & lehtikaalilla",
+                  "meta": null
+                }
               ]
             },
             {
               "name": "Jälkiruoka",
               "dishes": [
-                "uuniomena rahkaa (L, G)"
+                {
+                  "name": "uuniomena rahkaa",
+                  "meta": "L, G"
+                }
               ]
             }
           ],
@@ -152,16 +206,31 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Possun baby back ribsit (M, G)",
-                "– juustoinen bourbon whiskey BBQ- dippi ja savupaprikaperunat (L, G, VEG)",
-                "Punajuuri-vuohenjuustolasagne (L)",
-                "Vihreä kalakeitto (M, G)"
+                {
+                  "name": "Possun baby back ribsit",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "– juustoinen bourbon whiskey BBQ- dippi ja savupaprikaperunat",
+                  "meta": "L, G, VEG"
+                },
+                {
+                  "name": "Punajuuri-vuohenjuustolasagne",
+                  "meta": "L"
+                },
+                {
+                  "name": "Vihreä kalakeitto",
+                  "meta": "M, G"
+                }
               ]
             },
             {
               "name": "Keittiöstä päivän vegaani",
               "dishes": [
-                "Punajuuritagliatellea voipavuilla ja pestolla (VEG)"
+                {
+                  "name": "Punajuuritagliatellea voipavuilla ja pestolla",
+                  "meta": "VEG"
+                }
               ]
             }
           ],
@@ -174,14 +243,38 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Teemana Etelä-afrikka – makuja kokin kotimaasta:",
-                "Salaattipöydästä löytyy muun muassa porkkana-ananassalaattia, persikkaista curry-nuudelisalaattia, banaanisalaattia, mintulla ja sitruunalla maustettua couscous-juustosalaattia siemenillä…",
-                "Green bean beef stew – mureaa naudan lapaa ja vihreitä papuja (M, G)",
-                "Cape Malay chicken curry with sambal – mausteinen broilericurry sekä Orvokin oma sambal-chilikastike (L, G, VEG)",
-                "Chakalaka – Tomaattinen papu-kasvispata (G, VEG)",
-                "Lisukkeina keltainen riisi rusinoilla sekä paahdetut bataattilohkot (VEG)",
-                "Tarjolla myös paahdetulla chilillä maustettua kurpitsasosekeittoa (G, VEG)",
-                "Kahvin kanssa milktart – kanelilla maustettua maitotorttua"
+                {
+                  "name": "Teemana Etelä-afrikka – makuja kokin kotimaasta:",
+                  "meta": null
+                },
+                {
+                  "name": "Salaattipöydästä löytyy muun muassa porkkana-ananassalaattia, persikkaista curry-nuudelisalaattia, banaanisalaattia, mintulla ja sitruunalla maustettua couscous-juustosalaattia siemenillä…",
+                  "meta": null
+                },
+                {
+                  "name": "Green bean beef stew – mureaa naudan lapaa ja vihreitä papuja",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Cape Malay chicken curry with sambal – mausteinen broilericurry sekä Orvokin oma sambal-chilikastike",
+                  "meta": "L, G, VEG"
+                },
+                {
+                  "name": "Chakalaka – Tomaattinen papu-kasvispata",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Lisukkeina keltainen riisi rusinoilla sekä paahdetut bataattilohkot",
+                  "meta": "VEG"
+                },
+                {
+                  "name": "Tarjolla myös paahdetulla chilillä maustettua kurpitsasosekeittoa",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Kahvin kanssa milktart – kanelilla maustettua maitotorttua",
+                  "meta": null
+                }
               ]
             }
           ],
@@ -194,16 +287,31 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Kievin kana (saa myös L,G, L)",
-                "– paahdettu valkosipulidippi ja sitruuna-persiljaperunat (L, G, VEG)",
-                "Japanilainen yakisoba-nuudeliwok rapealla possun kyljellä (M)",
-                "Kookoksella ja limellä maustettu porkkanasosekeitto (G, VEG)"
+                {
+                  "name": "Kievin kana",
+                  "meta": "saa myös L,G, L"
+                },
+                {
+                  "name": "– paahdettu valkosipulidippi ja sitruuna-persiljaperunat",
+                  "meta": "L, G, VEG"
+                },
+                {
+                  "name": "Japanilainen yakisoba-nuudeliwok rapealla possun kyljellä",
+                  "meta": "M"
+                },
+                {
+                  "name": "Kookoksella ja limellä maustettu porkkanasosekeitto",
+                  "meta": "G, VEG"
+                }
               ]
             },
             {
               "name": "Keittiöstä päivän vegaani",
               "dishes": [
-                "Yakisoba-nuudeliwok vegelastuilla (VEG)"
+                {
+                  "name": "Yakisoba-nuudeliwok vegelastuilla",
+                  "meta": "VEG"
+                }
               ]
             }
           ],
@@ -222,18 +330,39 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Rapea porsaanleike (M)",
-                "– sinappinen kurkkumajoneesi (M, G)",
-                "– uuniranskalaiset (G, VEG)",
-                "Havaijin huli huli kanapata (M, G)",
-                "Tikka masala-tuoretomaattikeitto paahdetuilla kikherneillä (G, VEG)",
-                "Kahvin kanssa vaahtokarkkimousse ja mustikkakastike (L, G)"
+                {
+                  "name": "Rapea porsaanleike",
+                  "meta": "M"
+                },
+                {
+                  "name": "– sinappinen kurkkumajoneesi",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "– uuniranskalaiset",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Havaijin huli huli kanapata",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Tikka masala-tuoretomaattikeitto paahdetuilla kikherneillä",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Kahvin kanssa vaahtokarkkimousse ja mustikkakastike",
+                  "meta": "L, G"
+                }
               ]
             },
             {
               "name": "Keittiöstä päivän vegaani",
               "dishes": [
-                "Seitanrulla (VEG)"
+                {
+                  "name": "Seitanrulla",
+                  "meta": "VEG"
+                }
               ]
             }
           ],
@@ -254,37 +383,85 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Kanaa paholaisenkastikkeessa",
-                "Cheddar-uunimakkaraa",
-                "Musta dal makhani – linssipataa",
-                "Riisiä",
-                "Currypaahdettua kukkakaalia",
-                "Kuningatarrahkaa"
+                {
+                  "name": "Kanaa paholaisenkastikkeessa",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Cheddar-uunimakkaraa",
+                  "meta": "VL, G"
+                },
+                {
+                  "name": "Musta dal makhani – linssipataa",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Riisiä",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Currypaahdettua kukkakaalia",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Kuningatarrahkaa",
+                  "meta": "L, G"
+                }
               ]
             },
             {
               "name": "Grilliannos",
               "dishes": [
-                "Kirjolohi remouladekastikkeella",
-                "Paahdettua kukka- ja parsakaalia",
-                "Maalaisranskalaiset"
+                {
+                  "name": "Kirjolohi remouladekastikkeella",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Paahdettua kukka- ja parsakaalia",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Maalaisranskalaiset",
+                  "meta": "L, M, G, VEG"
+                }
               ]
             },
             {
               "name": "Delilounas",
               "dishes": [
-                "Tomaatti-mozzarellakeittoa",
-                "Mausteisia kanansiipiä",
-                "Peruna-pinaatti-oliivimunakasta",
-                "Aurinkokuivattu tomaatti-pastasalaatti",
-                "Kreikkalainen salaatti"
+                {
+                  "name": "Tomaatti-mozzarellakeittoa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Mausteisia kanansiipiä",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Peruna-pinaatti-oliivimunakasta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Aurinkokuivattu tomaatti-pastasalaatti",
+                  "meta": "L"
+                },
+                {
+                  "name": "Kreikkalainen salaatti",
+                  "meta": "L, G"
+                }
               ]
             },
             {
               "name": "Pizzalounas",
               "dishes": [
-                "Pepperonipizzaa",
-                "Vihreäsalaatti"
+                {
+                  "name": "Pepperonipizzaa",
+                  "meta": "L"
+                },
+                {
+                  "name": "Vihreäsalaatti",
+                  "meta": "L, M, G, VEG"
+                }
               ]
             }
           ],
@@ -297,38 +474,89 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Antellin lasagnea",
-                "Chicken madras – mausteista intialaista kanacurrya",
-                "Herne-mantelipastaa",
-                "Grilliperunoita",
-                "Paahdettua palsternakkaa",
-                "Yrtti-jogurttikastiketta",
-                "Porkkanapiirakkaa"
+                {
+                  "name": "Antellin lasagnea",
+                  "meta": "L"
+                },
+                {
+                  "name": "Chicken madras – mausteista intialaista kanacurrya",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Herne-mantelipastaa",
+                  "meta": "L"
+                },
+                {
+                  "name": "Grilliperunoita",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Paahdettua palsternakkaa",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Yrtti-jogurttikastiketta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Porkkanapiirakkaa",
+                  "meta": "L"
+                }
               ]
             },
             {
               "name": "Grilliannos",
               "dishes": [
-                "Lehtipihvi ranskalaisilla",
-                "Vihreä tankoparsa"
+                {
+                  "name": "Lehtipihvi ranskalaisilla",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Vihreä tankoparsa",
+                  "meta": "L, M, G, VEG"
+                }
               ]
             },
             {
               "name": "Delilounas",
               "dishes": [
-                "Kanakeittoa",
-                "Mustamakkaraa",
-                "Kaura-punajuuripyöryköitä",
-                "Aioli-katkarapuja",
-                "Caesar-salaattia"
+                {
+                  "name": "Kanakeittoa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Mustamakkaraa",
+                  "meta": "L, M"
+                },
+                {
+                  "name": "Kaura-punajuuripyöryköitä",
+                  "meta": "L, M, VEG"
+                },
+                {
+                  "name": "Aioli-katkarapuja",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Caesar-salaattia",
+                  "meta": "L"
+                }
               ]
             },
             {
               "name": "Pizzalounas",
               "dishes": [
-                "Margherita-pizzaa",
-                "Vihreäsalaatti",
-                "Kinkku-ananas-aurajuustopizzaa"
+                {
+                  "name": "Margherita-pizzaa",
+                  "meta": "VL"
+                },
+                {
+                  "name": "Vihreäsalaatti",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Kinkku-ananas-aurajuustopizzaa",
+                  "meta": "L"
+                }
               ]
             }
           ],
@@ -341,38 +569,89 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Ylikypsää possua ramenliemessä",
-                "Maissipaneroitua kanaa",
-                "Itte tehtyjä punajuuriohukaisia",
-                "Perunamuusia",
-                "Uunijuureksia",
-                "Chili-limejugurttia"
+                {
+                  "name": "Ylikypsää possua ramenliemessä",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Maissipaneroitua kanaa",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Itte tehtyjä punajuuriohukaisia",
+                  "meta": "L"
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Uunijuureksia",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Chili-limejugurttia",
+                  "meta": "L, G"
+                }
               ]
             },
             {
               "name": "Grilliannos",
               "dishes": [
-                "Smash-burger",
-                "Ranskalaisia perunoita"
+                {
+                  "name": "Smash-burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Ranskalaisia perunoita",
+                  "meta": "L, M, G, VEG"
+                }
               ]
             },
             {
               "name": "Delilounas",
               "dishes": [
-                "Itämaista lohikeittoa",
-                "Pulled pork",
-                "BBQ-majoneesia",
-                "Täytettyjä paprikoita",
-                "Maalaisperunasalaattia",
-                "Katkarapu-caesarsalaatti"
+                {
+                  "name": "Itämaista lohikeittoa",
+                  "meta": "L, M"
+                },
+                {
+                  "name": "Pulled pork",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "BBQ-majoneesia",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Täytettyjä paprikoita",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Maalaisperunasalaattia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Katkarapu-caesarsalaatti",
+                  "meta": "L"
+                }
               ]
             },
             {
               "name": "Pizzalounas",
               "dishes": [
-                "Pepperonipizzaa",
-                "Margherita-pizzaa",
-                "Vihreäsalaatti"
+                {
+                  "name": "Pepperoni-jalopenopizza",
+                  "meta": "L"
+                },
+                {
+                  "name": "Margherita-pizzaa",
+                  "meta": "VL"
+                },
+                {
+                  "name": "Vihreäsalaatti",
+                  "meta": "L, M, G, VEG"
+                }
               ]
             }
           ],
@@ -405,16 +684,31 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Paneroitua porsaanleikettä (suomalaista possua, M)",
-                "Chimichurri Majoneesi (M, G)",
-                "Jauheliha-kaalikääryleitä & puolukkahillo (suomalaista possua ja nautaa, M, G)",
-                "Juures perunamuusia (L, G)"
+                {
+                  "name": "Paneroitua porsaanleikettä",
+                  "meta": "suomalaista possua, M"
+                },
+                {
+                  "name": "Chimichurri Majoneesi",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Jauheliha-kaalikääryleitä & puolukkahillo",
+                  "meta": "suomalaista possua ja nautaa, M, G"
+                },
+                {
+                  "name": "Juures perunamuusia",
+                  "meta": "L, G"
+                }
               ]
             },
             {
               "name": "Annosruoka",
               "dishes": [
-                "Paprika burger Halloumi salaatti (L, G)"
+                {
+                  "name": "Paprika burger Halloumi salaatti",
+                  "meta": "L, G"
+                }
               ]
             }
           ],
@@ -427,15 +721,27 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Jauhelihapihvejä talon pippuri-kermakastikkeessa (suomalaista nautaa ja possua, L, G)",
-                "Paneroitua kalaa",
-                "Perunamuusia (L, G)"
+                {
+                  "name": "Jauhelihapihvejä talon pippuri-kermakastikkeessa",
+                  "meta": "suomalaista nautaa ja possua, L, G"
+                },
+                {
+                  "name": "Paneroitua kalaa",
+                  "meta": null
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                }
               ]
             },
             {
               "name": "Annosruoka",
               "dishes": [
-                "Yrttibroileri burger Vuohenjuusto poke (L, G)"
+                {
+                  "name": "Yrttibroileri burger Vuohenjuusto poke",
+                  "meta": "L, G"
+                }
               ]
             }
           ],
@@ -448,16 +754,31 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Possun sisäfileetä hunaja-sinappi kastikkeessa (suomalaista possua, L, G)",
-                "Bearnaise kanaa (suomalaista broileria, VL, G)",
-                "Paahdettua perunaa (M, G)",
-                "Riisiä (M, G)"
+                {
+                  "name": "Possun sisäfileetä hunaja-sinappi kastikkeessa",
+                  "meta": "suomalaista possua, L, G"
+                },
+                {
+                  "name": "Bearnaise kanaa",
+                  "meta": "suomalaista broileria, VL, G"
+                },
+                {
+                  "name": "Paahdettua perunaa",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Riisiä",
+                  "meta": "M, G"
+                }
               ]
             },
             {
               "name": "Annosruoka",
               "dishes": [
-                "Halloumi burger Burger salaatti (L, G)"
+                {
+                  "name": "Halloumi burger Burger salaatti",
+                  "meta": "L, G"
+                }
               ]
             }
           ],
@@ -470,15 +791,27 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Crispy chicken (suomalaista broileria, M)",
-                "Caffitellan Chorizopyörykät (L, G)",
-                "Juustoinen kermaperuna (L, G)"
+                {
+                  "name": "Crispy chicken",
+                  "meta": "suomalaista broileria, M"
+                },
+                {
+                  "name": "Caffitellan Chorizopyörykät",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Juustoinen kermaperuna",
+                  "meta": "L, G"
+                }
               ]
             },
             {
               "name": "Annosruoka",
               "dishes": [
-                "Pulled Pork fries & fries Paneroitu broileri poke (L, G)"
+                {
+                  "name": "Pulled Pork fries & fries Paneroitu broileri poke",
+                  "meta": "L, G"
+                }
               ]
             }
           ],
@@ -491,14 +824,23 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Caffitellan Jauhelihalasagnea (suomalaista nautaa ja possua, L)",
-                "Broileria & kasviksia (suomalaista broileria, M, G)"
+                {
+                  "name": "Caffitellan Jauhelihalasagnea",
+                  "meta": "suomalaista nautaa ja possua, L"
+                },
+                {
+                  "name": "Broileria & kasviksia",
+                  "meta": "suomalaista broileria, M, G"
+                }
               ]
             },
             {
               "name": "Annosruoka",
               "dishes": [
-                "Kanaburger (L)"
+                {
+                  "name": "Kanaburger",
+                  "meta": "L"
+                }
               ]
             }
           ],
@@ -519,10 +861,22 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Kievinkana ja mangomajoneesi, ranskalaiset (L)",
-                "Kebabpasta (L)",
-                "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                "Mustikkarahka (L, G)"
+                {
+                  "name": "Kievinkana ja mangomajoneesi, ranskalaiset",
+                  "meta": "L"
+                },
+                {
+                  "name": "Kebabpasta",
+                  "meta": "L"
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": null
+                },
+                {
+                  "name": "Mustikkarahka",
+                  "meta": "L, G"
+                }
               ]
             }
           ],
@@ -535,10 +889,22 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Broileria teriyakikastikkeella, riisi (L)",
-                "Lohikiusaus (L, G)",
-                "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                "Omenapiirakka ja vaniljakastike (L)"
+                {
+                  "name": "Broileria teriyakikastikkeella, riisi",
+                  "meta": "L"
+                },
+                {
+                  "name": "Lohikiusaus",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": null
+                },
+                {
+                  "name": "Omenapiirakka ja vaniljakastike",
+                  "meta": "L"
+                }
               ]
             }
           ],
@@ -551,10 +917,22 @@
             {
               "name": "Lounas",
               "dishes": [
-                "Karjalanpaisti, muusi (L, G)",
-                "Kalapuikot kermaviilikastikkeella (L)",
-                "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                "Suklaa-dominomousse (L)"
+                {
+                  "name": "Karjalanpaisti, muusi",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kalapuikot kermaviilikastikkeella",
+                  "meta": "L"
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": null
+                },
+                {
+                  "name": "Suklaa-dominomousse",
+                  "meta": "L"
+                }
               ]
             }
           ],
@@ -567,10 +945,22 @@
             {
               "name": "Lounas",
               "dishes": [
-                "All you can eat! -siipipäiviä",
-                "Tusinatorstaisin Hervannan Speakeasy viettää",
-                "All you can eat! -siipipäiviä klo 12 alkaen aina iltaan asti",
-                "0,5l limsan kanssa 20€"
+                {
+                  "name": "All you can eat! -siipipäiviä",
+                  "meta": null
+                },
+                {
+                  "name": "Tusinatorstaisin Hervannan Speakeasy viettää",
+                  "meta": null
+                },
+                {
+                  "name": "All you can eat! -siipipäiviä klo 12 alkaen aina iltaan asti",
+                  "meta": null
+                },
+                {
+                  "name": "0,5l limsan kanssa 20€",
+                  "meta": null
+                }
               ]
             }
           ],
@@ -583,12 +973,30 @@
             {
               "name": "Lounas",
               "dishes": [
-                "SPEAKEASYN BURGERBUFFET (L)",
-                "Talon naudanlihapihvejä ja paneroitua kanaa",
-                "Maalaisranskalaisia ja olutpaneroituja sipulirenkaita",
-                "Speakeasyn original wingsejä eri kastikevahvuuksilla(l",
-                "Mansikkapirtelö",
-                " (L, G)"
+                {
+                  "name": "SPEAKEASYN BURGERBUFFET",
+                  "meta": "L"
+                },
+                {
+                  "name": "Talon naudanlihapihvejä ja paneroitua kanaa",
+                  "meta": null
+                },
+                {
+                  "name": "Maalaisranskalaisia ja olutpaneroituja sipulirenkaita",
+                  "meta": null
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla(l",
+                  "meta": null
+                },
+                {
+                  "name": "Mansikkapirtelö",
+                  "meta": null
+                },
+                {
+                  "name": "",
+                  "meta": "L, G"
+                }
               ]
             }
           ],
