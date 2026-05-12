@@ -41,9 +41,15 @@ LOUNAS_LABEL = "Lounas"
 class Section:
     """A sub-list of dishes within a day. Used when a restaurant offers multiple
     distinct menus per day (e.g. Antell: buffet / grill / deli / pizza; Linkosuo:
-    main lunch / keitto / chef's menu / vegaani)."""
+    main lunch / keitto / chef's menu / vegaani).
+
+    ``price`` is best-effort metadata; renders dimmed next to the section
+    heading when present. (Hours live on Restaurant since they're typically
+    the same for every section.)
+    """
     name: str | None = None
     dishes: list[str] = field(default_factory=list)
+    price: str | None = None  # e.g. "13,80 €"
 
 
 @dataclass
@@ -60,6 +66,7 @@ class Restaurant:
     name: str
     url: str
     days: list[Day] = field(default_factory=list)
+    hours: str | None = None  # daily lunch hours, e.g. "10:30–13:00"
     error: str | None = None
 
     def to_dict(self) -> dict:
@@ -196,6 +203,71 @@ def normalize_dish(s: str) -> dict:
     if m:
         return {"name": m.group(1).strip(), "meta": m.group(2).strip()}
     return {"name": s.strip(), "meta": None}
+
+
+_HOURS_RE = re.compile(r"(\d{1,2})[\.:]?(\d{0,2})\s*[-–]\s*(\d{1,2})[\.:]?(\d{0,2})")
+_DIGIT_SPLIT_RE = re.compile(r"(?<=\d)\s+(?=\d)")
+_TIME_RANGE = r"(\d{1,2}[\.:]?\d{0,2}\s*[-–]\s*\d{1,2}[\.:]?\d{0,2})"
+# Try most specific first — "lounas ... klo TIME" — so a page with both an
+# unrelated earlier "klo" (e.g. breakfast hours) and a real "lounas klo" line
+# still picks the lunch range. Fall back to "klo TIME" then "lounas ... TIME".
+_LOUNAS_KLO_HOURS_RE = re.compile(
+    rf"lounas\b[^.]{{0,80}}?\bk\s*lo\b\s+{_TIME_RANGE}",
+    re.IGNORECASE | re.DOTALL,
+)
+_KLO_HOURS_RE = re.compile(rf"\bk\s*lo\b\s+{_TIME_RANGE}", re.IGNORECASE)
+_LOUNAS_HOURS_RE = re.compile(rf"lounas\b[^.]{{0,80}}?{_TIME_RANGE}", re.IGNORECASE | re.DOTALL)
+_PRICE_NUM_RE = re.compile(r"(\d+)[,.](\d{1,2})")
+_LUNCH_PRICE_RE = re.compile(r"lounas[^.]{0,40}?(\d+[,.]\d+)\s*€", re.IGNORECASE)
+
+
+def normalize_hours(s: str | None) -> str | None:
+    """Normalise a time range to ``HH:MM–HH:MM`` (en-dash). Accepts the many
+    formats Finnish lunch pages use: ``"10.30-14"``, ``"8:30 – 13.00"``,
+    ``"10:30-13:30"``. Returns None if no plausible range is found."""
+    if not s:
+        return None
+    m = _HOURS_RE.search(s)
+    if not m:
+        return None
+    h1, mm1, h2, mm2 = m.groups()
+    return f"{int(h1):02d}:{(mm1 or '00').ljust(2, '0')}–{int(h2):02d}:{(mm2 or '00').ljust(2, '0')}"
+
+
+def normalize_price(s: str | None) -> str | None:
+    """Return a price string in canonical ``"X,XX €"`` form (Finnish comma
+    decimal, single space, trailing euro sign), or None if no price found."""
+    if not s:
+        return None
+    m = _PRICE_NUM_RE.search(s)
+    if not m:
+        return None
+    return f"{m.group(1)},{m.group(2).ljust(2, '0')} €"
+
+
+def extract_lunch_hours(text: str | None) -> str | None:
+    """Find a time range near 'klo' or 'lounas' in `text` and normalise it.
+
+    Pre-collapses single-whitespace between digits so pages whose markup
+    splits numbers across spans (e.g. Speakeasy's ``"1 4.30"``) still match.
+    """
+    if not text:
+        return None
+    text = _DIGIT_SPLIT_RE.sub("", text)
+    m = (
+        _LOUNAS_KLO_HOURS_RE.search(text)
+        or _KLO_HOURS_RE.search(text)
+        or _LOUNAS_HOURS_RE.search(text)
+    )
+    return normalize_hours(m.group(1)) if m else None
+
+
+def extract_lunch_price(text: str | None) -> str | None:
+    """Find a buffet/lunch price near 'lounas' in `text` and normalise it."""
+    if not text:
+        return None
+    m = _LUNCH_PRICE_RE.search(text)
+    return normalize_price(m.group(1)) if m else None
 
 
 def normalize_note(s: str | None) -> str | None:

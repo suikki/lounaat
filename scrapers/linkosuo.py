@@ -18,7 +18,8 @@ from datetime import date
 
 from .common import (
     Day, Restaurant, Section, FI_WEEKDAYS, LOUNAS_LABEL,
-    fetch, soup, clean_text, weekday_index_from_text,
+    fetch, soup, clean_text, extract_lunch_hours, extract_lunch_price,
+    weekday_index_from_text,
 )
 
 
@@ -46,8 +47,11 @@ def _categorize(line: str) -> tuple[str, str]:
     return LOUNAS_LABEL, line
 
 
-def _parse(html: str) -> list[Day]:
+def _parse(html: str) -> tuple[list[Day], str | None]:
     s = soup(html)
+    text = clean_text(s.get_text(" "))
+    hours = extract_lunch_hours(text)
+    buffet_price = extract_lunch_price(text)
     dl = s.find("dl", class_="week-lunch") or s.find(id="current-week-lunch") or s
     days: list[Day] = []
     dts = dl.find_all("dt") if dl else []
@@ -95,16 +99,21 @@ def _parse(html: str) -> list[Day]:
                     sections_map.setdefault(sec_name, []).append(dish)
 
         ordered = [
-            Section(name=key, dishes=sections_map[key])
+            Section(
+                name=key,
+                dishes=sections_map[key],
+                price=buffet_price if key == LOUNAS_LABEL else None,
+            )
             for key in SECTION_ORDER if key in sections_map
         ]
         days.append(Day(date=d_iso, weekday=weekday_name, sections=ordered, note=note))
 
-    return days
+    return days, hours
 
 
 def _scrape_one(key: str, name: str, url: str) -> Restaurant:
-    return Restaurant(key=key, name=name, url=url, days=_parse(fetch(url)))
+    days, hours = _parse(fetch(url))
+    return Restaurant(key=key, name=name, url=url, days=days, hours=hours)
 
 
 def scrape_hertta() -> Restaurant:

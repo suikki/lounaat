@@ -88,6 +88,13 @@ function appendBanner(parent, cls, text) {
   parent.appendChild(b);
 }
 
+function appendBadge(parent, cls, text) {
+  const s = document.createElement('span');
+  s.className = cls;
+  s.textContent = text;
+  parent.appendChild(s);
+}
+
 function appendHeading(parent, restaurant) {
   const h2 = document.createElement('h2');
   if (restaurant.url) {
@@ -100,6 +107,7 @@ function appendHeading(parent, restaurant) {
   } else {
     h2.textContent = restaurant.name;
   }
+  if (restaurant.hours) appendBadge(h2, 'card-hours', restaurant.hours);
   parent.appendChild(h2);
 }
 
@@ -110,6 +118,7 @@ function renderSection(sec) {
     const h = document.createElement('h3');
     h.className = 'section-name';
     h.textContent = sec.name;
+    if (sec.price) appendBadge(h, 'section-meta', sec.price);
     wrap.appendChild(h);
   }
   const ul = document.createElement('ul');

@@ -111,12 +111,22 @@ main {
   font-size: 1.15rem;
   font-weight: 700;
   color: var(--accent);
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
 }
 .card h2 a {
   color: inherit;
   text-decoration: none;
 }
 .card h2 a:hover { text-decoration: underline; }
+.card-hours {
+  margin-left: auto;
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 0.75rem;
+  opacity: 0.6;
+}
 .card .addr { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
 .section {
   background: rgba(0, 0, 0, 0.035);
@@ -137,6 +147,16 @@ main {
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--muted);
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.section-meta {
+  margin-left: auto;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: 400;
+  opacity: 0.6;
 }
 
 .dishes {
@@ -151,7 +171,7 @@ main {
 .dishes li:last-child { border-bottom: 0; }
 .dish-meta {
   color: var(--muted);
-  opacity: 0.7;
+  opacity: 0.6;
   font-size: 0.82em;
 }
 

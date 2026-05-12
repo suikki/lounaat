@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T19:20:47Z",
+  "generated_at": "2026-05-12T20:00:21Z",
   "iso_week": 20,
   "restaurants": [
     {
@@ -22,7 +22,8 @@
                   "name": "Broileria Tikka masala & riisiä",
                   "meta": "M, G"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Keitto",
@@ -31,7 +32,8 @@
                   "name": "Parsakaalisosekeitto",
                   "meta": "M, G, VEG"
                 }
-              ]
+              ],
+              "price": null
             },
             {
               "name": "Chef's menu",
@@ -40,7 +42,8 @@
                   "name": "Lohimurekepihvit Hollandaisekastikkeella",
                   "meta": "maito, kaura, selleri, kananmuna"
                 }
-              ]
+              ],
+              "price": null
             },
             {
               "name": "Keittiöstä päivän vegaani",
@@ -49,7 +52,8 @@
                   "name": "Tofua Tikka masala",
                   "meta": null
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -69,7 +73,8 @@
                   "name": "Shahi paneer halloumijuustolla",
                   "meta": "maito, L, G"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Keitto",
@@ -78,7 +83,8 @@
                   "name": "Paahdettu paprika-tomaattikeitto",
                   "meta": "M, G"
                 }
-              ]
+              ],
+              "price": null
             },
             {
               "name": "Jälkiruoka",
@@ -87,7 +93,8 @@
                   "name": "raikas hedelmäsalaatti",
                   "meta": "M, G, VEG"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -111,7 +118,8 @@
                   "name": "hertan pinaattiletut",
                   "meta": null
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Keitto",
@@ -120,7 +128,8 @@
                   "name": "Tomaattinen katkarapukeitto",
                   "meta": null
                 }
-              ]
+              ],
+              "price": null
             },
             {
               "name": "Chef's menu",
@@ -129,7 +138,8 @@
                   "name": "Rapeita kanan boneless wingsejä Texas Pete kastikkeella, ranskalaiset, sinihomejuustodippiä ja dippikasviksia",
                   "meta": null
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -159,7 +169,8 @@
                   "name": "Kaalikääryleitä & puolukkaa",
                   "meta": null
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Keitto",
@@ -168,7 +179,8 @@
                   "name": "Kasvissosekeitto",
                   "meta": null
                 }
-              ]
+              ],
+              "price": null
             },
             {
               "name": "Chef's menu",
@@ -177,7 +189,8 @@
                   "name": "Lohi-caesar salaatti paistetulla parsalla & lehtikaalilla",
                   "meta": null
                 }
-              ]
+              ],
+              "price": null
             },
             {
               "name": "Jälkiruoka",
@@ -186,12 +199,14 @@
                   "name": "uuniomena rahkaa",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
         }
       ],
+      "hours": "10:30–13:30",
       "error": null
     },
     {
@@ -222,7 +237,8 @@
                   "name": "Vihreä kalakeitto",
                   "meta": "M, G"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Keittiöstä päivän vegaani",
@@ -231,7 +247,8 @@
                   "name": "Punajuuritagliatellea voipavuilla ja pestolla",
                   "meta": "VEG"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -275,7 +292,8 @@
                   "name": "Kahvin kanssa milktart – kanelilla maustettua maitotorttua",
                   "meta": null
                 }
-              ]
+              ],
+              "price": "13,80 €"
             }
           ],
           "note": null
@@ -303,7 +321,8 @@
                   "name": "Kookoksella ja limellä maustettu porkkanasosekeitto",
                   "meta": "G, VEG"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Keittiöstä päivän vegaani",
@@ -312,7 +331,8 @@
                   "name": "Yakisoba-nuudeliwok vegelastuilla",
                   "meta": "VEG"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -354,7 +374,8 @@
                   "name": "Kahvin kanssa vaahtokarkkimousse ja mustikkakastike",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Keittiöstä päivän vegaani",
@@ -363,12 +384,14 @@
                   "name": "Seitanrulla",
                   "meta": "VEG"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
         }
       ],
+      "hours": "10:30–13:45",
       "error": null
     },
     {
@@ -407,7 +430,8 @@
                   "name": "Kuningatarrahkaa",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Grilliannos",
@@ -424,7 +448,8 @@
                   "name": "Maalaisranskalaiset",
                   "meta": "L, M, G, VEG"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Delilounas",
@@ -449,7 +474,8 @@
                   "name": "Kreikkalainen salaatti",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Pizzalounas",
@@ -462,7 +488,8 @@
                   "name": "Vihreäsalaatti",
                   "meta": "L, M, G, VEG"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             }
           ],
           "note": null
@@ -502,7 +529,8 @@
                   "name": "Porkkanapiirakkaa",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Grilliannos",
@@ -515,7 +543,8 @@
                   "name": "Vihreä tankoparsa",
                   "meta": "L, M, G, VEG"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Delilounas",
@@ -540,7 +569,8 @@
                   "name": "Caesar-salaattia",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Pizzalounas",
@@ -557,7 +587,8 @@
                   "name": "Kinkku-ananas-aurajuustopizzaa",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             }
           ],
           "note": null
@@ -593,7 +624,8 @@
                   "name": "Chili-limejugurttia",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Grilliannos",
@@ -606,7 +638,8 @@
                   "name": "Ranskalaisia perunoita",
                   "meta": "L, M, G, VEG"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Delilounas",
@@ -635,7 +668,8 @@
                   "name": "Katkarapu-caesarsalaatti",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             },
             {
               "name": "Pizzalounas",
@@ -652,7 +686,8 @@
                   "name": "Vihreäsalaatti",
                   "meta": "L, M, G, VEG"
                 }
-              ]
+              ],
+              "price": "13,80 €"
             }
           ],
           "note": null
@@ -670,6 +705,7 @@
           "note": "Ei lounaslistaa saatavilla"
         }
       ],
+      "hours": "10:30–13:00",
       "error": null
     },
     {
@@ -700,7 +736,8 @@
                   "name": "Juures perunamuusia",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "11,90 €"
             },
             {
               "name": "Annosruoka",
@@ -713,7 +750,8 @@
                   "name": "Halloumi salaatti",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -737,7 +775,8 @@
                   "name": "Perunamuusia",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "11,90 €"
             },
             {
               "name": "Annosruoka",
@@ -750,7 +789,8 @@
                   "name": "Vuohenjuusto poke",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -778,7 +818,8 @@
                   "name": "Riisiä",
                   "meta": "M, G"
                 }
-              ]
+              ],
+              "price": "11,90 €"
             },
             {
               "name": "Annosruoka",
@@ -791,7 +832,8 @@
                   "name": "Burger salaatti",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -815,7 +857,8 @@
                   "name": "Juustoinen kermaperuna",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "11,90 €"
             },
             {
               "name": "Annosruoka",
@@ -828,7 +871,8 @@
                   "name": "Paneroitu broileri poke",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -848,7 +892,8 @@
                   "name": "Broileria & kasviksia",
                   "meta": "suomalaista broileria, M, G"
                 }
-              ]
+              ],
+              "price": "11,90 €"
             },
             {
               "name": "Annosruoka",
@@ -857,12 +902,14 @@
                   "name": "Kanaburger",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": null
             }
           ],
           "note": null
         }
       ],
+      "hours": "10:30–14:00",
       "error": null
     },
     {
@@ -893,7 +940,8 @@
                   "name": "Mustikkarahka",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "14,00 €"
             }
           ],
           "note": null
@@ -921,7 +969,8 @@
                   "name": "Omenapiirakka ja vaniljakastike",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": "14,00 €"
             }
           ],
           "note": null
@@ -949,7 +998,8 @@
                   "name": "Suklaa-dominomousse",
                   "meta": "L"
                 }
-              ]
+              ],
+              "price": "14,00 €"
             }
           ],
           "note": null
@@ -977,7 +1027,8 @@
                   "name": "0,5l limsan kanssa 20€",
                   "meta": null
                 }
-              ]
+              ],
+              "price": "14,00 €"
             }
           ],
           "note": null
@@ -1013,12 +1064,14 @@
                   "name": "",
                   "meta": "L, G"
                 }
-              ]
+              ],
+              "price": "14,00 €"
             }
           ],
           "note": null
         }
       ],
+      "hours": "10:30–14:30",
       "error": null
     }
   ]

@@ -20,7 +20,7 @@ import re
 
 from .common import (
     Day, Restaurant, Section, FI_WEEKDAYS, LOUNAS_LABEL,
-    fetch, soup, clean_text, week_dates,
+    fetch, soup, clean_text, extract_lunch_hours, normalize_price, week_dates,
 )
 
 
@@ -68,13 +68,18 @@ def _collect_dishes(scope) -> list[str]:
 
 def _parse_specials(div) -> list[Section]:
     """Walk a tabpanel__specials block in document order, grouping accordion
-    buttons under each non-price <h5> heading."""
+    buttons under each non-price <h5> heading. A second <h5> after the section
+    name carries the price (e.g. "13,80 €")."""
     sections: list[Section] = []
     current: Section | None = None
     for el in div.find_all(["h5", "button"]):
         if el.name == "h5":
             txt = clean_text(el.get_text(" "))
-            if not txt or PRICE_RE.match(txt):
+            if not txt:
+                continue
+            if PRICE_RE.match(txt):
+                if current is not None and current.price is None:
+                    current.price = normalize_price(txt)
                 continue
             current = Section(name=txt, dishes=[])
             sections.append(current)
@@ -87,7 +92,17 @@ def _parse_specials(div) -> list[Section]:
     return [s for s in sections if s.dishes]
 
 
-def _parse(html: str) -> list[Day]:
+def _buffet_price(div) -> str | None:
+    el = div.find("div", class_="tabpanel__header__price")
+    return normalize_price(el.get_text(" ")) if el else None
+
+
+def _lunch_hours(soup_root) -> str | None:
+    entry = soup_root.find("div", class_="entry-content")
+    return extract_lunch_hours(entry.get_text(" ")) if entry else None
+
+
+def _parse(html: str) -> tuple[list[Day], str | None]:
     s = soup(html)
     dates = week_dates()
     out: list[Day] = []
@@ -97,7 +112,6 @@ def _parse(html: str) -> list[Day]:
         note = None
 
         if section is not None:
-            # "No menu available" note
             for h in section.find_all("h5"):
                 txt = clean_text(h.get_text(" "))
                 if txt and "ei lounaslistaa" in txt.lower():
@@ -108,7 +122,10 @@ def _parse(html: str) -> list[Day]:
             if buffet_div is not None:
                 dishes = _collect_dishes(buffet_div)
                 if dishes:
-                    sections.append(Section(name=LOUNAS_LABEL, dishes=dishes))
+                    sections.append(Section(
+                        name=LOUNAS_LABEL, dishes=dishes,
+                        price=_buffet_price(buffet_div),
+                    ))
 
             specials_div = section.find("div", class_="tabpanel__specials")
             if specials_div is not None:
@@ -120,14 +137,16 @@ def _parse(html: str) -> list[Day]:
             sections=sections,
             note=note,
         ))
-    return out
+    return out, _lunch_hours(s)
 
 
 def scrape() -> Restaurant:
     url = "https://antell.fi/lounas/tampere/hermianfarmi/"
+    days, hours = _parse(fetch(url))
     return Restaurant(
         key="antell_hermianfarmi",
         name="Antell Hermianfarmi",
         url=url,
-        days=_parse(fetch(url)),
+        days=days,
+        hours=hours,
     )

@@ -12,7 +12,7 @@ from datetime import date
 
 from .common import (
     Day, Restaurant, Section, FI_WEEKDAYS, FI_WEEKDAY_ALIASES, LOUNAS_LABEL,
-    fetch, soup, clean_text, week_dates,
+    fetch, soup, clean_text, extract_lunch_hours, extract_lunch_price, week_dates,
 )
 
 
@@ -30,21 +30,23 @@ LEGEND_RE = re.compile(r"^[lgmv]\s*=", re.IGNORECASE)
 FOOTER_MARKERS = {"menu", "takeaway", "kanta-asiakkaat", "olemme avoinna", "opening hours"}
 
 
-def _extract_lines(html: str) -> list[str]:
-    s = soup(html)
-    # Restrict to the main content if available
+def _extract_lines(s) -> list[str]:
+    """Return non-empty cleaned text lines from `s` (a BeautifulSoup root)."""
     content = s.find("article") or s.find("main") or s
-    # Replace <br> with newlines
     for br in content.find_all("br"):
         br.replace_with("\n")
-    # Replace block elements with newline-separated text
     text = content.get_text("\n")
     lines = [clean_text(line) for line in text.split("\n")]
     return [l for l in lines if l]
 
 
-def _parse(html: str) -> list[Day]:
-    lines = _extract_lines(html)
+def _parse(html: str) -> tuple[list[Day], str | None]:
+    s = soup(html)
+    page_text = clean_text(s.get_text(" "))
+    hours = extract_lunch_hours(page_text)
+    price = extract_lunch_price(page_text)
+
+    lines = _extract_lines(s)
     days_map: dict[int, list[str]] = {}
     date_map: dict[int, str] = {}
     current: int | None = None
@@ -89,16 +91,18 @@ def _parse(html: str) -> list[Day]:
     for i in range(5):
         d_iso = date_map.get(i, dates[i].isoformat())
         items = days_map.get(i, [])
-        sections = [Section(name=LOUNAS_LABEL, dishes=items)] if items else []
+        sections = [Section(name=LOUNAS_LABEL, dishes=items, price=price)] if items else []
         days.append(Day(date=d_iso, weekday=FI_WEEKDAYS[i], sections=sections))
-    return days
+    return days, hours
 
 
 def scrape() -> Restaurant:
     url = "https://www.speakeasy.fi/hervanta/lounas/"
+    days, hours = _parse(fetch(url))
     return Restaurant(
         key="speakeasy_hervanta",
         name="Speakeasy Hervanta",
         url=url,
-        days=_parse(fetch(url)),
+        days=days,
+        hours=hours,
     )

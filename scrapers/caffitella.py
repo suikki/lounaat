@@ -14,7 +14,8 @@ import re
 from .common import (
     Day, Restaurant, Section, FI_WEEKDAYS, LOUNAS_LABEL,
     WEEKDAY_HEADER_RE, WEEKEND_HEADER_RE,
-    fetch, soup, clean_text, week_dates, weekday_index_from_text,
+    fetch, soup, clean_text, extract_lunch_hours, extract_lunch_price,
+    week_dates, weekday_index_from_text,
 )
 
 
@@ -30,8 +31,7 @@ ANNOSRUOKA_NOTE_RE = re.compile(r"\(\s*annosruoka[^)]*\)\s*", re.IGNORECASE)
 # carries two parens (e.g. "Dish (M) (suomalaista possua)").
 ANNOSRUOKA_SPLIT_RE = re.compile(r"(?<=\))\s+(?=[^(])")
 
-
-def _parse(html: str) -> list[Day]:
+def _parse(html: str) -> tuple[list[Day], str | None]:
     s = soup(html)
 
     # Find the heading that mentions Duo Tampere, then walk forward and
@@ -42,6 +42,13 @@ def _parse(html: str) -> list[Day]:
         if "duo tampere" in txt.lower():
             target_heading = h
             break
+
+    # Restaurant-wide hours and price live in plain paragraphs near the top.
+    # Extract them from the full document — extract_lunch_* search for
+    # "klo"/"lounas" anchors so unrelated mentions elsewhere are ignored.
+    page_text = clean_text(s.get_text(" "))
+    hours = extract_lunch_hours(page_text)
+    price = extract_lunch_price(page_text)
 
     days_map: dict[int, list[str]] = {}
     annos_map: dict[int, list[str]] = {}
@@ -95,19 +102,21 @@ def _parse(html: str) -> list[Day]:
         sections: list[Section] = []
         main_items = days_map.get(i, [])
         if main_items:
-            sections.append(Section(name=LOUNAS_LABEL, dishes=main_items))
+            sections.append(Section(name=LOUNAS_LABEL, dishes=main_items, price=price))
         annos_items = annos_map.get(i, [])
         if annos_items:
             sections.append(Section(name="Annosruoka", dishes=annos_items))
         days.append(Day(date=dates[i].isoformat(), weekday=FI_WEEKDAYS[i], sections=sections))
-    return days
+    return days, hours
 
 
 def scrape() -> Restaurant:
     url = "https://www.caffitella.fi/lounaslista/"
+    days, hours = _parse(fetch(url))
     return Restaurant(
         key="caffitella_duo",
         name="Caffitella Duo Tampere",
         url=url,
-        days=_parse(fetch(url)),
+        days=days,
+        hours=hours,
     )
