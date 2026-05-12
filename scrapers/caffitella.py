@@ -23,6 +23,13 @@ from .common import (
 # note and put the dish in its own "Annosruoka" section.
 ANNOSRUOKA_NOTE_RE = re.compile(r"\(\s*annosruoka[^)]*\)\s*", re.IGNORECASE)
 
+# Caffitella often glues two Annosruoka dishes into one paragraph, separated
+# only by whitespace after the first dish's allergen paren — e.g.
+# "Yrttibroileri burger (L)  Vuohenjuusto poke (G,L)". Split on close-paren
+# + whitespace + non-paren so we don't accidentally split a single dish that
+# carries two parens (e.g. "Dish (M) (suomalaista possua)").
+ANNOSRUOKA_SPLIT_RE = re.compile(r"(?<=\))\s+(?=[^(])")
+
 
 def _parse(html: str) -> list[Day]:
     s = soup(html)
@@ -74,7 +81,11 @@ def _parse(html: str) -> list[Day]:
         if "annosruoka" in low:
             cleaned = clean_text(ANNOSRUOKA_NOTE_RE.sub("", text))
             if cleaned:
-                annos_map.setdefault(current_idx, []).append(cleaned)
+                bucket = annos_map.setdefault(current_idx, [])
+                for piece in ANNOSRUOKA_SPLIT_RE.split(cleaned):
+                    piece = piece.strip()
+                    if piece:
+                        bucket.append(piece)
             continue
         days_map[current_idx].append(text)
 

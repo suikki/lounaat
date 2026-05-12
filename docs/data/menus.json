@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T19:15:48Z",
+  "generated_at": "2026-05-12T19:20:47Z",
   "iso_week": 20,
   "restaurants": [
     {
@@ -706,7 +706,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Paprika burger Halloumi salaatti",
+                  "name": "Paprika burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Halloumi salaatti",
                   "meta": "L, G"
                 }
               ]
@@ -739,7 +743,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Yrttibroileri burger Vuohenjuusto poke",
+                  "name": "Yrttibroileri burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Vuohenjuusto poke",
                   "meta": "L, G"
                 }
               ]
@@ -776,7 +784,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Halloumi burger Burger salaatti",
+                  "name": "Halloumi burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Burger salaatti",
                   "meta": "L, G"
                 }
               ]
@@ -809,8 +821,12 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Pulled Pork fries & fries Paneroitu broileri poke",
+                  "name": "Pulled Pork fries & fries",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Paneroitu broileri poke",
+                  "meta": "L"
                 }
               ]
             }
