@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T20:00:21Z",
+  "generated_at": "2026-05-13T08:16:43Z",
   "iso_week": 20,
   "restaurants": [
     {
@@ -108,15 +108,15 @@
               "dishes": [
                 {
                   "name": "Mureaa puolukka-karamellipossua",
-                  "meta": null
+                  "meta": "sinappi, M, G"
                 },
                 {
                   "name": "– hölskyperunat tillillä ja smetanalla",
-                  "meta": null
+                  "meta": "amito, L, G"
                 },
                 {
-                  "name": "hertan pinaattiletut",
-                  "meta": null
+                  "name": "Hertan pinaattiletut L, KASVIS",
+                  "meta": "maito, vehnä, kananmuna"
                 }
               ],
               "price": "13,80 €"
@@ -126,7 +126,7 @@
               "dishes": [
                 {
                   "name": "Tomaattinen katkarapukeitto",
-                  "meta": null
+                  "meta": "kala, M, G"
                 }
               ],
               "price": null
@@ -136,6 +136,16 @@
               "dishes": [
                 {
                   "name": "Rapeita kanan boneless wingsejä Texas Pete kastikkeella, ranskalaiset, sinihomejuustodippiä ja dippikasviksia",
+                  "meta": "maito, L, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Kasvispihvit soijadipillä & ranskalaisia",
                   "meta": null
                 }
               ],
@@ -314,12 +324,16 @@
                   "meta": "L, G, VEG"
                 },
                 {
-                  "name": "Japanilainen yakisoba-nuudeliwok rapealla possun kyljellä",
-                  "meta": "M"
+                  "name": "Japanilaistyylinen yakisoba-nuudeliwok ylikypsällä possun kyljellä",
+                  "meta": "sis merilevä, M"
                 },
                 {
                   "name": "Kookoksella ja limellä maustettu porkkanasosekeitto",
                   "meta": "G, VEG"
+                },
+                {
+                  "name": "Kahvin kanssa ihana banaani-keksisuklaaherkku",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -657,7 +671,7 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Täytettyjä paprikoita",
+                  "name": "Hummuksella täytettyjä kesäkurpitsoja",
                   "meta": "L, M, G, VEG"
                 },
                 {
