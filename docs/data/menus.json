@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T08:16:43Z",
+  "generated_at": "2026-05-14T08:10:00Z",
   "iso_week": 20,
   "restaurants": [
     {
@@ -115,8 +115,8 @@
                   "meta": "amito, L, G"
                 },
                 {
-                  "name": "Hertan pinaattiletut L, KASVIS",
-                  "meta": "maito, vehnä, kananmuna"
+                  "name": "Kasvispihvejä",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -330,10 +330,6 @@
                 {
                   "name": "Kookoksella ja limellä maustettu porkkanasosekeitto",
                   "meta": "G, VEG"
-                },
-                {
-                  "name": "Kahvin kanssa ihana banaani-keksisuklaaherkku",
-                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -481,7 +477,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Aurinkokuivattu tomaatti-pastasalaatti",
+                  "name": "Pastasalaatti aurinkokuivatuilla tomaateilla",
                   "meta": "L"
                 },
                 {
