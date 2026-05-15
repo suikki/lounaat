@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T08:10:00Z",
+  "generated_at": "2026-05-15T08:22:48Z",
   "iso_week": 20,
   "restaurants": [
     {
@@ -168,16 +168,24 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Parmesan paneroitua broileria & appelsiinijogurttia",
-                  "meta": null
+                  "name": "Parmesan paneroitua broileria & appelsiini-jogurttia",
+                  "meta": "sis.maito,vehnä, VL"
                 },
                 {
                   "name": "– harissajuureksia & sitrus-timjami perunat",
-                  "meta": null
+                  "meta": "sis.selleri, M, G"
                 },
                 {
                   "name": "Kaalikääryleitä & puolukkaa",
-                  "meta": null
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Vegaani ruoka keittiöstä: Seitan kasvis stir fry VEG,",
+                  "meta": "sis. soija, vehnä, seesami"
+                },
+                {
+                  "name": "Saa vegaanisen uuniomena vaahdon Veg, G,",
+                  "meta": "Sis.soija"
                 }
               ],
               "price": "13,80 €"
@@ -187,7 +195,7 @@
               "dishes": [
                 {
                   "name": "Kasvissosekeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -197,7 +205,7 @@
               "dishes": [
                 {
                   "name": "Lohi-caesar salaatti paistetulla parsalla & lehtikaalilla",
-                  "meta": null
+                  "meta": "sis.kananmuna,maito,vehnä, L"
                 }
               ],
               "price": null
@@ -207,7 +215,7 @@
               "dishes": [
                 {
                   "name": "uuniomena rahkaa",
-                  "meta": "L, G"
+                  "meta": "sis.maito, L, G"
                 }
               ],
               "price": null
@@ -362,7 +370,7 @@
               "dishes": [
                 {
                   "name": "Rapea porsaanleike",
-                  "meta": "M"
+                  "meta": "saa myös possun fileepihviä M,G, M"
                 },
                 {
                   "name": "– sinappinen kurkkumajoneesi",
@@ -391,8 +399,8 @@
               "name": "Keittiöstä päivän vegaani",
               "dishes": [
                 {
-                  "name": "Seitanrulla",
-                  "meta": "VEG"
+                  "name": "Huli huli tofua",
+                  "meta": "G, VEG"
                 }
               ],
               "price": null
@@ -495,7 +503,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Vihreäsalaatti",
+                  "name": "Vihreä salaatti",
                   "meta": "L, M, G, VEG"
                 }
               ],
@@ -590,7 +598,7 @@
                   "meta": "VL"
                 },
                 {
-                  "name": "Vihreäsalaatti",
+                  "name": "Vihreä salaatti",
                   "meta": "L, M, G, VEG"
                 },
                 {
@@ -693,7 +701,7 @@
                   "meta": "VL"
                 },
                 {
-                  "name": "Vihreäsalaatti",
+                  "name": "Vihreä salaatti",
                   "meta": "L, M, G, VEG"
                 }
               ],
