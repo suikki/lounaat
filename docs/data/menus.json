@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T08:44:14Z",
+  "generated_at": "2026-05-20T08:41:11Z",
   "iso_week": 21,
   "restaurants": [
     {
@@ -110,11 +110,11 @@
               "dishes": [
                 {
                   "name": "Puna-ahventa mausteisessa harissakastikkeessa",
-                  "meta": "L, G"
+                  "meta": "maito, soija, L, G"
                 },
                 {
-                  "name": "Juustolla gratinoitu makkarapannu sekä perunamuusia",
-                  "meta": "L, G"
+                  "name": "Juustolla gratinoitu makkarapannu sekä perunamuusia (maito, sinappi) SAA",
+                  "meta": "L, M, G"
                 }
               ],
               "price": "13,80 €"
@@ -124,7 +124,7 @@
               "dishes": [
                 {
                   "name": "Inkiväärinen chilikeitto",
-                  "meta": "M, G"
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -133,8 +133,18 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Fetajuusto pinsa rucolalla ja kirsikkatomaateilla",
-                  "meta": "L"
+                  "name": "Fetajuusto pinsa rucolalla ja kirsikkatomaateilla L, KASVIS",
+                  "meta": "maito, vehnä, soija"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Vegaaninen pinsa",
+                  "meta": "vehnä, soija, M, VEG"
                 }
               ],
               "price": null
@@ -323,16 +333,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Possua crying tiger",
-                  "meta": "M, G"
-                },
-                {
-                  "name": "(sis. osterikastike)",
-                  "meta": null
+                  "name": "Makuja Thaimaasta – Possua Crying Tiger",
+                  "meta": "sis.vehnä, osterikastike, M"
                 },
                 {
                   "name": "– basmatiriisiä",
-                  "meta": null
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Orvokin oma: Punajuuri-halloumpihvit ja tsatsiki",
@@ -340,11 +346,11 @@
                 },
                 {
                   "name": "Chorizomakkarakeitto",
-                  "meta": "M, G"
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Kahvin kanssa Orvokin rocky road",
-                  "meta": null
+                  "name": "Kahvin kanssa Orvokin suklainen rocky road",
+                  "meta": "sis. pähkinä, laktoosi, ohra"
                 }
               ],
               "price": "13,80 €"
