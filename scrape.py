@@ -34,18 +34,19 @@ def main(argv: list[str]) -> int:
 
     out_path = Path(__file__).parent / "docs" / "data" / "menus.json"
 
-    # When filtering, start from the previous output so unrelated restaurants
-    # are preserved (otherwise iterative dev would wipe them from menus.json).
+    # Always load the previous output. It serves two purposes: a failed
+    # scraper falls back to its last-known-good menu (so a transient outage
+    # doesn't blank out a restaurant), and restaurants skipped by `only` are
+    # preserved (otherwise iterative dev would wipe them from menus.json).
     existing_by_key: dict[str, dict] = {}
-    if only:
-        try:
-            prev = json.loads(out_path.read_text(encoding="utf-8"))
-            for r in prev.get("restaurants", []):
-                existing_by_key[r.get("key", "")] = r
-        except FileNotFoundError:
-            pass
-        except (json.JSONDecodeError, OSError) as e:
-            print(f"[scrape] WARNING: could not merge previous menus.json: {e}")
+    try:
+        prev = json.loads(out_path.read_text(encoding="utf-8"))
+        for r in prev.get("restaurants", []):
+            existing_by_key[r.get("key", "")] = r
+    except FileNotFoundError:
+        pass
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"[scrape] WARNING: could not read previous menus.json: {e}")
 
     new_results: dict[str, dict] = {}
     any_failed = False
@@ -62,13 +63,24 @@ def main(argv: list[str]) -> int:
             print(f"  ok — {len(data['days'])} days, {n_dishes} dishes")
         except Exception as e:
             any_failed = True
-            print(f"  FAIL: {e}")
+            err = f"{type(e).__name__}: {e}"
+            print(f"  FAIL: {err}")
             traceback.print_exc()
-            new_results[key] = {
-                "key": key, "name": key, "url": "",
-                "error": f"{type(e).__name__}: {e}",
-                "days": [],
-            }
+            prev_r = existing_by_key.get(key)
+            if prev_r and prev_r.get("days"):
+                # Keep the last-known-good menu visible; flag the failed
+                # refresh via `error` so the frontend can note it's stale.
+                new_results[key] = {**prev_r, "error": err}
+                print(f"  -> keeping previous data ({len(prev_r['days'])} days)")
+            else:
+                # No prior data to fall back to — emit a bare error entry.
+                new_results[key] = {
+                    "key": key,
+                    "name": (prev_r or {}).get("name") or key,
+                    "url": (prev_r or {}).get("url", ""),
+                    "error": err,
+                    "days": [],
+                }
 
     # Final order: follow SCRAPERS definition; merge previous results for the
     # restaurants we skipped (only relevant when `only` filter is set).

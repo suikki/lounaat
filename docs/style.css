@@ -199,6 +199,7 @@ footer {
   font-size: 0.85rem;
 }
 footer a { color: inherit; }
+#scrape-status { color: var(--warn-fg); }
 
 @media (max-width: 640px) {
   .topbar { padding: 0.9rem 1rem 0.4rem; }

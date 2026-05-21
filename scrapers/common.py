@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import re
+import time
 from dataclasses import dataclass, field, asdict
 from datetime import date, datetime, timezone, timedelta
 
@@ -14,6 +15,8 @@ USER_AGENT = (
     "+https://github.com/ aggregating public lunch menus)"
 )
 HTTP_TIMEOUT = 20
+HTTP_RETRIES = 2          # total attempts per URL (the daily cron retries too)
+HTTP_RETRY_BACKOFF = 3    # seconds; multiplied by the attempt number
 
 FI_WEEKDAYS = ["Maanantai", "Tiistai", "Keskiviikko", "Torstai", "Perjantai", "Lauantai", "Sunnuntai"]
 FI_WEEKDAY_ALIASES = {
@@ -88,16 +91,40 @@ class Restaurant:
 
 
 def fetch(url: str, *, headers: dict | None = None) -> str:
-    """Fetch a URL and return text, raising on HTTP errors."""
+    """Fetch a URL and return text, raising on HTTP errors.
+
+    Transient failures — connection errors, timeouts, 5xx responses — are
+    retried with a short backoff, since restaurant sites are often briefly
+    unreachable. 4xx responses are not retried; they won't fix themselves.
+    """
     h = {"User-Agent": USER_AGENT, "Accept-Language": "fi,en;q=0.7"}
     if headers:
         h.update(headers)
-    r = requests.get(url, headers=h, timeout=HTTP_TIMEOUT)
-    r.raise_for_status()
-    # Trust server's declared encoding, fall back to apparent
-    if not r.encoding or r.encoding.lower() == "iso-8859-1":
-        r.encoding = r.apparent_encoding or "utf-8"
-    return r.text
+    last_exc: Exception | None = None
+    for attempt in range(1, HTTP_RETRIES + 1):
+        try:
+            r = requests.get(url, headers=h, timeout=HTTP_TIMEOUT)
+            r.raise_for_status()
+            # Trust server's declared encoding, fall back to apparent
+            if not r.encoding or r.encoding.lower() == "iso-8859-1":
+                r.encoding = r.apparent_encoding or "utf-8"
+            return r.text
+        except requests.HTTPError as e:
+            status = e.response.status_code if e.response is not None else None
+            if status is not None and status < 500:
+                raise  # client error — a retry won't help
+            last_exc = e
+        except (requests.ConnectionError, requests.Timeout) as e:
+            last_exc = e
+        if attempt < HTTP_RETRIES:
+            print(
+                f"  [fetch] {url} failed ({last_exc.__class__.__name__}); "
+                f"retry {attempt + 1}/{HTTP_RETRIES}",
+                flush=True,
+            )
+            time.sleep(HTTP_RETRY_BACKOFF * attempt)
+    assert last_exc is not None  # loop ran at least once
+    raise last_exc
 
 
 def soup(html: str) -> BeautifulSoup:

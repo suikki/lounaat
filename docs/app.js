@@ -132,21 +132,34 @@ function renderSection(sec) {
   return wrap;
 }
 
-function renderCard(restaurant, targetIso, targetWeekdayName, weekDates) {
+function renderCard(restaurant, targetIso, targetWeekdayName, weekDates, staleNames) {
   const el = document.createElement('section');
   el.className = 'card';
   appendHeading(el, restaurant);
 
-  if (restaurant.error) {
-    appendBanner(el, 'banner err', `Skrappaus epäonnistui: ${restaurant.error}`);
+  // `error` set on a restaurant means the latest scrape failed. If we still
+  // have menu data it's last-known-good (stale); if not, it's a hard failure.
+  const failed = !!restaurant.error;
+  const hasData = (restaurant.days || []).length > 0;
+
+  if (failed && !hasData) {
+    appendBanner(el, 'banner err', 'Lounaslistaa ei juuri nyt saatavilla.');
     return el;
   }
 
   const { day, matched } = findDayForRestaurant(restaurant, targetIso, targetWeekdayName);
   if (!day) {
-    appendBanner(el, 'empty', 'Ei tietoja tälle päivälle.');
+    if (failed) {
+      appendBanner(el, 'banner warn', 'Lounaslistan päivitys epäonnistui — tälle päivälle ei tietoja.');
+    } else {
+      appendBanner(el, 'empty', 'Ei tietoja tälle päivälle.');
+    }
     return el;
   }
+
+  // A failed refresh with data present just means it may be stale, not
+  // broken — still render it, and note it quietly at the page bottom.
+  if (failed) staleNames.push(restaurant.name);
 
   if (day.date && !isCurrentWeek(day.date, weekDates)) {
     appendBanner(el, 'banner warn', `Tiedot näyttävät olevan vanhentuneita (lähde: ${fmtDate(day.date)}).`);
@@ -188,14 +201,28 @@ function renderTabs(weekDates, activeIdx, onPick) {
   }
 }
 
+function renderScrapeStatus(staleNames) {
+  const el = $('#scrape-status');
+  if (!staleNames.length) {
+    el.textContent = '';
+    el.hidden = true;
+    return;
+  }
+  el.hidden = false;
+  el.textContent =
+    `Päivitys epäonnistui: ${staleNames.join(', ')}. Näytetään viimeksi haetut tiedot.`;
+}
+
 function renderApp(data, weekDates, activeIdx) {
   const main = $('#app');
   main.innerHTML = '';
   const targetIso = weekDates[activeIdx];
   const targetWeekdayName = FI_WEEKDAYS[activeIdx];
+  const staleNames = [];
   for (const r of data.restaurants) {
-    main.appendChild(renderCard(r, targetIso, targetWeekdayName, weekDates));
+    main.appendChild(renderCard(r, targetIso, targetWeekdayName, weekDates, staleNames));
   }
+  renderScrapeStatus(staleNames);
 }
 
 function renderFooter(data) {
