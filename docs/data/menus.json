@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T08:46:51Z",
+  "generated_at": "2026-05-21T18:00:40Z",
   "iso_week": 21,
   "restaurants": [
     {
@@ -866,10 +866,207 @@
     },
     {
       "key": "caffitella_duo",
-      "name": "caffitella_duo",
-      "url": "",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f9c77e32cc0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))",
-      "days": []
+      "name": "Caffitella Duo Tampere",
+      "url": "https://www.caffitella.fi/lounaslista/",
+      "days": [
+        {
+          "date": "2026-05-18",
+          "weekday": "Maanantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Jauhelihapihvit ruskeassa kermakastikkeessa",
+                  "meta": "suomalaista nautaa ja possua, L, G"
+                },
+                {
+                  "name": "Paneroitua kampelaa yrtti-kermaviilikastiketta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Yrtti perunaa",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "11,90 €"
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                {
+                  "name": "Chili burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "ja Yrttibroileri poke",
+                  "meta": "M, G"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-19",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Kievinkanaa",
+                  "meta": "suomalaista broileria, L"
+                },
+                {
+                  "name": "Limeaioli",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Talon lihakastike",
+                  "meta": "suomalaista possua ja nautaa, L, G"
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "11,90 €"
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                {
+                  "name": "Paneroitu broileri burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "ja Vuohenjuusto salaatti",
+                  "meta": "L, G"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-20",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Karamellisoitua ylikypsää possua",
+                  "meta": "suomalaista possua, M, G"
+                },
+                {
+                  "name": "Uuniperunaa ja talon kylmäsavulohi creme fraiche",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "11,90 €"
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                {
+                  "name": "Tofu burger",
+                  "meta": "VE"
+                },
+                {
+                  "name": "Pulled Pork poke",
+                  "meta": "L, M, G"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-21",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Kanaa pippurisessa koskenlaskija kastikkeessa",
+                  "meta": "suomalaista broileria, L, G"
+                },
+                {
+                  "name": "Caffitellan kebabia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Paahdettua perunaa Riisiä",
+                  "meta": "M, G"
+                }
+              ],
+              "price": "11,90 €"
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                {
+                  "name": "Juusto burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Broilerisalaatti",
+                  "meta": "M, G"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-05-22",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Juustoinen uunimakkara",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Paneroitua Broileria",
+                  "meta": "suomalaista broileria, M, G"
+                },
+                {
+                  "name": "Ananasdippi",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "11,90 €"
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                {
+                  "name": "Smash burger",
+                  "meta": "L"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        }
+      ],
+      "hours": "10:30–14:00",
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
