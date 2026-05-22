@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:00:40Z",
+  "generated_at": "2026-05-22T07:00:08Z",
   "iso_week": 21,
   "restaurants": [
     {
@@ -210,11 +210,11 @@
                 },
                 {
                   "name": "Kasvis-nacho supreme Muu fava- murulla & cheddarkastikkeella KASVIS",
-                  "meta": "saa VEG, L, G"
+                  "meta": "maito, saa VEG, L, G"
                 },
                 {
                   "name": "Jälkiruoaksi: Mansikka-raparperi kiisseli",
-                  "meta": "G, VEG"
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -224,7 +224,7 @@
               "dishes": [
                 {
                   "name": "Silkkinen kukkakaali-palsternakkakeitto",
-                  "meta": "M, G, VEG"
+                  "meta": "maito, L, G"
                 }
               ],
               "price": null
@@ -234,7 +234,7 @@
               "dishes": [
                 {
                   "name": "Kanagyros rulla, tsatsiki & ranskanperunat",
-                  "meta": "L"
+                  "meta": "maito, vehnä, L"
                 }
               ],
               "price": null
@@ -420,7 +420,7 @@
                 },
                 {
                   "name": "Kahvin kanssa jäätelöbuffet",
-                  "meta": "L, G"
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -1066,7 +1066,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7faaf9f12a50>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
