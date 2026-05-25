@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T08:01:11Z",
+  "generated_at": "2026-05-25T11:18:09Z",
   "iso_week": 22,
   "restaurants": [
     {
@@ -848,22 +848,26 @@
       "url": "https://www.caffitella.fi/lounaslista/",
       "days": [
         {
-          "date": "2026-05-18",
+          "date": "2026-05-25",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Jauhelihapihvit ruskeassa kermakastikkeessa",
+                  "name": "Jauhelihamureketta talon kermakastikkeessa",
                   "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "Paneroitua kampelaa yrtti-kermaviilikastiketta",
-                  "meta": "L, G"
+                  "name": "Crispy chicken nuggets",
+                  "meta": "suomalaista broileria, L"
                 },
                 {
-                  "name": "Yrtti perunaa",
+                  "name": "Mexican cremaa",
+                  "meta": "L"
+                },
+                {
+                  "name": "Bataatti-perunamuussia",
                   "meta": "L, G"
                 }
               ],
@@ -873,12 +877,12 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Chili burger",
+                  "name": "Halloumiburger",
                   "meta": "L"
                 },
                 {
-                  "name": "ja Yrttibroileri poke",
-                  "meta": "M, G"
+                  "name": "Burgersalaatti",
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -887,27 +891,31 @@
           "note": null
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-26",
           "weekday": "Tiistai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kievinkanaa",
-                  "meta": "suomalaista broileria, L"
+                  "name": "Kanaa talon marinadissa",
+                  "meta": "suomalaista broileria, M, G"
                 },
                 {
-                  "name": "Limeaioli",
+                  "name": "Paneroitua possua",
+                  "meta": "M"
+                },
+                {
+                  "name": "Jalapeno-valkosipulimajoneesi",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Talon lihakastike",
-                  "meta": "suomalaista possua ja nautaa, L, G"
+                  "name": "Juustoista perunapaistosta",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Perunamuusia",
-                  "meta": "L, G"
+                  "name": "Riisiä",
+                  "meta": "M, G"
                 }
               ],
               "price": "11,90 €"
@@ -916,12 +924,12 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Paneroitu broileri burger",
+                  "name": "Vuohenjuustoburger",
                   "meta": "L"
                 },
                 {
-                  "name": "ja Vuohenjuusto salaatti",
-                  "meta": "L, G"
+                  "name": "Teriyaki -pokekulho",
+                  "meta": "M, G"
                 }
               ],
               "price": null
@@ -930,19 +938,23 @@
           "note": null
         },
         {
-          "date": "2026-05-20",
+          "date": "2026-05-27",
           "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Karamellisoitua ylikypsää possua",
-                  "meta": "suomalaista possua, M, G"
+                  "name": "Possun sisäfilettä tummassa rosmariinikastikeessa",
+                  "meta": "suomalaista possua, VL, G"
                 },
                 {
-                  "name": "Uuniperunaa ja talon kylmäsavulohi creme fraiche",
-                  "meta": "L, G"
+                  "name": "Parmesan broileria",
+                  "meta": "suomalaista broileria, L, G"
+                },
+                {
+                  "name": "Paahdettua perunaa",
+                  "meta": "M, G"
                 }
               ],
               "price": "11,90 €"
@@ -951,12 +963,12 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Tofu burger",
-                  "meta": "VE"
+                  "name": "Pulled Pork fries -annos",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Pulled Pork poke",
-                  "meta": "L, M, G"
+                  "name": "Paneroitu broileri -pokekulho",
+                  "meta": "L"
                 }
               ],
               "price": null
@@ -965,22 +977,26 @@
           "note": null
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-05-28",
           "weekday": "Torstai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kanaa pippurisessa koskenlaskija kastikkeessa",
+                  "name": "Paneroitua kanaa",
                   "meta": "suomalaista broileria, L, G"
                 },
                 {
-                  "name": "Caffitellan kebabia",
+                  "name": "Talon Ranch -majoneesia",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Makkara mix",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Paahdettua perunaa Riisiä",
+                  "name": "Lohkoperunaa",
                   "meta": "M, G"
                 }
               ],
@@ -990,11 +1006,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Juusto burger",
+                  "name": "Juustoburger",
                   "meta": "L"
                 },
                 {
-                  "name": "Broilerisalaatti",
+                  "name": "ja Broilerisalaatti",
                   "meta": "M, G"
                 }
               ],
@@ -1004,26 +1020,22 @@
           "note": null
         },
         {
-          "date": "2026-05-22",
+          "date": "2026-05-29",
           "weekday": "Perjantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Juustoinen uunimakkara",
+                  "name": "Smetanaista uunilohta",
+                  "meta": "suomalaista kirjolohta, L, G"
+                },
+                {
+                  "name": "Uunimakkaraa juustokuorrutteella",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Paneroitua Broileria",
-                  "meta": "suomalaista broileria, M, G"
-                },
-                {
-                  "name": "Ananasdippi",
-                  "meta": "M, G"
-                },
-                {
-                  "name": "Perunamuusia",
+                  "name": "Perunamuussia",
                   "meta": "L, G"
                 }
               ],
@@ -1033,7 +1045,7 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Smash burger",
+                  "name": "Halloumiburger",
                   "meta": "L"
                 }
               ],
@@ -1044,7 +1056,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f70fd78cbf0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
