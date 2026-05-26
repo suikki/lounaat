@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T11:18:09Z",
+  "generated_at": "2026-05-26T06:58:09Z",
   "iso_week": 22,
   "restaurants": [
     {
@@ -64,16 +64,20 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Pannupihvejä sipulikastikkeella",
-                  "meta": "L"
+                  "name": "Naudan pannupihvejä sipulikastikkeella",
+                  "meta": "vehnä, maito, kananmuna, sinappi, L"
                 },
                 {
-                  "name": "Yrtti gratinoitua seitä",
-                  "meta": "L, G"
+                  "name": "Yrtti- gratinoitua seitä",
+                  "meta": "maito, L, G"
                 },
                 {
                   "name": "Peruna muussia",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
+                },
+                {
+                  "name": "Gluteeniton jälkiruoka: luumu-taateli vaahtoa",
+                  "meta": "soija"
                 }
               ],
               "price": "13,80 €"
@@ -92,8 +96,18 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Ylikypsää possunposkea & sitruunainen risotto",
-                  "meta": "VL, G"
+                  "name": "Ylikypsää possunposkea BBQ kastikkeella & lohkoperunoita",
+                  "meta": "sinappi, M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Tofu-sipulipannua",
+                  "meta": "sinappi, M, G, VEG"
                 }
               ],
               "price": null
@@ -514,6 +528,10 @@
                 {
                   "name": "Timjamilla maustettua porkkanaa",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Tilli-kermaviilikastiketta",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Mansikka-piimävanukasta",
