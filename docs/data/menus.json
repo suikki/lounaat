@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T06:58:09Z",
+  "generated_at": "2026-05-26T08:46:14Z",
   "iso_week": 22,
   "restaurants": [
     {
@@ -304,7 +304,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Ylikypsä possu ja omenainen BBQ-kastike",
+                  "name": "Ylikypsää possua ja omenaista BBQ-kastiketta",
                   "meta": "M, G"
                 },
                 {
@@ -312,12 +312,16 @@
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Tomaatti-juustovarraspizza pestolla ja kevätsipulilla",
+                  "name": "Tomaatti-juustovarraspizza pestolla ja kevätsipulilla Linkosuon varrasleivästä",
                   "meta": "L"
                 },
                 {
-                  "name": "Kasvissosekeitto",
+                  "name": "Fenkolilla maustettu kasvissosekeitto",
                   "meta": "G, VEG"
+                },
+                {
+                  "name": "Kahvin kanssa ananas-toffeepiirakkaa",
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
