@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T08:46:14Z",
+  "generated_at": "2026-05-27T07:16:38Z",
   "iso_week": 22,
   "restaurants": [
     {
@@ -72,10 +72,6 @@
                   "meta": "maito, L, G"
                 },
                 {
-                  "name": "Peruna muussia",
-                  "meta": "maito, L, G"
-                },
-                {
                   "name": "Gluteeniton jälkiruoka: luumu-taateli vaahtoa",
                   "meta": "soija"
                 }
@@ -88,26 +84,6 @@
                 {
                   "name": "kookos-myskikurpitsa keitto",
                   "meta": "M, G, VEG"
-                }
-              ],
-              "price": null
-            },
-            {
-              "name": "Chef's menu",
-              "dishes": [
-                {
-                  "name": "Ylikypsää possunposkea BBQ kastikkeella & lohkoperunoita",
-                  "meta": "sinappi, M, G"
-                }
-              ],
-              "price": null
-            },
-            {
-              "name": "Keittiöstä päivän vegaani",
-              "dishes": [
-                {
-                  "name": "Tofu-sipulipannua",
-                  "meta": "sinappi, M, G, VEG"
                 }
               ],
               "price": null
@@ -338,10 +314,14 @@
               "dishes": [
                 {
                   "name": "Broileria tikka masala",
-                  "meta": "L, G"
+                  "meta": "Keittiöstä M,G, L, G"
                 },
                 {
-                  "name": "Orvokin oma: Pinaattiletut",
+                  "name": "– riisiä ja paistetut kasvikset",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Orvokin oma: Voissa paistetut pinaattiletut",
                   "meta": "L"
                 },
                 {
@@ -641,6 +621,10 @@
                 {
                   "name": "Grillattua lohta ja kasviksia",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Tilliperunoita",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -799,8 +783,8 @@
                   "meta": "G"
                 },
                 {
-                  "name": "Satay-tofukastiketta",
-                  "meta": "L, M, VEG"
+                  "name": "Butter tofu – intialaista tofukastiketta",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Grilliperunoita",
