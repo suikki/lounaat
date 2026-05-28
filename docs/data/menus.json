@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T07:05:42Z",
+  "generated_at": "2026-05-28T08:55:39Z",
   "iso_week": 22,
   "restaurants": [
     {
@@ -813,6 +813,20 @@
                 {
                   "name": "Lehtipihvi ranskalaisilla",
                   "meta": "L, G"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Pizzalounas",
+              "dishes": [
+                {
+                  "name": "Pepperonipizzaa",
+                  "meta": "L"
+                },
+                {
+                  "name": "Vihreää salaattia",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
