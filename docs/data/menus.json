@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T11:02:22Z",
+  "generated_at": "2026-05-28T07:05:42Z",
   "iso_week": 22,
   "restaurants": [
     {
@@ -149,15 +149,19 @@
                 },
                 {
                   "name": "Kauraleivitettyjä silakkapihvejä",
-                  "meta": null
+                  "meta": "vehnä, M"
                 },
                 {
                   "name": "Juures muussi",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 },
                 {
                   "name": "Riisi",
                   "meta": "G, VEG"
+                },
+                {
+                  "name": "SAA burgeri keittiöstä",
+                  "meta": "soija, sinappi, vehnä, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -176,8 +180,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Meatfree burger, coleslaw & frittiperunat",
-                  "meta": "L"
+                  "name": "Meatfree burger, coleslaw & bataattiranskalaiset L, KASVIS",
+                  "meta": "kananmuna, vehnä, sinappi, soija"
                 }
               ],
               "price": null
@@ -346,11 +350,11 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Mausteiset makkarat pannussa",
+                  "name": "Mausteiset makkarat pannussa – jalapenomakkaraa, chili-sulatejuustomakkaraa sekä chorizomakkaraa",
                   "meta": "L, G"
                 },
                 {
-                  "name": "– hunaja-sinappimajoneesi",
+                  "name": "– hunaja-sinappifraiche",
                   "meta": "M, G"
                 },
                 {
@@ -358,12 +362,12 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Kasvishernekeitto",
+                  "name": "Kasvishernekeitto soijarouheella",
                   "meta": "G, VEG"
                 },
                 {
                   "name": "– pannukakkua ja hilloa",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -749,20 +753,6 @@
                 }
               ],
               "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Mozzarellapizzaa",
-                  "meta": "L"
-                }
-              ],
-              "price": "13,80 €"
             }
           ],
           "note": null
@@ -823,20 +813,6 @@
                 {
                   "name": "Lehtipihvi ranskalaisilla",
                   "meta": "L, G"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Pepperonipizzaa",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
