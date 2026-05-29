@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T11:05:00Z",
+  "generated_at": "2026-05-29T07:06:06Z",
   "iso_week": 22,
   "restaurants": [
     {
@@ -198,11 +198,11 @@
               "dishes": [
                 {
                   "name": "Sinihomejuustolla gratinoitua broileria",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 },
                 {
                   "name": "Nakki Hodareita & sriracha majoneesia",
-                  "meta": "M"
+                  "meta": "vehnä, kananmuna, sinappi, M"
                 },
                 {
                   "name": "Paahdetut perunat",
@@ -210,7 +210,11 @@
                 },
                 {
                   "name": "Jälkiruoaksi: Marjatorttua",
-                  "meta": "L"
+                  "meta": "kananmuna, maito, L, G"
+                },
+                {
+                  "name": "VEG jälkiruoka keittiöstä",
+                  "meta": "sis. soija"
                 }
               ],
               "price": "13,80 €"
@@ -219,8 +223,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Kasvis minestrone keitto",
-                  "meta": "G, VEG"
+                  "name": "Kasvis -minestrone keitto",
+                  "meta": "vehnä, M, VEG"
                 }
               ],
               "price": null
@@ -229,8 +233,18 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Pariloitua lohta, paahdettuja kasviksia & pinaatti-tomaatti paistosta",
+                  "name": "Pariloitua lohta, paahdettuja kasviksia & pinaatti-tomaatti höystöä",
                   "meta": "M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Tomaattinen seitan-kasvishöystö",
+                  "meta": "vehnä, soija"
                 }
               ],
               "price": null
@@ -387,8 +401,12 @@
                   "meta": null
                 },
                 {
-                  "name": "– Big mac mayo",
+                  "name": "(keittiöstä kievin kanaa L,G)",
                   "meta": null
+                },
+                {
+                  "name": "– Big mac mayo",
+                  "meta": "M, G"
                 },
                 {
                   "name": "Texmex-jauhelihatortillavuoka",
@@ -400,7 +418,7 @@
                 },
                 {
                   "name": "Kahvin kanssa puutarhamarjapiirakkaa ja vaniljakastiketta",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -816,20 +834,6 @@
                 }
               ],
               "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Pepperonipizzaa",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
             }
           ],
           "note": null
@@ -1052,7 +1056,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f2f577d6a50>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
