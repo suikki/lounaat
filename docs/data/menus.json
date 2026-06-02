@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T09:44:27Z",
+  "generated_at": "2026-06-02T11:44:55Z",
   "iso_week": 23,
   "restaurants": [
     {
@@ -312,7 +312,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Broilerin rintaa hot honey-kastikkeella",
+                  "name": "Rapea broilerin paistileike ja hot honey kastike",
                   "meta": "M, G"
                 },
                 {
@@ -893,7 +893,7 @@
                   "meta": "suomalaista broileria, M"
                 },
                 {
-                  "name": "Valkosipulimajoneesi",
+                  "name": "Valkosipulimajoneesia",
                   "meta": "M, G"
                 },
                 {
@@ -930,7 +930,7 @@
                   "meta": "G"
                 },
                 {
-                  "name": "Sitruunainen kermaviilikastike",
+                  "name": "Sitruunaista kermaviilikastiketta",
                   "meta": "L, G"
                 },
                 {
@@ -951,7 +951,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Ylikypsää possua BBQ kastikkeessa",
+                  "name": "Ylikypsää possua BBQ-kastikkeessa",
                   "meta": "suomalaista possua, L, G"
                 },
                 {
@@ -980,7 +980,7 @@
                   "meta": "suomalaista broileria, L, G"
                 },
                 {
-                  "name": "Possun pikku paistia hunaja-dijon kastikkeessa",
+                  "name": "Possun pikkupaistia hunaja-dijonkastikkeessa",
                   "meta": "suomalaista possua, L, G"
                 },
                 {
@@ -1009,7 +1009,7 @@
                   "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "Juustoinen makkaravuoka",
+                  "name": "Juustoista makkaravuokaa",
                   "meta": "L, G"
                 },
                 {
@@ -1024,7 +1024,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7ffa668ed340>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
