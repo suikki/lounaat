@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T13:02:38Z",
+  "generated_at": "2026-06-02T08:11:16Z",
   "iso_week": 23,
   "restaurants": [
     {
@@ -79,11 +79,11 @@
                 },
                 {
                   "name": "Naudanliha stifado",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Linssi moussaka",
-                  "meta": null
+                  "name": "Linssi moussaka L, G, KASVIS (maito) SAA keittiöstä!",
+                  "meta": "VEG"
                 }
               ],
               "price": "13,80 €"
@@ -93,7 +93,7 @@
               "dishes": [
                 {
                   "name": "Papu-kasviskeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -102,8 +102,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Sitruuna-oregano broileria",
-                  "meta": null
+                  "name": "Sitruuna-oregano broileria & parmesaani- risottoa",
+                  "meta": "maito, VL, G"
                 }
               ],
               "price": null
@@ -112,8 +112,8 @@
               "name": "Jälkiruoka",
               "dishes": [
                 {
-                  "name": "Rizogalo",
-                  "meta": "kreikkalainen riisifrutti"
+                  "name": "Rizogalo (kreikkalainen riisifrutti, maito) SAA keittiöstä, sis. soija",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": null
@@ -128,6 +128,10 @@
             {
               "name": "Lounas",
               "dishes": [
+                {
+                  "name": "HUOM! Ravintolassa ruuhkaa klo 11-12",
+                  "meta": null
+                },
                 {
                   "name": "Paneroitua kananpojan sisäfilettä, ranch kastike",
                   "meta": null
@@ -308,7 +312,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Broileria hot honey-kastikkeessa",
+                  "name": "Broilerin rintaa hot honey-kastikkeella",
                   "meta": "M, G"
                 },
                 {
@@ -322,6 +326,10 @@
                 {
                   "name": "Kukkakaalisosekeitto sinihomejuustolla",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Päivän kasvis: Mureita vegelastuja ja kasviksia hot honey-tyyliin",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
@@ -479,10 +487,6 @@
                 {
                   "name": "Keksiannos",
                   "meta": "L"
-                },
-                {
-                  "name": "Luomukahvi",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -560,10 +564,6 @@
                 {
                   "name": "Lime-kookosjugurttijuomaa",
                   "meta": "L, G"
-                },
-                {
-                  "name": "Luomukahvi",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -590,7 +590,7 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Kasvis-munakasrullaa",
+                  "name": "Kasvis-munakas",
                   "meta": "L, G"
                 },
                 {
@@ -651,10 +651,6 @@
                 {
                   "name": "Mangokiisseliä",
                   "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Luomukahvi",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -749,10 +745,6 @@
                 },
                 {
                   "name": "Raparperi-mansikkarahkaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Luomukahvi",
                   "meta": "L, G"
                 }
               ],
@@ -849,10 +841,6 @@
                 {
                   "name": "Pilkotut hedelmät",
                   "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Luomukahvi",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -1036,7 +1024,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f8a0728d550>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -1246,7 +1234,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.speakeasy.fi/hervanta/lounas/"
     }
   ]
 }
