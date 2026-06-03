@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T11:44:55Z",
+  "generated_at": "2026-06-03T08:31:41Z",
   "iso_week": 23,
   "restaurants": [
     {
@@ -129,16 +129,16 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "HUOM! Ravintolassa ruuhkaa klo 11-12",
+                  "name": "HUOM! Ravintolassa ruuhkaa klo 11-12 välillä",
                   "meta": null
                 },
                 {
-                  "name": "Paneroitua kananpojan sisäfilettä, ranch kastike",
-                  "meta": null
+                  "name": "Paneroitua kananpojan sisäfilettä & ranch kastike",
+                  "meta": "maito, kananmuna, sinappi, L, M, G"
                 },
                 {
-                  "name": "Pinaatti-härkäpapulasagne",
-                  "meta": null
+                  "name": "Pinaatti-kasvis pastapaistos",
+                  "meta": "vehnä, selleri, sinappi, M, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -148,7 +148,7 @@
               "dishes": [
                 {
                   "name": "Tomaattikeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -158,7 +158,7 @@
               "dishes": [
                 {
                   "name": "Lohikeitto",
-                  "meta": null
+                  "meta": "maito, L, G"
                 }
               ],
               "price": null
@@ -175,15 +175,15 @@
               "dishes": [
                 {
                   "name": "Karjalanpaisti",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "Paneroitua hietakampelaa",
-                  "meta": null
+                  "meta": "M"
                 },
                 {
                   "name": "Perunamuusia",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -193,7 +193,7 @@
               "dishes": [
                 {
                   "name": "Hernekeitto palvikinkulla",
-                  "meta": null
+                  "meta": "M, G"
                 }
               ],
               "price": null
@@ -203,7 +203,7 @@
               "dishes": [
                 {
                   "name": "Palak paneer halloumijuustolla",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -213,7 +213,7 @@
               "dishes": [
                 {
                   "name": "pannukakkua & hilloa",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": null
@@ -230,11 +230,11 @@
               "dishes": [
                 {
                   "name": "Mallasglaseerattua possun niskaa",
-                  "meta": null
+                  "meta": "M"
                 },
                 {
                   "name": "Juustoinen cheddar-feta pannupizza",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -244,7 +244,7 @@
               "dishes": [
                 {
                   "name": "Juuressosekeitto",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -254,7 +254,7 @@
               "dishes": [
                 {
                   "name": "Big mac burgeri & ranskanperunat",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": null
@@ -353,12 +353,16 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "– tuoreella oreganolla maustetut perunanpuolikkaat",
-                  "meta": "G, VEG"
+                  "name": "– tasitsikia & tuoreella oreganolla maustetut perunanpuolikkaat",
+                  "meta": "L, G, VEG"
                 },
                 {
                   "name": "Psari plaki – valkoista kalaa tomaatti-sipulikastikkeessa",
                   "meta": "M, G"
+                },
+                {
+                  "name": "– paistettua kesäkurpitsaa ja munakoisoa",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Avgolemono – fermentoidulla sitruunalla maustettu kanakeitto",
@@ -851,20 +855,6 @@
                 {
                   "name": "Vuohenjuustokana lohkoperunoilla",
                   "meta": "VL, G"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Pepperonipizzaa",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
