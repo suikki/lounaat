@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T08:31:41Z",
+  "generated_at": "2026-06-04T08:03:39Z",
   "iso_week": 23,
   "restaurants": [
     {
@@ -178,12 +178,20 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Paneroitua hietakampelaa",
-                  "meta": "M"
+                  "name": "Paneroitua hietakampelaa (vehnä) & jogurttikastiketta",
+                  "meta": "maito, L, M, G"
                 },
                 {
                   "name": "Perunamuusia",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
+                },
+                {
+                  "name": "VEG palak paneer linsseillä keittiöstä!",
+                  "meta": null
+                },
+                {
+                  "name": "SAA jälkiruoka keittiöstä",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -193,7 +201,7 @@
               "dishes": [
                 {
                   "name": "Hernekeitto palvikinkulla",
-                  "meta": "M, G"
+                  "meta": "sinappi, M, G"
                 }
               ],
               "price": null
@@ -202,8 +210,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Palak paneer halloumijuustolla",
-                  "meta": "L, G"
+                  "name": "Palak paneer halloumijuustolla L, G, KASVIS",
+                  "meta": null
                 }
               ],
               "price": null
@@ -213,7 +221,7 @@
               "dishes": [
                 {
                   "name": "pannukakkua & hilloa",
-                  "meta": "L"
+                  "meta": "maito, kananmuna, vehnä, L"
                 }
               ],
               "price": null
@@ -798,7 +806,7 @@
               "name": "Pizzalounas",
               "dishes": [
                 {
-                  "name": "Pepperonipizzaa",
+                  "name": "Tupla Pepperonipizza",
                   "meta": "L"
                 },
                 {
@@ -1014,7 +1022,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fcfa6ef0b00>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
