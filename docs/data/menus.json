@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:05:42Z",
+  "generated_at": "2026-06-05T07:49:18Z",
   "iso_week": 23,
   "restaurants": [
     {
@@ -237,12 +237,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Mallasglaseerattua possun niskaa",
-                  "meta": "M"
+                  "name": "Mallasglaseerattua possun niskaa (selleri, ohra, vehnä, ruis) SAA",
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Juustoinen cheddar-feta pannupizza",
-                  "meta": "L"
+                  "name": "Juustoinen cheddar-feta pannupizza L, KASVIS",
+                  "meta": "vehnä, maito"
                 }
               ],
               "price": "13,80 €"
@@ -251,8 +251,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Juuressosekeitto",
-                  "meta": "L, G"
+                  "name": "Juuressosekeitto L, G, KASVIS",
+                  "meta": "maito"
                 }
               ],
               "price": null
@@ -261,8 +261,18 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Big mac burgeri & ranskanperunat",
-                  "meta": "L"
+                  "name": "Big mac burgeri naudan jauhelihasta & ranskanperunat",
+                  "meta": "vehnä, maito, kananmuna, sinappi, L"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Maltaista härkis-soijarouhekastiketta",
+                  "meta": "vehnä, ohra, ruis, selleri"
                 }
               ],
               "price": null
@@ -431,11 +441,11 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kalifornian kana",
+                  "name": "Kalifornian kana – valkosipuliranskankermalla gratinoitua broileria",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kebabkastike",
+                  "name": "Naudanlihakebabkastike",
                   "meta": "M, G"
                 },
                 {
@@ -443,12 +453,12 @@
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Juustoinen kesäkeitto",
+                  "name": "Juustoinen porkkanasosekeitto",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kahvin kanssa suklaapannacotta",
-                  "meta": "L, G"
+                  "name": "Kahvin kanssa Orvokin hedelmäinen trifle",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -827,7 +837,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Sticky wings – mausteisia kanansiipiä",
+                  "name": "Mausteiset kanansiivet ja Texaspetekastike",
                   "meta": "L, M, G"
                 },
                 {
@@ -847,11 +857,7 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Texas Pete Hot Sauce -siipikastiketta",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Pilkotut hedelmät",
+                  "name": "Jälkiruokabuffet",
                   "meta": "L, M, G, VEG"
                 }
               ],
