@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T08:25:52Z",
+  "generated_at": "2026-06-08T09:58:41Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -15,8 +15,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kananpojan filettä savupaprika kastikkeessa (maito) SAA",
-                  "meta": "L, M, G"
+                  "name": "Kananpojan filettä savupaprika kastikkeessa",
+                  "meta": "maito, L, G"
                 },
                 {
                   "name": "Kasviskaalikääryleet & puolukkaa",
@@ -806,31 +806,27 @@
       "url": "https://www.caffitella.fi/lounaslista/",
       "days": [
         {
-          "date": "2026-06-01",
+          "date": "2026-06-08",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Crispy Chicken",
-                  "meta": "suomalaista broileria, M"
+                  "name": "Paneroitua porsaanleikettä",
+                  "meta": "suomalaista possua, M"
                 },
                 {
-                  "name": "Valkosipulimajoneesia",
+                  "name": "Chimichurri Majoneesi",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Caffitellan kebabia",
-                  "meta": "naudanlihaa, L, G"
+                  "name": "Jauheliha-kaalikääryleitä & puolukkahillo",
+                  "meta": "suomalaista possua ja nautaa, M, G"
                 },
                 {
-                  "name": "Lohkoperunaa",
-                  "meta": "M, G"
-                },
-                {
-                  "name": "Riisiä",
-                  "meta": "M, G"
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
                 }
               ],
               "price": "11,90 €"
@@ -839,26 +835,26 @@
           "note": null
         },
         {
-          "date": "2026-06-02",
+          "date": "2026-06-09",
           "weekday": "Tiistai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Lihapullia kermakastikkeessa",
-                  "meta": "suomalaista nautaa ja possua, L, G"
-                },
-                {
-                  "name": "Paneroitua Kampelaa",
-                  "meta": "G"
-                },
-                {
-                  "name": "Sitruunaista kermaviilikastiketta",
+                  "name": "Jauhelihapihvit talon pippuri-kermakastikkeessa",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Perunamuusia",
+                  "name": "(suomalaista nautaa ja possua)",
+                  "meta": null
+                },
+                {
+                  "name": "Paneroitua kampelaa pinaatti-feta täytteellä",
+                  "meta": "G"
+                },
+                {
+                  "name": "perunamuusia",
                   "meta": "L, G"
                 }
               ],
@@ -868,48 +864,23 @@
           "note": null
         },
         {
-          "date": "2026-06-03",
+          "date": "2026-06-10",
           "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Ylikypsää possua BBQ-kastikkeessa",
+                  "name": "Possun sisäfileetä hunaja-sinappi kastikkeessa",
                   "meta": "suomalaista possua, L, G"
                 },
                 {
-                  "name": "Yrttimarinoitua broileria",
-                  "meta": "suomalaista broileria, M, G"
+                  "name": "Bearnaise kanaa",
+                  "meta": "suomalaista broileria, VL, G"
                 },
                 {
                   "name": "Paahdettua perunaa",
                   "meta": "M, G"
-                }
-              ],
-              "price": "11,90 €"
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-06-04",
-          "weekday": "Torstai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Sitruuna-smetana broileria",
-                  "meta": "suomalaista broileria, L, G"
-                },
-                {
-                  "name": "Possun pikkupaistia hunaja-dijonkastikkeessa",
-                  "meta": "suomalaista possua, L, G"
-                },
-                {
-                  "name": "Kermaperunaa",
-                  "meta": "L, G"
                 },
                 {
                   "name": "Riisiä",
@@ -922,23 +893,48 @@
           "note": null
         },
         {
-          "date": "2026-06-05",
+          "date": "2026-06-11",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Parmesan paneroitua broileria",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Caffitellan Chorizopyörykät",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kolmen Sipulin kermaviili",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "kermaperuna",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "11,90 €"
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-06-12",
           "weekday": "Perjantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Pannupihvejä ruskeassa kastikkeessa",
-                  "meta": "suomalaista nautaa ja possua, L, G"
+                  "name": "Caffitellan Jauhelihalasagnea",
+                  "meta": "suomalaista nautaa ja possua, L"
                 },
                 {
-                  "name": "Juustoista makkaravuokaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Perunamuusia",
-                  "meta": "L, G"
+                  "name": "Broileria & kasviksia",
+                  "meta": "suomalaista broileria, M, G"
                 }
               ],
               "price": "11,90 €"
@@ -948,7 +944,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fc581857710>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
