@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T09:58:41Z",
+  "generated_at": "2026-06-08T12:11:04Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -57,11 +57,11 @@
               "dishes": [
                 {
                   "name": "Fish and chips",
-                  "meta": null
+                  "meta": "sis. vehnä, sinappi, M"
                 },
                 {
                   "name": "Chili sin carne",
-                  "meta": null
+                  "meta": "G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -71,7 +71,7 @@
               "dishes": [
                 {
                   "name": "Paprikainen linssi-inkiväärikeitto",
-                  "meta": null
+                  "meta": "G, VEG"
                 }
               ],
               "price": null
@@ -80,8 +80,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Miilunpolttajan pekonipasta",
-                  "meta": null
+                  "name": "Miilunpolttajan kinkkupasta L,",
+                  "meta": "sis. vehnä, maito"
                 }
               ],
               "price": null
@@ -91,7 +91,7 @@
               "dishes": [
                 {
                   "name": "Biscoff mousse",
-                  "meta": null
+                  "meta": "sis. maito, L"
                 }
               ],
               "price": null
@@ -108,11 +108,11 @@
               "dishes": [
                 {
                   "name": "Sitruuna-timjami paahdettua broileria",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "Tofu-kookos curry",
-                  "meta": null
+                  "meta": "sis. soija, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -122,7 +122,7 @@
               "dishes": [
                 {
                   "name": "Punajuurikeitto",
-                  "meta": null
+                  "meta": "G, VEG"
                 }
               ],
               "price": null
@@ -132,7 +132,7 @@
               "dishes": [
                 {
                   "name": "Mureaa naudanrintaa kukkakaalirisotolla & rosmariinikastikkeella",
-                  "meta": null
+                  "meta": "VL, G"
                 }
               ],
               "price": null
@@ -149,11 +149,11 @@
               "dishes": [
                 {
                   "name": "Lihamureketta",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "Smetanaista uunikalaa",
-                  "meta": null
+                  "meta": "sis. maito, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -163,7 +163,7 @@
               "dishes": [
                 {
                   "name": "Voipapukeitto",
-                  "meta": null
+                  "meta": "G, VEG"
                 }
               ],
               "price": null
@@ -173,7 +173,7 @@
               "dishes": [
                 {
                   "name": "Hedelmäinen vuohenjuustosalaatti",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -190,11 +190,11 @@
               "dishes": [
                 {
                   "name": "BBQ paahdettuja possun luuttomia ribsejä",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "Falafel pyöryköitä & valkosipulinen yrttidippi",
-                  "meta": null
+                  "meta": "sis.maito, kananmuna, sinappi, L, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -213,8 +213,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Thai red curry kanalla & basmatiriisiä",
-                  "meta": null
+                  "name": "Thai red curry kanalla (sis.soija) & basmatiriisiä",
+                  "meta": "M, G"
                 }
               ],
               "price": null
@@ -224,7 +224,7 @@
               "dishes": [
                 {
                   "name": "porkkanakakkua",
-                  "meta": null
+                  "meta": ".sis kananmuna,Maito, L"
                 }
               ],
               "price": null
