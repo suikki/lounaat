@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:00:20Z",
+  "generated_at": "2026-06-09T08:43:36Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -717,20 +717,6 @@
                 }
               ],
               "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Kinkku-ananas-aurajuustopizzaa",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
             }
           ],
           "note": null
@@ -782,20 +768,6 @@
                 },
                 {
                   "name": "Maalaisranskalaisia",
-                  "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Kana-ananas-aurajuustopizzaa",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vihreää salaattia",
                   "meta": "L, M, G, VEG"
                 }
               ],
