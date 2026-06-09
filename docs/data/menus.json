@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T12:11:04Z",
+  "generated_at": "2026-06-09T07:00:20Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -80,8 +80,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Miilunpolttajan kinkkupasta L,",
-                  "meta": "sis. vehnä, maito"
+                  "name": "Miilunpolttajan kinkkupasta",
+                  "meta": "sis. vehnä, maito, L"
                 }
               ],
               "price": null
@@ -194,7 +194,7 @@
                 },
                 {
                   "name": "Falafel pyöryköitä & valkosipulinen yrttidippi",
-                  "meta": "sis.maito, kananmuna, sinappi, L, G, VEG"
+                  "meta": "sis. maito, kananmuna, sinappi, L, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -213,7 +213,7 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Thai red curry kanalla (sis.soija) & basmatiriisiä",
+                  "name": "Thai red curry kanalla (sis. soija) & basmatiriisiä",
                   "meta": "M, G"
                 }
               ],
@@ -224,7 +224,7 @@
               "dishes": [
                 {
                   "name": "porkkanakakkua",
-                  "meta": ".sis kananmuna,Maito, L"
+                  "meta": "sis. kananmuna, Maito, L"
                 }
               ],
               "price": null
@@ -296,8 +296,16 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kasviskaalikeitto",
+                  "name": "Kasviskaalikeitto linsseillä",
                   "meta": "G, VEG"
+                },
+                {
+                  "name": "Keittiöstä: Mexican-kasvispihvit",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Kahvin kanssa Orvokin omenapiirakkaa",
+                  "meta": "M"
                 }
               ],
               "price": "13,80 €"
@@ -502,7 +510,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Maalaislohkoperunoita",
+                  "name": "Paahdetut perunat",
                   "meta": "L, M, G, VEG"
                 },
                 {
@@ -534,8 +542,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kaura-punajuuripyöryköitä",
-                  "meta": "L, M, VEG"
+                  "name": "Herne-punajuuripihvejä",
+                  "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Aioli-katkarapuja",
