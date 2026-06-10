@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T07:50:18Z",
+  "generated_at": "2026-06-10T09:03:35Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -932,7 +932,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f4439e38da0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f30d98e4860>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
