@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:03:35Z",
+  "generated_at": "2026-06-10T11:05:35Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -371,7 +371,11 @@
                 },
                 {
                   "name": "– Ahvenanmaan pannukakkua ja hilloa",
-                  "meta": null
+                  "meta": "L"
+                },
+                {
+                  "name": "– saa myös lettuja",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
@@ -395,7 +399,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Juustoiset pekoniperunat jalapenomajoneesilla",
+                  "name": "Juustoiset pekoniranskalaiset jalapenomajoneesilla",
                   "meta": "L, G"
                 },
                 {
@@ -404,6 +408,10 @@
                 },
                 {
                   "name": "Karamellisoitu sipuli-sienikeitto",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kahvin kanssa snickers-tuorejuustomousse",
                   "meta": "L, G"
                 }
               ],
@@ -859,7 +867,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Possun sisäfileetä hunaja-sinappi kastikkeessa",
+                  "name": "Possun sisäfileetä hunaja-sinappikastikkeessa",
                   "meta": "suomalaista possua, L, G"
                 },
                 {
@@ -892,15 +900,15 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Caffitellan Chorizopyörykät",
+                  "name": "Caffitellan chorizopyöryköitä",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kolmen Sipulin kermaviili",
+                  "name": "Kolmen sipulin kermaviilikastiketta",
                   "meta": "L, G"
                 },
                 {
-                  "name": "kermaperuna",
+                  "name": "Kermaperunaa",
                   "meta": "L, G"
                 }
               ],
@@ -917,7 +925,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Caffitellan Jauhelihalasagnea",
+                  "name": "Caffitellan jauhelihalasagnea",
                   "meta": "suomalaista nautaa ja possua, L"
                 },
                 {
@@ -932,7 +940,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f30d98e4860>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
