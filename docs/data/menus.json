@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T11:05:35Z",
+  "generated_at": "2026-06-11T08:18:17Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -152,12 +152,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Lihamureketta",
-                  "meta": "M, G"
+                  "name": "Sipulinen lihapata",
+                  "meta": "selleri, sinappi, M, G"
                 },
                 {
-                  "name": "Smetanaista uunikalaa",
-                  "meta": "sis. maito, L, G"
+                  "name": "Smetanaista uunikalaa & perunamuusia (sis. maito) M/VEG muusi keittiöstä",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -178,6 +178,16 @@
                 {
                   "name": "Hedelmäinen vuohenjuustosalaatti",
                   "meta": "L, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Sipulinen nochicken pata",
+                  "meta": "soija, selleri, sinappi"
                 }
               ],
               "price": null
@@ -724,8 +734,8 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Porsaanpaistia",
-                  "meta": "Suomi, L, M, G"
+                  "name": "Porsaanpaisti, viipaloitu",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Caesar-kanasalaattia",
