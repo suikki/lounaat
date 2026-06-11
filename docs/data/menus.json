@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T09:47:17Z",
+  "generated_at": "2026-06-11T11:50:54Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -224,21 +224,11 @@
               "price": null
             },
             {
-              "name": "Chef's menu",
-              "dishes": [
-                {
-                  "name": "Thai red curry kanalla (sis. soija) & basmatiriisiä",
-                  "meta": "M, G"
-                }
-              ],
-              "price": null
-            },
-            {
               "name": "Jälkiruoka",
               "dishes": [
                 {
                   "name": "porkkanakakkua",
-                  "meta": "sis. kananmuna, Maito, L"
+                  "meta": "sis.vehnä, kananmuna, Maito, L"
                 }
               ],
               "price": null
