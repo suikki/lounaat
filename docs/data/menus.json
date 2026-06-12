@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T11:50:54Z",
+  "generated_at": "2026-06-12T08:04:04Z",
   "iso_week": 24,
   "restaurants": [
     {
@@ -204,11 +204,15 @@
               "dishes": [
                 {
                   "name": "BBQ paahdettuja possun luuttomia ribsejä",
-                  "meta": "M, G"
+                  "meta": "seesami, M, G"
                 },
                 {
                   "name": "Falafel pyöryköitä & valkosipulinen yrttidippi",
                   "meta": "sis. maito, kananmuna, sinappi, L, G, VEG"
+                },
+                {
+                  "name": "M, jälkiruoka keittiöstä",
+                  "meta": "sis. manteli & pähkinä, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -218,7 +222,7 @@
               "dishes": [
                 {
                   "name": "Porkkana-kookoskeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -228,7 +232,7 @@
               "dishes": [
                 {
                   "name": "porkkanakakkua",
-                  "meta": "sis.vehnä, kananmuna, Maito, L"
+                  "meta": "sis. vehnä, kananmuna, maito, manteli, pähkinä, L"
                 }
               ],
               "price": null
@@ -757,7 +761,7 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Maalaislohkoperunoita",
+                  "name": "Paahdetut perunat",
                   "meta": "L, M, G, VEG"
                 },
                 {
