@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T13:28:38Z",
+  "generated_at": "2026-06-16T09:06:37Z",
   "iso_week": 25,
   "restaurants": [
     {
@@ -261,7 +261,11 @@
               "dishes": [
                 {
                   "name": "Rapeat wieninleikkeet",
-                  "meta": "saa myös M,G, M"
+                  "meta": "M"
+                },
+                {
+                  "name": "(keittiöstä possun ulkofileepihviä M,G)",
+                  "meta": null
                 },
                 {
                   "name": "– ranskalaiset ja sitruunamajoneesi",
@@ -270,6 +274,10 @@
                 {
                   "name": "Täyteläinen metsäsienilasagne",
                   "meta": "L"
+                },
+                {
+                  "name": "– paahdettua porkkanaa",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Juustoinen savuporokeitto",
@@ -829,7 +837,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fd7265ce0c0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
