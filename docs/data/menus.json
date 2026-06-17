@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:24:54Z",
+  "generated_at": "2026-06-17T08:39:16Z",
   "iso_week": 25,
   "restaurants": [
     {
@@ -121,7 +121,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Yrtiinen porkkanakeitto",
+                  "name": "Yrttinen porkkanakeitto",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -307,6 +307,10 @@
                 {
                   "name": "Kreikkalainen jauhelihabolognese",
                   "meta": "M, G"
+                },
+                {
+                  "name": "(sis.muskottipähkinä)",
+                  "meta": null
                 },
                 {
                   "name": "– yrttispagettia",
@@ -837,7 +841,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fd909d97860>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
