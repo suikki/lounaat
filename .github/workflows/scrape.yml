@@ -4,14 +4,17 @@ on:
   schedule:
     # Times are UTC. Lunch starts ~10:30 Helsinki (07:30 UTC in summer,
     # 08:30 UTC in winter), so the day's menu must be ready before that.
-    # GitHub delays scheduled runs unpredictably — often 15-60 min, sometimes
-    # hours — so we run several times each morning: the first aims to finish
-    # before lunch even when delayed; the later ones retry if it was delayed,
-    # failed, or the restaurant hadn't published the menu yet. Minute :23
-    # avoids the heavily-contended top of the hour.
-    - cron: '23 3 * * 1-5'
-    - cron: '23 5 * * 1-5'
-    - cron: '23 7 * * 1-5'
+    # GitHub delays scheduled runs unpredictably — often hours, especially
+    # Monday morning when many cron jobs fire — so we start in the small
+    # hours and repeat every two hours: the first run lands well before
+    # lunch even when delayed; the later ones retry if it failed or the
+    # restaurant hadn't published the menu yet. Minute :23 avoids the
+    # contended :00. We don't pre-scrape Sunday evening because the
+    # restaurants typically don't publish next week's menu until Monday
+    # morning, and a Sunday run would just save last week's dishes.
+    - cron: '23 1 * * 1-5'   # 03:23/04:23 Helsinki
+    - cron: '23 3 * * 1-5'   # 05:23/06:23 Helsinki
+    - cron: '23 5 * * 1-5'   # 07:23/08:23 Helsinki
   workflow_dispatch:
 
 permissions:
