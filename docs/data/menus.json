@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T06:42:50Z",
+  "generated_at": "2026-06-22T09:24:42Z",
   "iso_week": 26,
   "restaurants": [
     {
@@ -28,7 +28,7 @@
                 },
                 {
                   "name": "– raikas sitruunadippi",
-                  "meta": "L, G"
+                  "meta": "kananmuna, sinappi, L, G"
                 },
                 {
                   "name": "Gluteenitonta broileria keittiöstä!",
@@ -52,7 +52,7 @@
               "dishes": [
                 {
                   "name": "Hot honey halloumi wrap L, KASVIS",
-                  "meta": "vehnä, maito"
+                  "meta": "vehnä, maito, kananmuna, sinappi"
                 }
               ],
               "price": null
@@ -634,23 +634,56 @@
       "url": "https://www.caffitella.fi/lounaslista/",
       "days": [
         {
-          "date": "2026-06-15",
+          "date": "2026-06-22",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kanaa pippurisessa koskenlaskijakastikkeessa",
-                  "meta": "suomalaista broileria, L, G"
+                  "name": "Jauhelihamureketta talon kermakastikkeessa",
+                  "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "Caffitellan kebabia",
+                  "name": "Crispy chicken nuggets",
+                  "meta": "suomalaista broileria, L"
+                },
+                {
+                  "name": "Mexican cremaa",
+                  "meta": "L"
+                },
+                {
+                  "name": "Bataatti-perunamuusia",
                   "meta": "L, G"
+                }
+              ],
+              "price": "11,90 €"
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-06-23",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Kanaa talon marinadissa",
+                  "meta": "suomalaista broileria, M, G"
                 },
                 {
-                  "name": "Paahdettua perunaa",
+                  "name": "Paneroitua possua",
+                  "meta": "M"
+                },
+                {
+                  "name": "Jalapeno-valkosipulimajoneesi",
                   "meta": "M, G"
+                },
+                {
+                  "name": "Juustoista perunapaistosta",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Riisiä",
@@ -663,23 +696,73 @@
           "note": null
         },
         {
-          "date": "2026-06-16",
-          "weekday": "Tiistai",
+          "date": "2026-06-24",
+          "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kievin kanaa",
-                  "meta": "suomalaista broileria, L"
+                  "name": "Possun sisäfilettä tummassa rosmariinikastikeessa",
+                  "meta": "suomalaista possua, L, G"
                 },
                 {
-                  "name": "Lime aiolia",
+                  "name": "Parmesan broileria",
+                  "meta": "suomalaista broileria, L, G"
+                },
+                {
+                  "name": "Paahdettua perunaa",
+                  "meta": "M, G"
+                }
+              ],
+              "price": "11,90 €"
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-06-25",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Paneroitua kanaa",
+                  "meta": "suomalaista broileria, L, G"
+                },
+                {
+                  "name": "Talon Ranch -majoneesi",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Talon lihakastiketta",
-                  "meta": "suomalaista possua ja nautaa, L, G"
+                  "name": "Makkaramixiä",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Lohkoperunaa",
+                  "meta": "M, G"
+                }
+              ],
+              "price": "11,90 €"
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-06-26",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Smetanaista uunilohta",
+                  "meta": "suomalaista kirjolohta, L, G"
+                },
+                {
+                  "name": "Uunimakkaraa juustokuorrutteella",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Perunamuusia",
@@ -690,85 +773,10 @@
             }
           ],
           "note": null
-        },
-        {
-          "date": "2026-06-17",
-          "weekday": "Keskiviikko",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Karamellisoitua ylikypsää possua",
-                  "meta": "suomalaista possua, M, G"
-                },
-                {
-                  "name": "Yrttimarinoitua broileria",
-                  "meta": "suomalaista broileria, M, G"
-                },
-                {
-                  "name": "Kermaperunaa",
-                  "meta": "L, G"
-                }
-              ],
-              "price": "11,90 €"
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-06-18",
-          "weekday": "Torstai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Jauhelihapyöryköitä ruskeassa kermakastikkeessa",
-                  "meta": "suomalaista nautaa ja possua, L, G"
-                },
-                {
-                  "name": "Paneroitua kampelaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Tilli-kermaviilikastiketta",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Yrttiperunaa",
-                  "meta": "L, G"
-                }
-              ],
-              "price": "11,90 €"
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-06-19",
-          "weekday": "Perjantai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Ei lounasbuffetia",
-                  "meta": null
-                },
-                {
-                  "name": "Hyvää Juhannusta!",
-                  "meta": null
-                }
-              ],
-              "price": "11,90 €"
-            }
-          ],
-          "note": null
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7efdbc020e00>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
