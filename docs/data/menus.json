@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T11:09:38Z",
+  "generated_at": "2026-06-22T13:08:19Z",
   "iso_week": 26,
   "restaurants": [
     {
@@ -640,7 +640,7 @@
                 },
                 {
                   "name": "Mexican cremaa",
-                  "meta": "L"
+                  "meta": "L, G"
                 },
                 {
                   "name": "Bataatti-perunamuusia",
@@ -766,7 +766,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f96983a4470>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
