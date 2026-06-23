@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:08:19Z",
+  "generated_at": "2026-06-23T07:01:19Z",
   "iso_week": 26,
   "restaurants": [
     {
@@ -68,24 +68,20 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "sitruunainen Broileri paella",
-                  "meta": "M, G"
+                  "name": "Sitruunainen broileri paella",
+                  "meta": "selleri, sinappi, M, G"
                 },
                 {
                   "name": "Makean mausteinen Nyhtökaura-kasvis wokki",
+                  "meta": "soija, M, G, VEG"
+                },
+                {
+                  "name": "– paahdettua perunaa ja juureksia",
                   "meta": "M, G, VEG"
                 },
                 {
-                  "name": "paahdettua perunaa ja juureksia",
-                  "meta": null
-                },
-                {
-                  "name": "CHEF: Lohi Nicoise salaatti",
-                  "meta": "M, G"
-                },
-                {
-                  "name": "Jälkiruoaksi: Bakeryn marjapiirakkaa",
-                  "meta": "L"
+                  "name": "M, jälkiruoka keittiöstä",
+                  "meta": "soija, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -94,8 +90,28 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Gazpacho",
-                  "meta": "M, G, VEG"
+                  "name": "Gazpacho- kylmä paprika-tomaattikeitto",
+                  "meta": "selleri, M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Nizzan salaatti lohella",
+                  "meta": "kananmuna, M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "Bakeryn marjapiirakkaa",
+                  "meta": "maito, vehnä, kananmuna, L"
                 }
               ],
               "price": null
@@ -115,16 +131,12 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "tofu-kasvis red curry",
+                  "name": "Tofu-kasvis red curry",
                   "meta": "M, G, VEG"
                 },
                 {
-                  "name": "kasvis-Basmatiriisiä",
+                  "name": "– kasvis-basmatiriisiä",
                   "meta": null
-                },
-                {
-                  "name": "Chef: Chicken Katsu bowl",
-                  "meta": "M"
                 }
               ],
               "price": "13,80 €"
@@ -135,6 +147,16 @@
                 {
                   "name": "Juuressose keitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Chicken Katsu bowl",
+                  "meta": "M"
                 }
               ],
               "price": null
@@ -150,7 +172,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Rapeaa kievin kanaa",
+                  "name": "Rapeaa Kievin kanaa",
                   "meta": null
                 },
                 {
@@ -158,11 +180,7 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Riisiä & ranch dippi",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "CHEF: Makkara perunat kurkku relissi ja salaattiraaste",
+                  "name": "– riisiä & ranch dippiä",
                   "meta": "L, G"
                 }
               ],
@@ -172,8 +190,18 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "creme ninon",
+                  "name": "Creme ninon",
                   "meta": null
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Makkara perunat, kurkku relissi ja salaattiraaste",
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -189,7 +217,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Texas pete paahdetut siivet",
+                  "name": "Texas pete paahdetut broilerin siivet",
                   "meta": "M, G"
                 },
                 {
@@ -197,20 +225,16 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "lohkoperunoita",
+                  "name": "– lohkoperunoita",
                   "meta": null
                 },
                 {
-                  "name": "sinihomejuusto dippi",
+                  "name": "– sinihomejuusto dippiä",
                   "meta": "L, G"
                 },
                 {
-                  "name": "CHEF: Possun lehtipihvi, ranskanperunoita ja maustevoiL,G",
+                  "name": "Jälkiruoaksi: Suklaavanukas",
                   "meta": null
-                },
-                {
-                  "name": "Jälkiruoaksi: Suklaamousse",
-                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -219,8 +243,18 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "basillikalla höystettyä linssi keittoa",
+                  "name": "Basillikalla höystettyä linssi keittoa",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Possun lehtipihvi, ranskanperunoita ja maustevoita",
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -392,16 +426,16 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Inkivääri-korianterikanaa",
-                  "meta": "L, M, G"
-                },
-                {
                   "name": "Falafelpyöryköitä",
                   "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Halloumi-melonisalaatti",
                   "meta": "G"
+                },
+                {
+                  "name": "BBQ-maustettua kanaa",
+                  "meta": "L, M, G"
                 }
               ],
               "price": "13,80 €"
