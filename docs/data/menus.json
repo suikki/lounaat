@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:12:24Z",
+  "generated_at": "2026-06-24T06:59:06Z",
   "iso_week": 26,
   "restaurants": [
     {
@@ -128,7 +128,7 @@
               "dishes": [
                 {
                   "name": "Balsamico-karamelli possua",
-                  "meta": "M, G"
+                  "meta": "soija, M, G"
                 },
                 {
                   "name": "Tofu-kasvis red curry",
@@ -136,7 +136,7 @@
                 },
                 {
                   "name": "– kasvis-basmatiriisiä",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -145,8 +145,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Juuressose keitto",
-                  "meta": "M, G, VEG"
+                  "name": "Juuressosekeitto",
+                  "meta": "selleri, M, G, VEG"
                 }
               ],
               "price": null
@@ -155,8 +155,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Chicken Katsu bowl",
-                  "meta": "M"
+                  "name": "Chicken Katsu bowl paneroidulla broilerilla ja nuudeleilla",
+                  "meta": "vehnä, kananmuna, sinappi, soija, selleri, seesami, M"
                 }
               ],
               "price": null
@@ -800,7 +800,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f2536608710>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -962,7 +962,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.speakeasy.fi/hervanta/lounas/"
     }
   ]
 }
