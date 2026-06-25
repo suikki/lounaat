@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T05:17:07Z",
+  "generated_at": "2026-06-25T06:58:13Z",
   "iso_week": 26,
   "restaurants": [
     {
@@ -580,12 +580,12 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Kaura-punajuuripyörykkä",
-                  "meta": "L, M, VEG"
-                },
-                {
                   "name": "Katkarapu-lasinuudelisalaatti",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Herne-punajuuripihvejä",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -800,7 +800,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f1aad2445c0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
