@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T06:58:13Z",
+  "generated_at": "2026-06-25T08:32:52Z",
   "iso_week": 26,
   "restaurants": [
     {
@@ -172,16 +172,16 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Rapeaa Kievin kanaa",
-                  "meta": null
+                  "name": "Rapeaa Kievin kanaa & ranch majoneesia",
+                  "meta": "vehnä, maito, sinappi & kananmuna, L"
                 },
                 {
                   "name": "Tomaatti-yrtti kalapata",
                   "meta": "M, G"
                 },
                 {
-                  "name": "– riisiä & ranch dippiä",
-                  "meta": "L, G"
+                  "name": "– riisiä",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -190,8 +190,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Creme ninon",
-                  "meta": null
+                  "name": "Creme ninon eli ranskalainen hernesosekeitto",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -201,7 +201,17 @@
               "dishes": [
                 {
                   "name": "Makkara perunat, kurkku relissi ja salaattiraaste",
-                  "meta": "L, G"
+                  "meta": "kananmuna, sinappi, M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Tomaatti-yrtti papupata",
+                  "meta": null
                 }
               ],
               "price": null
