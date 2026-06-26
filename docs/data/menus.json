@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T08:32:52Z",
+  "generated_at": "2026-06-26T05:39:51Z",
   "iso_week": 26,
   "restaurants": [
     {
@@ -236,7 +236,7 @@
                 },
                 {
                   "name": "– lohkoperunoita",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 },
                 {
                   "name": "– sinihomejuusto dippiä",
@@ -244,7 +244,7 @@
                 },
                 {
                   "name": "Jälkiruoaksi: Suklaavanukas",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -263,7 +263,7 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Possun lehtipihvi, ranskanperunoita ja maustevoita",
+                  "name": "Possun lehtipihvi, ranskanperunoita ja sriracha aioli",
                   "meta": "L, G"
                 }
               ],
@@ -623,11 +623,11 @@
                   "meta": "VL, G"
                 },
                 {
-                  "name": "Lohkoperunoita",
+                  "name": "Maustepaahdettuja perunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Grillattua kesäkurpitsaa ja paprikaa",
+                  "name": "Uunijuureksia",
                   "meta": "L, M, G, VEG"
                 },
                 {
@@ -649,7 +649,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Maalaisranskalaisia",
+                  "name": "Bataattiranskalaisia",
                   "meta": "L, M, G, VEG"
                 }
               ],
@@ -810,7 +810,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f3c72298890>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -972,7 +972,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.speakeasy.fi/hervanta/lounas/"
     }
   ]
 }
