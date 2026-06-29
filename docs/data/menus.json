@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T06:08:17Z",
+  "generated_at": "2026-06-29T08:29:17Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -16,11 +16,15 @@
               "dishes": [
                 {
                   "name": "Alabama style chicken",
-                  "meta": null
+                  "meta": "(soija, sinappi, M, G"
                 },
                 {
                   "name": "Currywurst & perunamuusia",
-                  "meta": null
+                  "meta": "maito, sinappi, L, G"
+                },
+                {
+                  "name": "VEG ruoka keittiöstä: Alabama style seitan",
+                  "meta": "soija, vehnä"
                 }
               ],
               "price": "13,80 €"
@@ -39,8 +43,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Falafel pitaleipä tsatsikilla & raikkaalla coleslawlla",
-                  "meta": null
+                  "name": "Falafel pitaleipä tsatsikilla & raikkaalla coleslawlla L, KASVIS",
+                  "meta": "maito, vehnä"
                 }
               ],
               "price": null
@@ -674,7 +678,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fa84a2b9b50>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
