@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:01:21Z",
+  "generated_at": "2026-06-29T12:12:52Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -61,11 +61,11 @@
               "dishes": [
                 {
                   "name": "Jauhelihalasagne",
-                  "meta": null
+                  "meta": "L"
                 },
                 {
                   "name": "Kasvis caponata",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -75,7 +75,7 @@
               "dishes": [
                 {
                   "name": "Samettinen kasvissosekeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -85,7 +85,7 @@
               "dishes": [
                 {
                   "name": "Banoffee rahkaa",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": null
@@ -102,11 +102,11 @@
               "dishes": [
                 {
                   "name": "Butter chicken & pilahviriisiä",
-                  "meta": null
+                  "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Porkkananapit & lime-chilidippi",
-                  "meta": null
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -116,7 +116,7 @@
               "dishes": [
                 {
                   "name": "Jauhelihakeitto",
-                  "meta": null
+                  "meta": "M, G"
                 }
               ],
               "price": null
@@ -133,11 +133,11 @@
               "dishes": [
                 {
                   "name": "Tapolan mustaa makkaraa & perunamuusia",
-                  "meta": null
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Tonnikalapastaa",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -147,7 +147,7 @@
               "dishes": [
                 {
                   "name": "Paahteinen palsternakka-juurisellerikeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -157,7 +157,7 @@
               "dishes": [
                 {
                   "name": "Kanakori",
-                  "meta": null
+                  "meta": "M, G"
                 }
               ],
               "price": null
@@ -174,11 +174,11 @@
               "dishes": [
                 {
                   "name": "Maissikanaa & parmesan perunoita",
-                  "meta": null
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Pulled pork nachopelti",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -188,7 +188,7 @@
               "dishes": [
                 {
                   "name": "Basilika-bataattikeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -198,7 +198,7 @@
               "dishes": [
                 {
                   "name": "Talon burgeri & ranskanperunoita",
-                  "meta": null
+                  "meta": "M"
                 }
               ],
               "price": null
@@ -208,7 +208,7 @@
               "dishes": [
                 {
                   "name": "omena-kaurapaistosta",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": null
