@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T12:12:52Z",
+  "generated_at": "2026-06-30T07:06:28Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -61,11 +61,23 @@
               "dishes": [
                 {
                   "name": "Jauhelihalasagne",
-                  "meta": "L"
+                  "meta": "maito, vehnä, L"
+                },
+                {
+                  "name": "(M, jauhelihakastiketta keittöstä, G)",
+                  "meta": null
                 },
                 {
                   "name": "Kasvis caponata",
                   "meta": "M, G, VEG"
+                },
+                {
+                  "name": "– paahdettuja perunoita",
+                  "meta": "M, G, VEG"
+                },
+                {
+                  "name": "M, banaani-suklaavaahto keittiöstä",
+                  "meta": "soija, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -85,7 +97,7 @@
               "dishes": [
                 {
                   "name": "Banoffee rahkaa",
-                  "meta": "L"
+                  "meta": "maito, L, G"
                 }
               ],
               "price": null
@@ -678,7 +690,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f4c324e2060>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -840,7 +852,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.speakeasy.fi/hervanta/lounas/"
     }
   ]
 }
