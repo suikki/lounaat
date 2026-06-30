@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:06:28Z",
+  "generated_at": "2026-06-30T08:39:09Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -690,7 +690,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f4c324e2060>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
@@ -852,7 +852,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.speakeasy.fi/hervanta/lounas/"
+      "error": null
     }
   ]
 }
