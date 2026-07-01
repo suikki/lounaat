@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:55:44Z",
+  "generated_at": "2026-07-01T07:52:58Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -113,12 +113,20 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Butter chicken & pilahviriisiä",
-                  "meta": "L, M, G, VEG"
+                  "name": "Butter chicken (maito) SAA keittiöstä",
+                  "meta": "L, M, G"
                 },
                 {
-                  "name": "Porkkananapit & lime-chilidippi",
-                  "meta": "L, M, G, VEG"
+                  "name": "– pilahviriisiä",
+                  "meta": "M, G, VEG"
+                },
+                {
+                  "name": "Porkkananapit & sitruuna-chilidippi",
+                  "meta": "maito, kananmuna, sinappi, L, M, G, VEG"
+                },
+                {
+                  "name": "SAA dippi keittiöstä!",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -128,7 +136,7 @@
               "dishes": [
                 {
                   "name": "Jauhelihakeitto",
-                  "meta": "M, G"
+                  "meta": "selleri, M, G"
                 }
               ],
               "price": null
@@ -690,7 +698,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f9499349bb0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
