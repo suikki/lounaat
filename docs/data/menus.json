@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:57:47Z",
+  "generated_at": "2026-07-01T10:51:06Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -156,6 +156,10 @@
                   "meta": "L, M, G"
                 },
                 {
+                  "name": "puolukka survos",
+                  "meta": "M, G, VEG"
+                },
+                {
                   "name": "Tonnikalapastaa",
                   "meta": "L"
                 }
@@ -168,16 +172,6 @@
                 {
                   "name": "Paahteinen palsternakka-juurisellerikeitto",
                   "meta": "M, G, VEG"
-                }
-              ],
-              "price": null
-            },
-            {
-              "name": "Chef's menu",
-              "dishes": [
-                {
-                  "name": "Kanakori",
-                  "meta": "M, G"
                 }
               ],
               "price": null
@@ -698,7 +692,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fad64eb4110>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
