@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:45:55Z",
+  "generated_at": "2026-07-03T08:30:07Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -550,7 +550,7 @@
         }
       ],
       "hours": "10:30–13:00",
-      "error": "ConnectionError: HTTPSConnectionPool(host='antell.fi', port=443): Max retries exceeded with url: /lounas/tampere/hermianfarmi/ (Caused by NewConnectionError(\"HTTPSConnection(host='antell.fi', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": null
     },
     {
       "key": "caffitella_duo",
@@ -700,7 +700,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fd5af252ab0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
@@ -862,7 +862,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.speakeasy.fi/hervanta/lounas/"
+      "error": null
     }
   ]
 }
