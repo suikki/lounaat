@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T05:04:17Z",
+  "generated_at": "2026-07-03T06:45:55Z",
   "iso_week": 27,
   "restaurants": [
     {
@@ -196,7 +196,7 @@
               "dishes": [
                 {
                   "name": "Maissikanaa & parmesan perunoita",
-                  "meta": "L, M, G"
+                  "meta": "M, VL, G"
                 },
                 {
                   "name": "Pulled pork nachopelti",
@@ -211,6 +211,16 @@
                 {
                   "name": "Basilika-bataattikeitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Talon burgeri ranskanperunoilla",
+                  "meta": "L"
                 }
               ],
               "price": null
@@ -690,7 +700,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f1509001010>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fd5af252ab0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
