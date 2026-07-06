@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T07:58:51Z",
+  "generated_at": "2026-07-06T09:13:10Z",
   "iso_week": 28,
   "restaurants": [
     {
@@ -285,31 +285,27 @@
       "url": "https://www.caffitella.fi/lounaslista/",
       "days": [
         {
-          "date": "2026-06-29",
+          "date": "2026-07-06",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Crispy Chicken",
-                  "meta": "suomalaista broileria, M"
+                  "name": "Paneroitua porsaanleikettä",
+                  "meta": "suomalaista possua, M"
                 },
                 {
-                  "name": "Valkosipulimajoneesia",
+                  "name": "Chimichurri Majoneesi",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Caffitellan kebabia",
-                  "meta": "suomalaista naudanlihaa, L, G"
+                  "name": "Jauheliha-kaalikääryleitä & puolukkahillo",
+                  "meta": "suomalaista possua ja nautaa, M, G"
                 },
                 {
-                  "name": "Juustoperunaa",
+                  "name": "Perunamuusia",
                   "meta": "L, G"
-                },
-                {
-                  "name": "Riisiä",
-                  "meta": "M, G"
                 }
               ],
               "price": "11,90 €"
@@ -318,23 +314,23 @@
           "note": null
         },
         {
-          "date": "2026-06-30",
+          "date": "2026-07-07",
           "weekday": "Tiistai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Lihapullia kermakastikkeessa",
-                  "meta": "suomalaista nautaa ja possua, L, G"
-                },
-                {
-                  "name": "Paneroitua kampelaa",
-                  "meta": "G"
-                },
-                {
-                  "name": "Sitruunaista kermaviilikastiketta",
+                  "name": "Jauhelihapihvit talon pippuri-kermakastikkeessa",
                   "meta": "L, G"
+                },
+                {
+                  "name": "(suomalaista nautaa ja possua)",
+                  "meta": null
+                },
+                {
+                  "name": "Paneroitua kampelaa pinaatti-feta täytteellä",
+                  "meta": "G"
                 },
                 {
                   "name": "Perunamuusia",
@@ -347,47 +343,22 @@
           "note": null
         },
         {
-          "date": "2026-07-01",
+          "date": "2026-07-08",
           "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Ylikypsää possua BBQ -kastikkeessa",
+                  "name": "Possun sisäfileetä hunaja-sinappi kastikkeessa",
                   "meta": "suomalaista possua, L, G"
                 },
                 {
-                  "name": "Yrttimarinoitua broileria",
-                  "meta": "suomalaista broileria, M, G"
+                  "name": "Bearnaise kanaa",
+                  "meta": "suomalaista broileria, VL, G"
                 },
                 {
-                  "name": "Lohkoperunaa",
-                  "meta": "M, G"
-                }
-              ],
-              "price": "11,90 €"
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-07-02",
-          "weekday": "Torstai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Sitruuna-smetanabroileria",
-                  "meta": "suomalaista broileria, L, G"
-                },
-                {
-                  "name": "Chili-possua",
-                  "meta": "suomalaista possua, L, G"
-                },
-                {
-                  "name": "Varhaisperunaa",
+                  "name": "Paahdettua perunaa",
                   "meta": "M, G"
                 },
                 {
@@ -401,23 +372,48 @@
           "note": null
         },
         {
-          "date": "2026-07-03",
+          "date": "2026-07-09",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Paneroitua broileria",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Caffitellan Chorizopyörykät",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kolmen Sipulin kermaviili",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kermaperunaa",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "11,90 €"
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-07-10",
           "weekday": "Perjantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Pannupihvejä ruskeassa kastikkeessa",
-                  "meta": "suomalaista nautaa ja possua, L, G"
+                  "name": "Caffitellan Jauhelihalasagnea",
+                  "meta": "suomalaista nautaa ja possua, L"
                 },
                 {
-                  "name": "Juustoista makkaravuokaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Perunamuusia",
-                  "meta": "L, G"
+                  "name": "Broileria & kasviksia",
+                  "meta": "suomalaista broileria, M, G"
                 }
               ],
               "price": "11,90 €"
@@ -427,7 +423,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f71d872a390>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
