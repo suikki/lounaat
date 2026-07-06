@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T05:41:45Z",
+  "generated_at": "2026-07-06T07:58:51Z",
   "iso_week": 28,
   "restaurants": [
     {
@@ -15,20 +15,24 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Puerto Ricon Pannu , chilimajoneesi",
-                  "meta": "L, M"
+                  "name": "Linkosuon Puerto Ricon pannu (selleri, soija, ohra, maito) SAA",
+                  "meta": "selleri, soija, L, M, G"
+                },
+                {
+                  "name": "– chilimajoneesi",
+                  "meta": "kananmuna, sinappi, M, G"
                 },
                 {
                   "name": "BBQ paahdettuja broilerin koipinuijia & siipiä",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Riisiä",
+                  "name": "– riisiä",
                   "meta": "M, G, VEG"
                 },
                 {
                   "name": "Vegaani ruoka keittiöstä: Puerto Ricon härkäpapupannu",
-                  "meta": "M, VEG"
+                  "meta": "selleri, soija, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -38,7 +42,7 @@
               "dishes": [
                 {
                   "name": "Linssi-porkkanasosekeitto",
-                  "meta": "M, G, VEG"
+                  "meta": "selleri, M, G, VEG"
                 }
               ],
               "price": null
@@ -423,7 +427,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7ffb0ef25130>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f71d872a390>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
