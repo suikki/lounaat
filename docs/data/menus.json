@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T05:11:09Z",
+  "generated_at": "2026-07-07T06:57:49Z",
   "iso_week": 28,
   "restaurants": [
     {
@@ -58,20 +58,28 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Naudan pannupihvejä sipulikastikkeella",
-                  "meta": "L"
+                  "name": "Naudan pannupihvejä sipulikastikkeella (maito, vehnä, sinappi, kananmuna) SAA",
+                  "meta": "L, M"
                 },
                 {
                   "name": "Yrtti – gratinoitua seitä",
-                  "meta": "L, G"
+                  "meta": "maito, kananmuna, sinappi, L, G"
                 },
                 {
-                  "name": "Peruna muussia",
-                  "meta": "L, G"
+                  "name": "– perunamuussia",
+                  "meta": "maito, L, G"
                 },
                 {
                   "name": "Jälkiruoaksi: Mansikkainen chia vanukas",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
+                },
+                {
+                  "name": "M, jälkiruoka keittiöstä",
+                  "meta": "VEG"
+                },
+                {
+                  "name": "Vegaaniruoka kasvis-sipulihöystö keittiöstä",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -97,19 +105,15 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Louisiana tyylinen possu pata",
+                  "name": "Louisiana tyylinen possupata",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Maissipihvejä sekä ruohosipuli-sitrus dippi",
-                  "meta": "L"
-                },
-                {
-                  "name": "KASVIS",
+                  "name": "Maissipihvejä sekä ruohosipuli-sitrus dippiä L, KASVIS",
                   "meta": null
                 },
                 {
-                  "name": "Riisiä",
+                  "name": "– riisiä",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -144,11 +148,11 @@
                   "meta": "M"
                 },
                 {
-                  "name": "Juures muusi",
+                  "name": "– juuresmuussia",
                   "meta": "L, G"
                 },
                 {
-                  "name": "riisi",
+                  "name": "– riisi",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -158,7 +162,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Täyteläinen Kukkakaalikeitto",
+                  "name": "Täyteläinen kukkakaalikeitto",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -175,19 +179,15 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "sinihomejuustolla gratinoitua broileria",
+                  "name": "Sinihomejuustolla gratinoitua broileria",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Nakki hodareita & sriracha Majoneesia",
+                  "name": "Nakki hodareita & sriracha majoneesia",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Paahdetut perunat",
-                  "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Jälkiruoaksi: Hedelmä salaattia",
+                  "name": "– paahdetut perunat",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -197,7 +197,17 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "kasvis minestrone",
+                  "name": "Kasvis minestrone",
+                  "meta": "M, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "Hedelmäsalaattia",
                   "meta": "M, G, VEG"
                 }
               ],
