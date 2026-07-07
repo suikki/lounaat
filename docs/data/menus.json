@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:13:10Z",
+  "generated_at": "2026-07-07T05:11:09Z",
   "iso_week": 28,
   "restaurants": [
     {
@@ -187,8 +187,8 @@
                   "meta": "M, G, VEG"
                 },
                 {
-                  "name": "Jälkiruoaksi: Hedelmä rahkaa",
-                  "meta": "L, G"
+                  "name": "Jälkiruoaksi: Hedelmä salaattia",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
