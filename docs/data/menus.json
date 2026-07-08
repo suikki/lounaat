@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:10:03Z",
+  "generated_at": "2026-07-08T07:42:39Z",
   "iso_week": 28,
   "restaurants": [
     {
@@ -105,12 +105,16 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Louisiana tyylinen possupata",
+                  "name": "Louisiana tyylinen possu- makkarapata",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Maissipihvejä sekä ruohosipuli-sitrus dippiä L, KASVIS",
-                  "meta": null
+                  "name": "Maissipihvejä",
+                  "meta": "M, G, VEG"
+                },
+                {
+                  "name": "– ruohosipuli-sitrus dippiä L, G, KASVIS",
+                  "meta": "maito, kananmuna, sinappi, saa VEG"
                 },
                 {
                   "name": "– riisiä",
@@ -433,7 +437,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f1080dc9b20>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fa6487c97c0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
