@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:58:02Z",
+  "generated_at": "2026-07-10T08:44:44Z",
   "iso_week": 28,
   "restaurants": [
     {
@@ -198,11 +198,11 @@
               "dishes": [
                 {
                   "name": "Sinihomejuustolla gratinoitua broileria",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 },
                 {
-                  "name": "Nakki hodareita & sriracha majoneesia",
-                  "meta": "M, G"
+                  "name": "Nakki hodareita (vehnä) & sriracha majoneesia",
+                  "meta": "kananmuna, sinappi, M, G"
                 },
                 {
                   "name": "– paahdetut perunat",
@@ -216,7 +216,17 @@
               "dishes": [
                 {
                   "name": "Kasvis minestrone",
-                  "meta": "M, VEG"
+                  "meta": "vehnä, M, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Seitan-kasvispaistos",
+                  "meta": "vehnä, soija, M, VEG"
                 }
               ],
               "price": null
@@ -451,7 +461,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7ff34e041a60>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
