@@ -1,12 +1,210 @@
 {
-  "generated_at": "2026-07-13T04:51:01Z",
+  "generated_at": "2026-07-13T06:32:42Z",
   "iso_week": 29,
   "restaurants": [
     {
       "key": "linkosuo_hertta",
       "name": "Linkosuo Hertta",
       "url": "https://linkosuo.fi/toimipaikka/hertta/",
-      "days": [],
+      "days": [
+        {
+          "date": "2026-07-13",
+          "weekday": "Maanantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Paneroitua turskaa",
+                  "meta": "vehnä, sinappi, M"
+                },
+                {
+                  "name": "remoulade kastiketta",
+                  "meta": "Kananmuna,sinappi, L, G"
+                },
+                {
+                  "name": "Tomaattiset lihapullat",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Perunamuusi",
+                  "meta": "saa M,G, L, G"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Kesäkeitto",
+                  "meta": "L, G"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-07-14",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Luuttomia possun BBQ ribsejä",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Tikka masala intialaista kanapataa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Basmati riisi",
+                  "meta": "M, G, VEG"
+                },
+                {
+                  "name": "Pulla kahvit",
+                  "meta": "L"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Lempeän tulinen fenkolikeitto",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-07-15",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Hot honey paahdettua kananpoikaa",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Pinaatti-härkäpapu lasagne",
+                  "meta": "L"
+                },
+                {
+                  "name": "Varhaisperunoita",
+                  "meta": "M, G, VEG"
+                },
+                {
+                  "name": "Mango-chili riisiä",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Mustapapu-kikhernekeitto",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-07-16",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Paneritua Broileria",
+                  "meta": "M"
+                },
+                {
+                  "name": "Ranch dippi",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Tofu kasvis wokki",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Hernekeitto",
+                  "meta": "M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "Pannukakkua",
+                  "meta": "L"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-07-17",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Aromaattista possupataa",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Juustoinen cheddar feta pannupizza, Marinoidulla punasipulilla ja rukolalla",
+                  "meta": "L"
+                },
+                {
+                  "name": "Varhaisperunoita",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Juuressosekeitto",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        }
+      ],
       "hours": "10:30–13:30",
       "error": null
     },
