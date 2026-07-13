@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:32:42Z",
+  "generated_at": "2026-07-13T08:29:35Z",
   "iso_week": 29,
   "restaurants": [
     {
@@ -19,16 +19,16 @@
                   "meta": "vehnä, sinappi, M"
                 },
                 {
-                  "name": "remoulade kastiketta",
-                  "meta": "Kananmuna,sinappi, L, G"
+                  "name": "– remoulade kastiketta",
+                  "meta": "kananmuna, sinappi, selleri, maito, L, G"
                 },
                 {
                   "name": "Tomaattiset lihapullat",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Perunamuusi",
-                  "meta": "saa M,G, L, G"
+                  "name": "– perunamuusi",
+                  "meta": "saa M, G, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -38,7 +38,17 @@
               "dishes": [
                 {
                   "name": "Kesäkeitto",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Meksikon kasvispihvit tomaattikastikkeella",
+                  "meta": null
                 }
               ],
               "price": null
@@ -58,16 +68,12 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Tikka masala intialaista kanapataa",
+                  "name": "Tikka masala – intialaista kanapataa",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Basmati riisi",
+                  "name": "– basmati riisi",
                   "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Pulla kahvit",
-                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -78,6 +84,16 @@
                 {
                   "name": "Lempeän tulinen fenkolikeitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "pullaa ja kahvia",
+                  "meta": null
                 }
               ],
               "price": null
@@ -101,11 +117,11 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Varhaisperunoita",
+                  "name": "– varhaisperunoita",
                   "meta": "M, G, VEG"
                 },
                 {
-                  "name": "Mango-chili riisiä",
+                  "name": "– Mango-chili riisiä",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -132,15 +148,15 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Paneritua Broileria",
+                  "name": "Paneroitua broileria",
                   "meta": "M"
                 },
                 {
-                  "name": "Ranch dippi",
+                  "name": "– Ranch dippi",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Tofu kasvis wokki",
+                  "name": "Tofu- kasviswokki",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -160,7 +176,7 @@
               "name": "Jälkiruoka",
               "dishes": [
                 {
-                  "name": "Pannukakkua",
+                  "name": "pannukakkua & hilloa",
                   "meta": "L"
                 }
               ],
@@ -181,11 +197,11 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Juustoinen cheddar feta pannupizza, Marinoidulla punasipulilla ja rukolalla",
+                  "name": "Juustoinen cheddar- feta pannupizza marinoidulla punasipulilla ja rucolalla",
                   "meta": "L"
                 },
                 {
-                  "name": "Varhaisperunoita",
+                  "name": "– varhaisperunoita",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -421,7 +437,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fa476969d00>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
