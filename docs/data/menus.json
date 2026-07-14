@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:23:19Z",
+  "generated_at": "2026-07-14T09:20:31Z",
   "iso_week": 29,
   "restaurants": [
     {
@@ -305,7 +305,7 @@
         }
       ],
       "hours": "10:30–13:00",
-      "error": "ConnectionError: HTTPSConnectionPool(host='antell.fi', port=443): Max retries exceeded with url: /lounas/tampere/hermianfarmi/ (Caused by NewConnectionError(\"HTTPSConnection(host='antell.fi', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": null
     },
     {
       "key": "caffitella_duo",
@@ -451,7 +451,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f3c817b2960>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
