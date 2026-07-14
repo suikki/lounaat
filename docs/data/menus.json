@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T05:43:38Z",
+  "generated_at": "2026-07-14T07:23:19Z",
   "iso_week": 29,
   "restaurants": [
     {
@@ -65,15 +65,19 @@
               "dishes": [
                 {
                   "name": "Luuttomia possun BBQ ribsejä",
-                  "meta": "M, G"
+                  "meta": "sinappi, M, G"
                 },
                 {
                   "name": "Tikka masala – intialaista kanapataa",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 },
                 {
                   "name": "– basmati riisi",
                   "meta": "M, G, VEG"
+                },
+                {
+                  "name": "M, jälkiruoka keittiöstä",
+                  "meta": "G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -84,6 +88,16 @@
                 {
                   "name": "Lempeän tulinen fenkolikeitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Tofua Tikka masala",
+                  "meta": null
                 }
               ],
               "price": null
@@ -437,7 +451,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f704f61eb70>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f3c817b2960>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
