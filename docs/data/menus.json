@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T04:19:43Z",
+  "generated_at": "2026-07-15T07:25:20Z",
   "iso_week": 29,
   "restaurants": [
     {
@@ -123,12 +123,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Hot honey paahdettua kananpoikaa",
-                  "meta": "M, G"
+                  "name": "Broileria Hot honey kastikkeessa",
+                  "meta": "seesami, M, G"
                 },
                 {
                   "name": "Pinaatti-härkäpapu pastaa",
-                  "meta": "L"
+                  "meta": "vehnä, M, VEG"
                 },
                 {
                   "name": "– varhaisperunoita",
