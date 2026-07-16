@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T05:57:25Z",
+  "generated_at": "2026-07-16T07:33:46Z",
   "iso_week": 29,
   "restaurants": [
     {
@@ -159,15 +159,23 @@
               "dishes": [
                 {
                   "name": "Paneroitua broileria",
-                  "meta": "M"
+                  "meta": "M, G"
                 },
                 {
                   "name": "– Ranch dippi",
-                  "meta": "L, G"
+                  "meta": "maito, sinappi, kananmuna, L, G"
                 },
                 {
                   "name": "Tofu- kasviswokki",
-                  "meta": "M, G, VEG"
+                  "meta": "soija, seesami, vehnä, M, VEG"
+                },
+                {
+                  "name": "– riisiä",
+                  "meta": null
+                },
+                {
+                  "name": "M, jälkiruoka keittiöstä",
+                  "meta": "G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -176,8 +184,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "kasvishernekeitto",
-                  "meta": "M, G, VEG"
+                  "name": "Kasvishernekeitto",
+                  "meta": "sinappi, soija, M, G, VEG"
                 }
               ],
               "price": null
@@ -187,7 +195,7 @@
               "dishes": [
                 {
                   "name": "pannukakkua & hilloa",
-                  "meta": "L"
+                  "meta": "maito, kananmuna, vehnä, L"
                 }
               ],
               "price": null
@@ -203,16 +211,16 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Aromaattista possupataa",
+                  "name": "Mausteinen possupata",
                   "meta": "M, G"
-                },
-                {
-                  "name": "Juustoinen cheddar- feta pannupizza marinoidulla punasipulilla ja rucolalla",
-                  "meta": "L"
                 },
                 {
                   "name": "– varhaisperunoita",
                   "meta": "M, G, VEG"
+                },
+                {
+                  "name": "Juustoinen cheddar- feta pannupizza marinoidulla punasipulilla ja rucolalla L, KASVIS",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -447,7 +455,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fd8929885c0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
