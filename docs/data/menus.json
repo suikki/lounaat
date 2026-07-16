@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T09:25:08Z",
+  "generated_at": "2026-07-16T04:29:27Z",
   "iso_week": 29,
   "restaurants": [
     {
@@ -133,10 +133,6 @@
                 {
                   "name": "– varhaisperunoita",
                   "meta": "M, G, VEG"
-                },
-                {
-                  "name": "– Mango-chili riisiä",
-                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -180,8 +176,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Hernekeitto",
-                  "meta": "M, G"
+                  "name": "kasvishernekeitto",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -451,7 +447,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f1cd3248170>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f707ad1ff20>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
