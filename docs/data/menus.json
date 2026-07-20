@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T06:28:22Z",
+  "generated_at": "2026-07-20T10:21:46Z",
   "iso_week": 30,
   "restaurants": [
     {
@@ -535,11 +535,11 @@
                   "meta": null
                 },
                 {
-                  "name": "Uunilohta kermaviilikastikkeella, tilli-voiperunat (",
-                  "meta": null
+                  "name": "Uunilohta remouladella, pariisinperunat",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Porsaanleike maustevoilla, ranskalaiset (",
+                  "name": "Porsaanleike choronkastikkeella, ranskalaiset",
                   "meta": null
                 },
                 {
@@ -572,11 +572,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Talon ribsejä, bratwurstia, grillattua broileria ja maissia.",
-                  "meta": null
-                },
-                {
-                  "name": "Maalaisranskalaisia ja paneroituja sipulirenkaita",
+                  "name": "Talon naudanlihapihvejä ja paneroitua kanaa",
                   "meta": null
                 },
                 {
@@ -588,7 +584,15 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Mansikkapirtelö",
+                  "name": "Maalaisranskalaisia ja paneroituja sipuliren",
+                  "meta": null
+                },
+                {
+                  "name": "kaita",
+                  "meta": null
+                },
+                {
+                  "name": "mansikkapirtelö",
                   "meta": null
                 }
               ],
