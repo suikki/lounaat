@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:21:46Z",
+  "generated_at": "2026-07-21T07:43:21Z",
   "iso_week": 30,
   "restaurants": [
     {
@@ -55,23 +55,27 @@
               "dishes": [
                 {
                   "name": "Lihamureketta fetamurulla & pinaatilla",
-                  "meta": "sinappi, muna,soija, M, G"
+                  "meta": "sinappi, muna,soija, L, G"
                 },
                 {
-                  "name": "Kuorrutettuja maissipihvejä",
-                  "meta": "L, G"
+                  "name": "– keittiöstä lihamureketta",
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Paahdettua pikkuperunaa",
+                  "name": "– paahdettua pikkuperunaa",
                   "meta": "M, G, VEG"
                 },
                 {
-                  "name": "Lime-yrttidippiä",
-                  "meta": "L, G"
+                  "name": "Juustokuorrutetut maissipihvit",
+                  "meta": "glut.kaura, maito, L, G"
+                },
+                {
+                  "name": "– lime-yrttidippiä",
+                  "meta": "maito, kananmuna, sinappi, L, G"
                 },
                 {
                   "name": "Jälkiruoaksi: Mango-persikkarahkaa",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -81,7 +85,7 @@
               "dishes": [
                 {
                   "name": "Paprika-kikhernekeitto",
-                  "meta": "G"
+                  "meta": "glut.kaura, G, VEG"
                 }
               ],
               "price": null
