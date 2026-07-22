@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:43:21Z",
+  "generated_at": "2026-07-22T04:39:19Z",
   "iso_week": 30,
   "restaurants": [
     {
@@ -101,7 +101,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kananpoja filettä savuisessa paprikakastikkeessa",
+                  "name": "Mureaa kananpojan fileetä savuisessa paprikakastikkeessa",
                   "meta": "L, G"
                 },
                 {
@@ -109,8 +109,8 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Riisiä",
-                  "meta": null
+                  "name": "Riisiä ja paahdettuja kauden kasviksia",
+                  "meta": "G, VEG"
                 }
               ],
               "price": "13,80 €"
