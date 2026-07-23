@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:45:27Z",
+  "generated_at": "2026-07-23T09:42:06Z",
   "iso_week": 30,
   "restaurants": [
     {
@@ -197,6 +197,14 @@
                 {
                   "name": "Paahdettuja yrttiperunoita",
                   "meta": "M, G, VEG"
+                },
+                {
+                  "name": "Perinteinen pinaattikeitto",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "– keitetyt kananmunat",
+                  "meta": null
                 },
                 {
                   "name": "Jälkiruoaksi: mansikka-raparperikiisseliä",
