@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:43:00Z",
+  "generated_at": "2026-07-23T04:41:45Z",
   "iso_week": 30,
   "restaurants": [
     {
@@ -144,11 +144,11 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Broileri bulgogia",
+                  "name": "Broileria bulgogikastikkeessa",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Miilunpolttajan pastaa",
+                  "name": "Miilunpolttajan spagettia Amerikan pekonilla",
                   "meta": "L"
                 },
                 {
@@ -162,8 +162,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Kermainen kalakeitto L;G",
-                  "meta": null
+                  "name": "Kermainen kalakeitto",
+                  "meta": "L, G"
                 }
               ],
               "price": null
