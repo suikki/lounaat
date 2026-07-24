@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:06:24Z",
+  "generated_at": "2026-07-24T07:42:51Z",
   "iso_week": 30,
   "restaurants": [
     {
@@ -184,11 +184,11 @@
               "dishes": [
                 {
                   "name": "Balsamico-karamellipossua",
-                  "meta": "M, G"
+                  "meta": "soija, M, G"
                 },
                 {
                   "name": "Rapeaa turskaa",
-                  "meta": "M"
+                  "meta": "vehnä, M"
                 },
                 {
                   "name": "– aiolia",
@@ -207,8 +207,12 @@
                   "meta": null
                 },
                 {
+                  "name": "Nochicken balsamico-karamellikastikkeella keittiöstä",
+                  "meta": "soija, G, VEG"
+                },
+                {
                   "name": "Jälkiruoaksi: Mansikka-raparperipiirakkaa",
-                  "meta": "M, G"
+                  "meta": "kananmuna, M, G"
                 }
               ],
               "price": "13,80 €"
