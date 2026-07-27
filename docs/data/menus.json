@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T04:57:12Z",
+  "generated_at": "2026-07-27T06:45:31Z",
   "iso_week": 31,
   "restaurants": [
     {
@@ -16,23 +16,23 @@
               "dishes": [
                 {
                   "name": "Argentiinalaista chimichurribroileria",
-                  "meta": "M, G"
+                  "meta": "soija, M, G"
                 },
                 {
                   "name": "– kasvisriisiä",
-                  "meta": "G, VEG"
+                  "meta": "selleri, G, VEG"
                 },
                 {
                   "name": "Kebabpannua paprika-valkosipulikastikkeessa",
-                  "meta": "M, G"
+                  "meta": "selleri, sinappi, M, G"
                 },
                 {
-                  "name": "– aiolia",
-                  "meta": "M, G"
+                  "name": "– jogurttikastiketta",
+                  "meta": "maito, kananmuna, sinappi, L, G"
                 },
                 {
                   "name": "Kermainen metsäsienikeitto",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 }
               ],
               "price": "13,80 €"
