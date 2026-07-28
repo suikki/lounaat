@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:51:44Z",
+  "generated_at": "2026-07-28T04:31:29Z",
   "iso_week": 31,
   "restaurants": [
     {
@@ -603,7 +603,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.speakeasy.fi/hervanta/lounas/"
+      "error": null
     }
   ]
 }
