@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T04:37:11Z",
+  "generated_at": "2026-07-29T08:01:37Z",
   "iso_week": 31,
   "restaurants": [
     {
@@ -90,15 +90,15 @@
                 },
                 {
                   "name": "Kauraleivitetyt silakkapihvit",
-                  "meta": "M"
+                  "meta": "kaura, M"
                 },
                 {
                   "name": "– yrttinen sitruunadippi",
-                  "meta": "L, G"
+                  "meta": "maito, kananmuna, sinappi, L, G"
                 },
                 {
                   "name": "Paahdettu juuressosekeitto",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -419,7 +419,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f5c16e432f0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -429,170 +429,35 @@
         {
           "date": "2026-07-27",
           "weekday": "Maanantai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Broileria cheddar-jalapenokastikkeella",
-                  "meta": null
-                },
-                {
-                  "name": ", basmatiriis",
-                  "meta": null
-                },
-                {
-                  "name": "i",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Janssoninkiusaus (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": null
-                },
-                {
-                  "name": "",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Mustikkarahka (",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-07-28",
           "weekday": "Tiistai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Pannupihvit pippurikastikkeella, ranskalaiset (",
-                  "meta": null
-                },
-                {
-                  "name": "Mustamakkara (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Donitsi (",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-07-29",
           "weekday": "Keskiviikko",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Porsaan kassler sinappikastikkeella, paistetut perunat",
-                  "meta": null
-                },
-                {
-                  "name": "Kebab riisillä (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Porkkanakakku (",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-07-30",
           "weekday": "Torstai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "SPEAKEASYN LOHIBUFFET",
-                  "meta": null
-                },
-                {
-                  "name": "Porsaanleike maustevoilla, ranskalaiset (",
-                  "meta": null
-                },
-                {
-                  "name": "Uunilohta kermaviilikastikkeella, tilli-voiperunat (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Pannukakut ja mansikkahillo",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-07-31",
           "weekday": "Perjantai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "SPEAKEASYN GRILLIBUFFET",
-                  "meta": "L"
-                },
-                {
-                  "name": "Talon ribsejä, bratwurstia, grillattua broileria ja maissia.",
-                  "meta": null
-                },
-                {
-                  "name": "Maalaisranskalaisia ja paneroituja sipulirenkaita",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "hedelmäsalaatti",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         }
       ],
-      "hours": "10:30–14:30",
+      "hours": null,
       "error": null
     }
   ]
