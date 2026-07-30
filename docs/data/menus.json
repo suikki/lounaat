@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:02:16Z",
+  "generated_at": "2026-07-30T07:43:44Z",
   "iso_week": 31,
   "restaurants": [
     {
@@ -114,24 +114,32 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kalkkunaa cordon bleu",
-                  "meta": null
+                  "name": "Kalkkunaa cordon bleu – paneroitua kalkkunaleikettä herkullisella juustotäytteellä",
+                  "meta": "maito, vehnä"
                 },
                 {
-                  "name": "– sweet chili mayo ja riisiä",
+                  "name": "– sweet chili mayo (kananmuna, sinappi) ja riisiä",
                   "meta": "M, G, VEG"
                 },
                 {
-                  "name": "Sinihomejuustoinen kasvislasagne",
-                  "meta": "L"
-                },
-                {
-                  "name": "Hernekeitto palvikinkulla",
+                  "name": "Keittiöstä possun niskaa",
                   "meta": "M, G"
                 },
                 {
+                  "name": "Sinihomejuustoinen kasvislasagne",
+                  "meta": "maito, vehnä, L"
+                },
+                {
+                  "name": "Keittiöstä kasvislasagnea",
+                  "meta": "VEG"
+                },
+                {
+                  "name": "Hernekeitto murealla possulla",
+                  "meta": "sinappi, soija, M, G"
+                },
+                {
                   "name": "– pannukakkua ja hilloa",
-                  "meta": "L"
+                  "meta": "maito, vehnä, kananmuna, L"
                 }
               ],
               "price": "13,80 €"
@@ -419,7 +427,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f443b137080>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
@@ -429,35 +437,170 @@
         {
           "date": "2026-07-27",
           "weekday": "Maanantai",
-          "sections": [],
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Broileria cheddar-jalapenokastikkeella",
+                  "meta": null
+                },
+                {
+                  "name": ", basmatiriis",
+                  "meta": null
+                },
+                {
+                  "name": "i",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Janssoninkiusaus (",
+                  "meta": null
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": null
+                },
+                {
+                  "name": "",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Mustikkarahka (",
+                  "meta": null
+                }
+              ],
+              "price": "14,00 €"
+            }
+          ],
           "note": null
         },
         {
           "date": "2026-07-28",
           "weekday": "Tiistai",
-          "sections": [],
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Pannupihvit pippurikastikkeella, ranskalaiset (",
+                  "meta": null
+                },
+                {
+                  "name": "Mustamakkara (",
+                  "meta": null
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Donitsi (",
+                  "meta": null
+                }
+              ],
+              "price": "14,00 €"
+            }
+          ],
           "note": null
         },
         {
           "date": "2026-07-29",
           "weekday": "Keskiviikko",
-          "sections": [],
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Porsaan kassler sinappikastikkeella, paistetut perunat",
+                  "meta": null
+                },
+                {
+                  "name": "Kebab riisillä (",
+                  "meta": null
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Porkkanakakku (",
+                  "meta": null
+                }
+              ],
+              "price": "14,00 €"
+            }
+          ],
           "note": null
         },
         {
           "date": "2026-07-30",
           "weekday": "Torstai",
-          "sections": [],
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "SPEAKEASYN LOHIBUFFET",
+                  "meta": null
+                },
+                {
+                  "name": "Porsaanleike maustevoilla, ranskalaiset (",
+                  "meta": null
+                },
+                {
+                  "name": "Uunilohta kermaviilikastikkeella, tilli-voiperunat (",
+                  "meta": null
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Pannukakut ja mansikkahillo",
+                  "meta": null
+                }
+              ],
+              "price": "14,00 €"
+            }
+          ],
           "note": null
         },
         {
           "date": "2026-07-31",
           "weekday": "Perjantai",
-          "sections": [],
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "SPEAKEASYN GRILLIBUFFET",
+                  "meta": "L"
+                },
+                {
+                  "name": "Talon ribsejä, bratwurstia, grillattua broileria ja maissia.",
+                  "meta": null
+                },
+                {
+                  "name": "Maalaisranskalaisia ja paneroituja sipulirenkaita",
+                  "meta": null
+                },
+                {
+                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "hedelmäsalaatti",
+                  "meta": null
+                }
+              ],
+              "price": "14,00 €"
+            }
+          ],
           "note": null
         }
       ],
-      "hours": null,
+      "hours": "10:30–14:30",
       "error": null
     }
   ]
