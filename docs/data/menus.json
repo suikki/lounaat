@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T06:26:17Z",
+  "generated_at": "2026-07-31T08:11:19Z",
   "iso_week": 31,
   "restaurants": [
     {
@@ -156,15 +156,15 @@
               "dishes": [
                 {
                   "name": "Rapeaa porsaanleikettä",
-                  "meta": "M"
+                  "meta": "vehnä, M"
                 },
                 {
                   "name": "– pippurifraiche",
-                  "meta": "L, G"
+                  "meta": "maito, selleri, sinappi, seesami, kananmuna, maito, L, G"
                 },
                 {
-                  "name": "Kasvisfrittata",
-                  "meta": "L, G"
+                  "name": "Kasvisfrittata L, KASVIS",
+                  "meta": "vehnä, kananmuna, maito"
                 },
                 {
                   "name": "Tomaattikeitto tuoreella basilikalla",
@@ -177,8 +177,8 @@
               "name": "Jälkiruoka",
               "dishes": [
                 {
-                  "name": "omena-raparperikaurapaistos ja vaniljakastike",
-                  "meta": "saa myös L,G, L"
+                  "name": "omena-raparperikaurapaistos (vehnä) ja vaniljakastike",
+                  "meta": "maito, saa myös L, G, L"
                 }
               ],
               "price": null
