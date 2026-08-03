@@ -31,11 +31,17 @@ FOOTER_MARKERS = {"menu", "takeaway", "kanta-asiakkaat", "olemme avoinna", "open
 
 
 def _extract_lines(s) -> list[str]:
-    """Return non-empty cleaned text lines from `s` (a BeautifulSoup root)."""
+    """Return non-empty cleaned text lines from `s` (a BeautifulSoup root).
+
+    Uses an empty separator on `get_text` so sibling inline elements are
+    concatenated rather than split — the site wraps every dish in many
+    small `<span>`s, and any separator (`\\n`, space) would shred a single
+    dish across several lines. `<br>` remains the only line boundary.
+    """
     content = s.find("article") or s.find("main") or s
     for br in content.find_all("br"):
         br.replace_with("\n")
-    text = content.get_text("\n")
+    text = content.get_text("")
     lines = [clean_text(line) for line in text.split("\n")]
     return [l for l in lines if l]
 
