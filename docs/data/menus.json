@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:52:33Z",
+  "generated_at": "2026-08-03T21:09:24Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -933,24 +933,20 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Broilerinkoivet ja mango-chilimajoneesi",
-                  "meta": null
+                  "name": "Broilerinkoivet ja mango-chilimajoneesi, basmatiriisi",
+                  "meta": "L, G"
                 },
                 {
-                  "name": ", basmatiriisi (",
-                  "meta": null
-                },
-                {
-                  "name": "Paneroitua kalaa ja ranskalaisia (",
-                  "meta": null
+                  "name": "Paneroitua kalaa ja ranskalaisia",
+                  "meta": "L"
                 },
                 {
                   "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Mangorahka (",
-                  "meta": null
+                  "name": "Mangorahka",
+                  "meta": "L, G"
                 }
               ],
               "price": "14,00 €"
@@ -966,24 +962,20 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "4.8.",
-                  "meta": null
+                  "name": "Uunimakkara, perunamuusi",
+                  "meta": "L"
                 },
                 {
-                  "name": "Uunimakkara, perunamuusi (",
-                  "meta": null
-                },
-                {
-                  "name": "Kaalikääryle ja puolukkahillo (",
-                  "meta": null
+                  "name": "Kaalikääryle ja puolukkahillo",
+                  "meta": "L"
                 },
                 {
                   "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Omenapiirakka ja vaniljakastike (",
-                  "meta": null
+                  "name": "Omenapiirakka ja vaniljakastike",
+                  "meta": "L"
                 }
               ],
               "price": "14,00 €"
@@ -1000,19 +992,19 @@
               "dishes": [
                 {
                   "name": "Pulled pork chili-bbqkastikkeella, mac&cheese",
-                  "meta": null
+                  "meta": "L"
                 },
                 {
-                  "name": "Lihapullaranskalaiset (",
-                  "meta": null
+                  "name": "Lihapullaranskalaiset",
+                  "meta": "L"
                 },
                 {
                   "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Mustaherukka-valkosuklaamousse (",
-                  "meta": null
+                  "name": "Mustaherukka-valkosuklaamousse",
+                  "meta": "L"
                 }
               ],
               "price": "14,00 €"
@@ -1028,12 +1020,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Uunilohta remouladella, pariisinperunat (",
-                  "meta": null
+                  "name": "Uunilohta remouladella, pariisinperunat",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Porsaanleike choronkastikkeella, ranskalaiset (",
-                  "meta": null
+                  "name": "Porsaanleike choronkastikkeella, ranskalaiset",
+                  "meta": "L"
                 },
                 {
                   "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
