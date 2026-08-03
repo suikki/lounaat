@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T04:53:14Z",
+  "generated_at": "2026-08-03T06:41:46Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -696,7 +696,7 @@
         }
       ],
       "hours": "10:30–13:00",
-      "error": null
+      "error": "ConnectionError: HTTPSConnectionPool(host='antell.fi', port=443): Max retries exceeded with url: /lounas/tampere/hermianfarmi/ (Caused by NewConnectionError(\"HTTPSConnection(host='antell.fi', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     },
     {
       "key": "caffitella_duo",
@@ -866,7 +866,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f0c9ee5d700>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f2c189f74a0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -876,158 +876,35 @@
         {
           "date": "2026-08-03",
           "weekday": "Maanantai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Broilerinkoivet ja mango-chilimajoneesi",
-                  "meta": null
-                },
-                {
-                  "name": ", basmatiriisi (",
-                  "meta": null
-                },
-                {
-                  "name": "Paneroitua kalaa ja ranskalaisia (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Mangorahka (",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-08-04",
           "weekday": "Tiistai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "4.8.",
-                  "meta": null
-                },
-                {
-                  "name": "Uunimakkara, perunamuusi (",
-                  "meta": null
-                },
-                {
-                  "name": "Kaalikääryle ja puolukkahillo (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Omenapiirakka ja vaniljakastike (",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-08-05",
           "weekday": "Keskiviikko",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Pulled pork chili-bbqkastikkeella, mac&cheese",
-                  "meta": null
-                },
-                {
-                  "name": "Lihapullaranskalaiset (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Mustaherukka-valkosuklaamousse (",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-08-06",
           "weekday": "Torstai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Uunilohta remouladella, pariisinperunat (",
-                  "meta": null
-                },
-                {
-                  "name": "Porsaanleike choronkastikkeella, ranskalaiset (",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Pannukakut ja mansikkahillo",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         },
         {
           "date": "2026-08-07",
           "weekday": "Perjantai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Talon naudanlihapihvejä ja paneroitua kanaa",
-                  "meta": null
-                },
-                {
-                  "name": "Maalaisranskalaisia ja paneroituja sipulirenkaita",
-                  "meta": null
-                },
-                {
-                  "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Mansikkapirtelö",
-                  "meta": null
-                }
-              ],
-              "price": "14,00 €"
-            }
-          ],
+          "sections": [],
           "note": null
         }
       ],
-      "hours": "10:30–14:30",
+      "hours": null,
       "error": null
     }
   ]
