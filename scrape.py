@@ -59,13 +59,16 @@ def main(argv: list[str]) -> int:
             n_dishes = sum(
                 len(s["dishes"]) for d in data["days"] for s in d.get("sections", [])
             )
-            # A scrape that returns nothing but doesn't raise is almost always
-            # a silent parser miss or the source page briefly serving blank
+            n_notes = sum(1 for d in data["days"] if d.get("note"))
+            # A scrape that returns no dishes AND no notes is almost always a
+            # silent parser miss or the source page briefly serving blank
             # content — treat it like a failure so the previous menu is kept.
-            if n_dishes == 0:
-                raise RuntimeError("scraper returned 0 dishes")
+            # Notes alone (e.g. "Suljettu" for a whole vacation week) are a
+            # valid, informative result and shouldn't trigger the fallback.
+            if n_dishes == 0 and n_notes == 0:
+                raise RuntimeError("scraper returned 0 dishes and 0 notes")
             new_results[key] = data
-            print(f"  ok — {len(data['days'])} days, {n_dishes} dishes")
+            print(f"  ok — {len(data['days'])} days, {n_dishes} dishes, {n_notes} notes")
         except Exception as e:
             any_failed = True
             err = f"{type(e).__name__}: {e}"
