@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:13:37Z",
+  "generated_at": "2026-08-04T15:16:27Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -272,7 +272,7 @@
                 },
                 {
                   "name": "Juustokuorrutetut kasvispihvit",
-                  "meta": "saa myös M,G, L, G"
+                  "meta": "L, G"
                 },
                 {
                   "name": "Tomaattikeitto tuoreella basilikalla ja vuohenjuustolla",
@@ -308,7 +308,7 @@
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Kasvishernekeittoa",
+                  "name": "Härkishernekeittoa",
                   "meta": "G, VEG"
                 },
                 {
@@ -936,7 +936,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f7bc10623f0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
