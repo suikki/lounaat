@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:09:24Z",
+  "generated_at": "2026-08-04T07:56:57Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -57,11 +57,11 @@
               "dishes": [
                 {
                   "name": "Puna-ahventa Jamaican jerk- kastiikkeella",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "Pyttipannua",
-                  "meta": null
+                  "meta": "sinappi, M, G"
                 }
               ],
               "price": "13,80 €"
@@ -71,7 +71,17 @@
               "dishes": [
                 {
                   "name": "Porkkana-rakuunakeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "falafel pyöryköitä Jerk kastikkeella",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -91,7 +101,7 @@
                   "meta": null
                 },
                 {
-                  "name": "Kernainen broileri-herrkusienipasta",
+                  "name": "Kermainen broileri-herkkusienipasta",
                   "meta": null
                 }
               ],
@@ -220,8 +230,16 @@
                   "meta": "M, G"
                 },
                 {
+                  "name": "– cajunperunaa",
+                  "meta": "G, VEG"
+                },
+                {
                   "name": "Havaijin huli huli kanaa",
                   "meta": "M, G"
+                },
+                {
+                  "name": "– riisiä",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Perinteinen pinaattikeitto",
