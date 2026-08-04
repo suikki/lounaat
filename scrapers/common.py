@@ -15,7 +15,7 @@ USER_AGENT = (
     "+https://github.com/ aggregating public lunch menus)"
 )
 HTTP_TIMEOUT = 20
-HTTP_RETRIES = 2          # total attempts per URL (the daily cron retries too)
+HTTP_RETRIES = 4          # total attempts per URL (the daily cron retries too)
 HTTP_RETRY_BACKOFF = 3    # seconds; multiplied by the attempt number
 
 FI_WEEKDAYS = ["Maanantai", "Tiistai", "Keskiviikko", "Torstai", "Perjantai", "Lauantai", "Sunnuntai"]
