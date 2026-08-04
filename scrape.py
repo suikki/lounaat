@@ -56,10 +56,15 @@ def main(argv: list[str]) -> int:
         print(f"[scrape] {key} ...", flush=True)
         try:
             data = fn().to_dict()
-            new_results[key] = data
             n_dishes = sum(
                 len(s["dishes"]) for d in data["days"] for s in d.get("sections", [])
             )
+            # A scrape that returns nothing but doesn't raise is almost always
+            # a silent parser miss or the source page briefly serving blank
+            # content — treat it like a failure so the previous menu is kept.
+            if n_dishes == 0:
+                raise RuntimeError("scraper returned 0 dishes")
+            new_results[key] = data
             print(f"  ok — {len(data['days'])} days, {n_dishes} dishes")
         except Exception as e:
             any_failed = True
