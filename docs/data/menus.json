@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:16:27Z",
+  "generated_at": "2026-08-05T06:03:24Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -98,11 +98,15 @@
               "dishes": [
                 {
                   "name": "Cherry-BBQ paahdettua possua",
-                  "meta": null
+                  "meta": "soija, selleri, seesami, M, G"
                 },
                 {
                   "name": "Kermainen broileri-herkkusienipasta",
-                  "meta": null
+                  "meta": "L"
+                },
+                {
+                  "name": "M, mansikkavaahto keittiöstä",
+                  "meta": "soija, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -113,6 +117,26 @@
                 {
                   "name": "Mausteinen linssikeitto",
                   "meta": null
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Nochicken herkkusienipasta",
+                  "meta": null
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "mansikkarahkaa",
+                  "meta": "maito, L, G"
                 }
               ],
               "price": null
@@ -272,7 +296,7 @@
                 },
                 {
                   "name": "Juustokuorrutetut kasvispihvit",
-                  "meta": "L, G"
+                  "meta": "keittiöstä M,G, L, G"
                 },
                 {
                   "name": "Tomaattikeitto tuoreella basilikalla ja vuohenjuustolla",
@@ -565,10 +589,6 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Gremolata-maustettua kanaa",
-                  "meta": "L, M, G"
-                },
-                {
                   "name": "BBQ-majoneesia",
                   "meta": "L, M, G"
                 },
@@ -579,6 +599,10 @@
                 {
                   "name": "Katkarapu-caesarsalaatti",
                   "meta": "L"
+                },
+                {
+                  "name": "Aioli-katkarapuja",
+                  "meta": "L, M, G"
                 }
               ],
               "price": "13,80 €"
@@ -646,10 +670,6 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chorizopyörykkä, Suomi",
-                  "meta": "L, M, G"
-                },
-                {
                   "name": "Mangomajoneesia",
                   "meta": "L, M, G"
                 },
@@ -660,6 +680,10 @@
                 {
                   "name": "Caesar-kanasalaattia",
                   "meta": "L"
+                },
+                {
+                  "name": "Tacomaustettua jauhelihaa",
+                  "meta": "L, M, G"
                 }
               ],
               "price": "13,80 €"
