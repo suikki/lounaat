@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T06:03:24Z",
+  "generated_at": "2026-08-05T07:57:59Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -98,11 +98,11 @@
               "dishes": [
                 {
                   "name": "Cherry-BBQ paahdettua possua",
-                  "meta": "soija, selleri, seesami, M, G"
+                  "meta": "soija, selleri, seesami, sinappi, M, G"
                 },
                 {
                   "name": "Kermainen broileri-herkkusienipasta",
-                  "meta": "L"
+                  "meta": "maito, vehnä, L"
                 },
                 {
                   "name": "M, mansikkavaahto keittiöstä",
@@ -116,7 +116,7 @@
               "dishes": [
                 {
                   "name": "Mausteinen linssikeitto",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -126,7 +126,7 @@
               "dishes": [
                 {
                   "name": "Nochicken herkkusienipasta",
-                  "meta": null
+                  "meta": "vehnä, soija, M, VEG"
                 }
               ],
               "price": null
