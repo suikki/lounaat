@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T04:33:14Z",
+  "generated_at": "2026-08-06T06:07:09Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -1114,7 +1114,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
     }
   ]
 }
