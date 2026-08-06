@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:02:20Z",
+  "generated_at": "2026-08-06T04:33:14Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -153,11 +153,11 @@
               "dishes": [
                 {
                   "name": "Appelsiini-chilikanaa",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "Nyhtökaura-kasvispannu",
-                  "meta": null
+                  "meta": "VEG"
                 }
               ],
               "price": "13,80 €"
@@ -328,7 +328,7 @@
                   "meta": "saa myös M,G, L, G"
                 },
                 {
-                  "name": "– riisiä",
+                  "name": "– riisiä & paahdettua porkkanaa ja punajuurta",
                   "meta": "G, VEG"
                 },
                 {
@@ -960,7 +960,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fd7d419c320>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
@@ -1114,7 +1114,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
+      "error": null
     }
   ]
 }
