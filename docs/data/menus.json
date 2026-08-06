@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:07:09Z",
+  "generated_at": "2026-08-06T08:00:26Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -153,10 +153,10 @@
               "dishes": [
                 {
                   "name": "Appelsiini-chilikanaa",
-                  "meta": "M, G"
+                  "meta": "soija, seesami, M, G"
                 },
                 {
-                  "name": "Nyhtökaura-kasvispannu",
+                  "name": "Nyhtökaura-kasvispannu sinihomejuustolla L, G, KASVIS (maito) SAA keittiöstä",
                   "meta": "VEG"
                 }
               ],
@@ -166,8 +166,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Juuressosekeitto",
-                  "meta": null
+                  "name": "Juuressosekeitto L, G, KASVIS",
+                  "meta": "maito"
                 }
               ],
               "price": null
@@ -748,7 +748,7 @@
         }
       ],
       "hours": "10:30–13:00",
-      "error": null
+      "error": "ConnectionError: HTTPSConnectionPool(host='antell.fi', port=443): Max retries exceeded with url: /lounas/tampere/hermianfarmi/ (Caused by NewConnectionError(\"HTTPSConnection(host='antell.fi', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     },
     {
       "key": "caffitella_duo",
@@ -960,7 +960,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f74cdec84d0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
