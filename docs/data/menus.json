@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:03:12Z",
+  "generated_at": "2026-08-07T04:04:48Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -189,13 +189,29 @@
                 {
                   "name": "Burgundinpata possusta",
                   "meta": null
-                },
-                {
-                  "name": "Keoitto:",
-                  "meta": null
                 }
               ],
               "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Maissi-kikhernkeitto",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "persikkapiirakkaa",
+                  "meta": "M"
+                }
+              ],
+              "price": null
             }
           ],
           "note": null
