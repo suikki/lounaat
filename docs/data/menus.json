@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:04:48Z",
+  "generated_at": "2026-08-07T06:36:47Z",
   "iso_week": 32,
   "restaurants": [
     {
@@ -183,12 +183,16 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Rapeaa kalaa & piparjuuri aiolia",
-                  "meta": null
+                  "name": "Paneroitua kampelaaa (vehnä) & piparjuuri aiolia",
+                  "meta": "kananmuna, sinappi, M"
                 },
                 {
                   "name": "Burgundinpata possusta",
-                  "meta": null
+                  "meta": "sinappi, M, G"
+                },
+                {
+                  "name": "G ja jälkiruoka keittiöstä",
+                  "meta": "VEG"
                 }
               ],
               "price": "13,80 €"
@@ -197,7 +201,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Maissi-kikhernkeitto",
+                  "name": "Maissi-kikhernekeitto",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -208,7 +212,7 @@
               "dishes": [
                 {
                   "name": "persikkapiirakkaa",
-                  "meta": "M"
+                  "meta": "vehnä, kananmuna, M"
                 }
               ],
               "price": null
@@ -370,10 +374,10 @@
               "dishes": [
                 {
                   "name": "Orvokin macholeipä",
-                  "meta": "L"
+                  "meta": "ilman leipää, L, G"
                 },
                 {
-                  "name": "– Linkosuon milanonleivän välissä BBQ-nyhtöpossua, juustoa, paholaisen chilimajoneesia, tomaattia ja pepperonia",
+                  "name": "– Linkosuon milanonleivän välissä BBQ-nyhtöpossua, cheddarjuustokastiketta, paholaisen chilimajoneesia, tomaattia ja pepperonia",
                   "meta": null
                 },
                 {
@@ -386,7 +390,7 @@
                 },
                 {
                   "name": "Kahvin kanssa mansikka-raparperirahkaa",
-                  "meta": "saa myös VEG,G, L, G"
+                  "meta": "saa myös marjavaahtoa VEG,G, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -727,11 +731,11 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Maalaislohkoperunoita",
+                  "name": "Kukkakaali-vihreäpapu-savoijinkaalipaistosta",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Kukkakaali-vihreäpapu-savoijinkaalipaistosta",
+                  "name": "Maustepaahdettuja perunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
@@ -753,7 +757,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Maustepaahdettuja perunoita",
+                  "name": "Maalaislohkoperunoita",
                   "meta": "L, M, G, VEG"
                 }
               ],
