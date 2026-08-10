@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T03:20:09Z",
+  "generated_at": "2026-08-10T04:58:14Z",
   "iso_week": 33,
   "restaurants": [
     {
@@ -227,8 +227,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– tillikermaviiliä",
-                  "meta": "L, G"
+                  "name": "– tillikermaviiliä ja paahdetut perunat",
+                  "meta": "L, G, VEG"
                 },
                 {
                   "name": "Tulisempi makkarakeitto",
@@ -252,11 +252,7 @@
                   "meta": "saa M,G, L, G"
                 },
                 {
-                  "name": "– paahdetut perunat",
-                  "meta": "G, VEG"
-                },
-                {
-                  "name": "Punajuuri-vuohenjuustolasagne",
+                  "name": "Punajuuri-vuohenjuustopastavuoka",
                   "meta": "L"
                 },
                 {
