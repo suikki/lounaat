@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:45:40Z",
+  "generated_at": "2026-08-10T08:55:22Z",
   "iso_week": 33,
   "restaurants": [
     {
@@ -224,11 +224,15 @@
                 },
                 {
                   "name": "Kalaa talon tapaan",
-                  "meta": "M"
+                  "meta": null
                 },
                 {
                   "name": "– tillikermaviiliä ja paahdetut perunat",
                   "meta": "L, G, VEG"
+                },
+                {
+                  "name": "Keittiöstä kaura-siemenpyörykät ja tillikaurafraiche",
+                  "meta": "VEG"
                 },
                 {
                   "name": "Tulisempi makkarakeitto",
@@ -423,12 +427,16 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Lehtipihvi bataattiranskalaisilla",
-                  "meta": "L, G"
+                  "name": "Possun lehtipihvi",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Remoulade-majoneesia",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Maalaislohkoperunoita",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -1000,7 +1008,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7ff8e380b8f0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -1158,7 +1166,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
     }
   ]
 }
