@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:08:24Z",
+  "generated_at": "2026-08-11T08:16:47Z",
   "iso_week": 33,
   "restaurants": [
     {
@@ -51,15 +51,15 @@
               "dishes": [
                 {
                   "name": "Butter chicken",
-                  "meta": null
+                  "meta": "L, G"
                 },
                 {
                   "name": "– basmatiriisi",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Kasvis-chavre pyörykät & sitruuna-chilidippi",
-                  "meta": null
+                  "name": "Kasvis-chavre pyörykät (sis.kaura) & sitruuna-chilidippi",
+                  "meta": "sis.sinappi, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -69,7 +69,7 @@
               "dishes": [
                 {
                   "name": "Basilika-bataattikeitto",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -78,8 +78,8 @@
               "name": "Jälkiruoka",
               "dishes": [
                 {
-                  "name": "mansikkainen riisifrutti",
-                  "meta": null
+                  "name": "mansikkainen riisifrutti SAA",
+                  "meta": "sis.soija, L, G, VEG"
                 }
               ],
               "price": null
@@ -256,8 +256,16 @@
                   "meta": "saa M,G, L, G"
                 },
                 {
+                  "name": "– savupaprikaperunat",
+                  "meta": "G, VEG"
+                },
+                {
                   "name": "Punajuuri-vuohenjuustopastavuoka",
                   "meta": "L"
+                },
+                {
+                  "name": "– sitruunaiset kesäkurpitsalohkot tuoreilla yrteillä",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Keltainen kanakeitto",
