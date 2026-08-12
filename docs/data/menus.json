@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T06:47:03Z",
+  "generated_at": "2026-08-12T08:42:34Z",
   "iso_week": 33,
   "restaurants": [
     {
@@ -95,12 +95,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Jauhelihalasagne",
-                  "meta": null
+                  "name": "Jauhelihalasagne (sis.vehnä,maito) SAA",
+                  "meta": "L, M"
                 },
                 {
                   "name": "Härkis red curry",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -110,7 +110,7 @@
               "dishes": [
                 {
                   "name": "Kermainen parsakaalikeitto",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -1178,7 +1178,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
+      "error": null
     }
   ]
 }
