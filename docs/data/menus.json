@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:42:34Z",
+  "generated_at": "2026-08-13T03:34:22Z",
   "iso_week": 33,
   "restaurants": [
     {
@@ -338,7 +338,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– puolukkahilloa",
+                  "name": "– puolukkahilloa ja paahdettua rakuunaporkkanaa",
                   "meta": "G, VEG"
                 },
                 {
@@ -732,8 +732,8 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "BBQ-kanapizzaa",
-                  "meta": "L"
+                  "name": "Tupla pepperoni-cheddar-valkosipulipizza",
+                  "meta": "VL"
                 }
               ],
               "price": "13,80 €"
@@ -1098,7 +1098,7 @@
                 },
                 {
                   "name": "Tonnikala-pastavuoka",
-                  "meta": "L, G"
+                  "meta": "L"
                 },
                 {
                   "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
