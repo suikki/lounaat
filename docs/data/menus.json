@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:09:19Z",
+  "generated_at": "2026-08-14T08:39:54Z",
   "iso_week": 33,
   "restaurants": [
     {
@@ -169,12 +169,16 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Alabama style chicken",
-                  "meta": null
+                  "name": "Alabama style chicken Saa",
+                  "meta": "sis. soija,seesami, M, G, VEG"
                 },
                 {
                   "name": "Fish and chips Hertan tyyliin",
-                  "meta": null
+                  "meta": "sis. vehnä,sinappi, M"
+                },
+                {
+                  "name": "Remoulade dippi",
+                  "meta": "sis.kananmuna,sinappi,maito, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -184,7 +188,7 @@
               "dishes": [
                 {
                   "name": "Myskikurpitsakeitto kikherneillä",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -193,8 +197,8 @@
               "name": "Jälkiruoka",
               "dishes": [
                 {
-                  "name": "omenapiirakkaa",
-                  "meta": null
+                  "name": "omenapiirakkaa SAA",
+                  "meta": "L, M, G"
                 }
               ],
               "price": null
