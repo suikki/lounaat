@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:32:00Z",
+  "generated_at": "2026-08-14T05:09:19Z",
   "iso_week": 33,
   "restaurants": [
     {
@@ -678,10 +678,6 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Paahdettuja vihanneksia",
-                  "meta": "L, M, G, VEG"
-                },
-                {
                   "name": "Sitruuna-jogurttikastiketta",
                   "meta": "L, G"
                 },
@@ -761,7 +757,11 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Maalaislohkoperunoita",
+                  "name": "Höyrytettyä vihannessekoitusta",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Maustepaahdettuja perunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
