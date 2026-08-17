@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T02:35:33Z",
+  "generated_at": "2026-08-17T05:54:10Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -215,11 +215,11 @@
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "– puolukkaa",
-                  "meta": null
+                  "name": "– puolukkaa ja paahdettua lanttua",
+                  "meta": "G, VEG"
                 },
                 {
-                  "name": "Tomaattinen papukeitto ja lehtikaalipesto",
+                  "name": "Tomaattinen papukeitto yrttiöljyllä",
                   "meta": "G, VEG"
                 }
               ],
@@ -413,12 +413,12 @@
                   "meta": "L, M"
                 },
                 {
-                  "name": "Feta-pinaattimunakasta",
+                  "name": "Juustoista kasvismunakasta",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kreikkalainen salaatti",
-                  "meta": "L, G"
+                  "name": "Kesäkurpitsa-soijapapusalaattia",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
