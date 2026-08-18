@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:54:10Z",
+  "generated_at": "2026-08-18T02:31:00Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -495,20 +495,6 @@
                 }
               ],
               "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Pepperoni-cheddarpizzaa",
-                  "meta": "VL"
-                }
-              ],
-              "price": "13,80 €"
             }
           ],
           "note": null
@@ -595,7 +581,11 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Bufala-pizzaa",
+                  "name": "Pepperoni-cheddarpizzaa",
+                  "meta": "VL"
+                },
+                {
+                  "name": "Pepperoni-cheddarpizzaa",
                   "meta": "VL"
                 }
               ],
