@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:01:46Z",
+  "generated_at": "2026-08-18T07:57:32Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -58,24 +58,24 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Linkosuon Puerto Ricon pannu",
-                  "meta": "sis. vehnä,ohra,maito,ruis,selleri,soija, L"
+                  "name": "Linkosuon Puerto Ricon pannu /SAA (sis. vehnä,ohra,maito,ruis,selleri,soija) SAA",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Chili majoneesi",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Härkäpapu wokki",
-                  "meta": "M, G, VEG"
+                  "name": "nyhtökaura wokki",
+                  "meta": "sis.selleri, M, G, VEG"
                 },
                 {
                   "name": "Kasvis riisiä",
-                  "meta": "M, G, VEG"
+                  "meta": "sis.selleri, M, G, VEG"
                 },
                 {
-                  "name": "Jälkiruoaksi: Persikka chia vanukas",
-                  "meta": "SAA M, VEG, L, G"
+                  "name": "Jälkiruoaksi: Persikka chia vanukas SAA M,G;veg sis.soija)",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -84,8 +84,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Myskikurpitsa keitto",
-                  "meta": "M, G, VEG"
+                  "name": "Myskikurpitsa-kookos keitto",
+                  "meta": "sis.selleri, M, G, VEG"
                 }
               ],
               "price": null
@@ -241,7 +241,7 @@
                 },
                 {
                   "name": "– jogurttikastike",
-                  "meta": "M, G"
+                  "meta": "L, G"
                 },
                 {
                   "name": "Pekoniset jauhemaksapihvit kermakastikkeella",
@@ -257,7 +257,11 @@
                 },
                 {
                   "name": "– Ahvenanmaan pannukakkua ja mansikkahilloa",
-                  "meta": null
+                  "meta": "L"
+                },
+                {
+                  "name": "Saa myös gluteenittomia lettuja",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
