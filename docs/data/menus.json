@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:56:27Z",
+  "generated_at": "2026-08-19T16:48:35Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -109,8 +109,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Peruna muussia",
-                  "meta": "saa M, L, G"
+                  "name": "Perunaa",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
@@ -153,6 +153,16 @@
                 }
               ],
               "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Juuressose keitto",
+                  "meta": "L, G"
+                }
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -182,6 +192,16 @@
                 }
               ],
               "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Porkkana keitto",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
             }
           ],
           "note": null
@@ -684,8 +704,8 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Kinkku-ananaspizzaa",
-                  "meta": "L"
+                  "name": "Pepperoni-cheddarpizzaa",
+                  "meta": "VL"
                 }
               ],
               "price": "13,80 €"
@@ -753,7 +773,7 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Kebabpizzaa",
+                  "name": "Kinkku-ananaspizzaa",
                   "meta": "L"
                 }
               ],
