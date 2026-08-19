@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:50:20Z",
+  "generated_at": "2026-08-19T07:56:58Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -101,8 +101,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Naudan pannupihvejä sipulikastikkeella",
-                  "meta": "sis. kananmuna,vehnäjauho, M"
+                  "name": "Naudan pannupihvejä sipulikastikkeella (sis. kananmuna,vehnäjauho, maito, sinappi) SAA",
+                  "meta": "L, M"
                 },
                 {
                   "name": "Yrtti gratinoitua seitä",
@@ -287,6 +287,10 @@
                 {
                   "name": "Orvokin juustoburgerpasta",
                   "meta": "L"
+                },
+                {
+                  "name": "– hot honey porkkanat",
+                  "meta": "M, G"
                 },
                 {
                   "name": "Punajuurisosekeitto",
