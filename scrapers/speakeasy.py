@@ -66,7 +66,14 @@ def _parse(html: str) -> tuple[list[Day], str | None]:
             try:
                 day_n = m.group(2); month_n = m.group(3)
                 if day_n and month_n:
-                    date_map[current] = date(today.year, int(month_n), int(day_n)).isoformat()
+                    parsed = date(today.year, int(month_n), int(day_n))
+                    # Only trust the date suffix when its weekday matches the
+                    # header label. The site has occasionally shipped dates
+                    # that are off by a day (e.g. "MAANANTAI 16.8." with 16.8
+                    # actually being a Sunday) — fall back to week_dates() in
+                    # that case instead of publishing the wrong date.
+                    if parsed.weekday() == current:
+                        date_map[current] = parsed.isoformat()
             except (ValueError, TypeError):
                 pass
             continue

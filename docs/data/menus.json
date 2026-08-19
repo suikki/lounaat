@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:56:58Z",
+  "generated_at": "2026-08-19T15:56:27Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -992,7 +992,7 @@
       "url": "https://www.speakeasy.fi/hervanta/lounas/",
       "days": [
         {
-          "date": "2026-08-16",
+          "date": "2026-08-17",
           "weekday": "Maanantai",
           "sections": [
             {
@@ -1021,7 +1021,7 @@
           "note": null
         },
         {
-          "date": "2026-08-17",
+          "date": "2026-08-18",
           "weekday": "Tiistai",
           "sections": [
             {
@@ -1050,7 +1050,7 @@
           "note": null
         },
         {
-          "date": "2026-08-18",
+          "date": "2026-08-19",
           "weekday": "Keskiviikko",
           "sections": [
             {
@@ -1079,7 +1079,7 @@
           "note": null
         },
         {
-          "date": "2026-08-19",
+          "date": "2026-08-20",
           "weekday": "Torstai",
           "sections": [
             {
@@ -1108,7 +1108,7 @@
           "note": null
         },
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "weekday": "Perjantai",
           "sections": [
             {
