@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:57:32Z",
+  "generated_at": "2026-08-19T02:33:23Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -74,7 +74,7 @@
                   "meta": "sis.selleri, M, G, VEG"
                 },
                 {
-                  "name": "Jälkiruoaksi: Persikka chia vanukas SAA M,G;veg sis.soija)",
+                  "name": "Jälkiruoaksi: Persikka rahka (sis.maito) SAA M,G;veg sis.soija)",
                   "meta": "L, G"
                 }
               ],
@@ -531,7 +531,7 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Mustikka-kardemummapiirakkaa",
+                  "name": "Mustikkapiirakka",
                   "meta": "L, M"
                 }
               ],
