@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:02:47Z",
+  "generated_at": "2026-08-20T08:00:37Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -692,6 +692,10 @@
                 {
                   "name": "Katkarapu-lasinuudelisalaatti",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Herne-punajuuripihvejä",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
