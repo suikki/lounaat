@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:06:53Z",
+  "generated_at": "2026-08-21T05:53:04Z",
   "iso_week": 34,
   "restaurants": [
     {
@@ -359,11 +359,11 @@
                   "meta": "L, G, VEG"
                 },
                 {
-                  "name": "Orvokin oma: Suolaiset letut ja savukala-kananmunavaahto",
-                  "meta": "L, G"
+                  "name": "Munakasrulla leppäsavukirjolohi-kananmunatäytteellä",
+                  "meta": "L"
                 },
                 {
-                  "name": "Peruna-purjokeitto",
+                  "name": "Samettinen kasvissosekeitto",
                   "meta": "L, G"
                 },
                 {
@@ -737,11 +737,11 @@
                   "meta": "VL, G"
                 },
                 {
-                  "name": "Lohkoperunoita",
+                  "name": "Grillattua kesäkurpitsaa ja paprikaa",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Grillattua kesäkurpitsaa ja paprikaa",
+                  "name": "Paahdettuja yrttiperunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
@@ -1008,7 +1008,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f915c331550>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7fe47b5cd790>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
