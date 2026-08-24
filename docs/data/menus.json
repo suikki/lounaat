@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:39:09Z",
+  "generated_at": "2026-08-24T05:57:10Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -16,18 +16,18 @@
               "dishes": [
                 {
                   "name": "Paneroitua korianteri-lime turskaa",
-                  "meta": "sis.vehnä, M"
+                  "meta": "sis. vehnä, M"
                 },
                 {
                   "name": "Tomaattiset lihapullat",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Peruna mussia",
+                  "name": "– perunamuussia",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chef: Lehtipihvi, lohkoperunoita ja valkosipuli maustevoi",
+                  "name": "Chef: Possun lehtipihvi, lohkoperunoita ja valkosipulista maustevoita",
                   "meta": "L, G"
                 }
               ],
@@ -37,7 +37,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Lempeän tulinen fenkoli keitto",
+                  "name": "Lempeän tulinen fenkolikeitto",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -62,11 +62,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chef: Sitruunaista puna-ahventa, paahdettuja perunoita & kasviksia",
-                  "meta": null
-                },
-                {
-                  "name": "Bearnaise kastike",
+                  "name": "Chef: Sitruunaista puna-ahventa, paahdettuja perunoita & kasviksia & bearnaise kastiketta",
                   "meta": null
                 },
                 {
@@ -101,11 +97,11 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Pinaatti-härkäpapu Lasagne",
+                  "name": "Pinaatti-härkäpapu lasagne",
                   "meta": "L"
                 },
                 {
-                  "name": "Chef: Mureaa häränrintaa, rosmariini perunoita ja Tumma mustaherukkakastike",
+                  "name": "Chef: Mureaa häränrintaa, rosmariini perunoita ja tummaa mustaherukkakastiketta",
                   "meta": "M, G"
                 }
               ],
@@ -140,12 +136,8 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Höyrytetyt perunat",
-                  "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Chef: Lohi caesar",
-                  "meta": "L, G"
+                  "name": "Chef: Halloumiburgeri L, KASVIS",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -171,7 +163,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Paneroitua broileria & ranch dippi",
+                  "name": "Paneroitua broileria & ranch dippiä",
                   "meta": "M"
                 },
                 {
@@ -179,12 +171,8 @@
                   "meta": "maito, L, G"
                 },
                 {
-                  "name": "Chef: Juusto hampurilainen, pikkelöityä punasipulia, talon majo & frittiperunat",
-                  "meta": "L"
-                },
-                {
-                  "name": "Jälkiruoaksi: Banaani piirakkaa",
-                  "meta": "Kananmuna, L"
+                  "name": "Chef: Caesar salaatti lohella",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -193,7 +181,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Juuressose keitto",
+                  "name": "Juuressosekeitto",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -229,6 +217,10 @@
                 {
                   "name": "Havaijin perunavuoka – kinkkua, ananasta ja sinihomejuustoa",
                   "meta": "L, G"
+                },
+                {
+                  "name": "– paahdettua punajuurta",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Paahdettu paprikasosekeitto",
@@ -850,8 +842,12 @@
                   "meta": "suomalaista possua, M, G"
                 },
                 {
-                  "name": "Yrttimarinoitua broileria",
-                  "meta": "suomalaista broileria, M, G"
+                  "name": "Crispy Chicken",
+                  "meta": "Suomalaista broileria, M"
+                },
+                {
+                  "name": "Kurkkumajoneesia",
+                  "meta": "M, G"
                 },
                 {
                   "name": "Lohkoperunaa",
@@ -885,16 +881,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Caffitellan kebabia",
-                  "meta": "suomalaista naudanlihaa, L, G"
+                  "name": "Yrttimarinoitua broileria",
+                  "meta": "Suomalaista broileria, M, G"
                 },
                 {
-                  "name": "Crispy Chicken",
-                  "meta": "suomalaista broileria, M"
-                },
-                {
-                  "name": "Kurkkumajoneesi",
-                  "meta": "M, G"
+                  "name": "Chilipossua",
+                  "meta": "suomalaista possua, L, G"
                 },
                 {
                   "name": "Yrttinen perunamuusi",
@@ -932,8 +924,8 @@
                   "meta": "suomalaista broileria, L, G"
                 },
                 {
-                  "name": "Chilipossua",
-                  "meta": "suomalaista possua, L, G"
+                  "name": "Caffitellan kebabia",
+                  "meta": "Suomalaista naudanlihaa, L, G"
                 },
                 {
                   "name": "Paahdettua perunaa",
