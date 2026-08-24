@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:57:10Z",
+  "generated_at": "2026-08-24T08:08:03Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -19,16 +19,20 @@
                   "meta": "sis. vehnä, M"
                 },
                 {
+                  "name": "– sitruskastike",
+                  "meta": "maito, kananmuna, sinappi, L, G"
+                },
+                {
                   "name": "Tomaattiset lihapullat",
                   "meta": "M, G"
                 },
                 {
-                  "name": "– perunamuussia",
-                  "meta": "L, G"
+                  "name": "– perunamuussia (maito) SAA",
+                  "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Chef: Possun lehtipihvi, lohkoperunoita ja valkosipulista maustevoita",
-                  "meta": "L, G"
+                  "meta": "maito, VL, G"
                 }
               ],
               "price": "13,80 €"
@@ -38,6 +42,16 @@
               "dishes": [
                 {
                   "name": "Lempeän tulinen fenkolikeitto",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "MUU fava kasvispata & perunamuussia",
                   "meta": "M, G, VEG"
                 }
               ],
