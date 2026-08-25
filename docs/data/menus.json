@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:33:06Z",
+  "generated_at": "2026-08-25T08:03:03Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -69,15 +69,19 @@
                 },
                 {
                   "name": "Tikka masala- intialainen kanapata",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 },
                 {
-                  "name": "Chef: Sitruunaista puna-ahventa, paahdettuja perunoita & kasviksia & bearnaise kastiketta",
-                  "meta": null
+                  "name": "Chef: Sitruunaista puna-ahventa, paahdettuja perunoita ja kasviksia & bearnaise kastiketta",
+                  "meta": "kananmuna, M, G"
                 },
                 {
                   "name": "Jälkiruoaksi: mustikka-päärynä rahkaa",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
+                },
+                {
+                  "name": "M, mustikkavaahto keittiöstä",
+                  "meta": "soija, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -86,8 +90,18 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Kesäkeitto",
-                  "meta": "L, G"
+                  "name": "Kesäkeitto L, G, KASVIS",
+                  "meta": "maito"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Linssi-papu- kasvispata",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -259,7 +273,15 @@
                 },
                 {
                   "name": "Lohipyörykät",
-                  "meta": "L, G"
+                  "meta": "M, G"
+                },
+                {
+                  "name": "– sitruunaperunat",
+                  "meta": "selleri, G, VEG"
+                },
+                {
+                  "name": "– paahdetut kasvikset yrttiöljyllä",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "– Myrttisen suolakurkkudippi",
