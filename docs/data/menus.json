@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:08:03Z",
+  "generated_at": "2026-08-25T02:33:06Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -29,10 +29,6 @@
                 {
                   "name": "– perunamuussia (maito) SAA",
                   "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Chef: Possun lehtipihvi, lohkoperunoita ja valkosipulista maustevoita",
-                  "meta": "maito, VL, G"
                 }
               ],
               "price": "13,80 €"
@@ -831,12 +827,12 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Chicken & fries",
+                  "name": "Broiler burger",
                   "meta": "L"
                 },
                 {
-                  "name": "Burger salaatti",
-                  "meta": "L, G"
+                  "name": "Tofu poke",
+                  "meta": "G,VE"
                 }
               ],
               "price": null
@@ -874,12 +870,12 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Vuohenjuusto burger",
+                  "name": "Chicken & fries",
                   "meta": "L"
                 },
                 {
-                  "name": "Teriyaki poke",
-                  "meta": "M, G"
+                  "name": "Halloumi poke",
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -913,12 +909,12 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Chili burger",
+                  "name": "Aioli burger",
                   "meta": "L"
                 },
                 {
-                  "name": "Paneroitu broileri poke",
-                  "meta": "L"
+                  "name": "Tofu salaatti",
+                  "meta": "G,VE"
                 }
               ],
               "price": null
@@ -956,11 +952,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Juusto burger",
+                  "name": "Vuohenjuusto burger",
                   "meta": "L"
                 },
                 {
-                  "name": "ja Broilerisalaatti",
+                  "name": "Teriyaki poke",
                   "meta": "M, G"
                 }
               ],
@@ -999,7 +995,7 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Halloum burger",
+                  "name": "Pekoni smash burger",
                   "meta": "L"
                 }
               ],
