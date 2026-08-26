@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:06:40Z",
+  "generated_at": "2026-08-26T08:03:56Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -121,8 +121,8 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Pinaatti-härkäpapu lasagne",
-                  "meta": "L"
+                  "name": "Pinaatti-härkäpapu lasagne L, KASVIS",
+                  "meta": "sis. vehnä, glut. kaura, maito, SAA keittiöstä, sis. vehnä ja glut. kaura, VEG"
                 },
                 {
                   "name": "Chef: Mureaa häränrintaa, rosmariini perunoita ja tummaa mustaherukkakastiketta",
@@ -135,7 +135,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Mustapapu-kikhernekeitto",
+                  "name": "Kikhernekeitto",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -170,8 +170,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Hernekeitto",
-                  "meta": "M, G"
+                  "name": "Hernekeitto M, G, pannukakkua & hilloa",
+                  "meta": null
                 }
               ],
               "price": null
