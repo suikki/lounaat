@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:03:03Z",
+  "generated_at": "2026-08-26T02:40:45Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -321,8 +321,8 @@
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Kahvin kanssa omena-murupiirakkaa ja vaniljakastiketta",
-                  "meta": null
+                  "name": "Kahvin kanssa omenapiirakkaa ja vaniljakastiketta",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -611,8 +611,8 @@
               "name": "Delilounas",
               "dishes": [
                 {
-                  "name": "Kanttarellikeittoa ja briossia",
-                  "meta": "L"
+                  "name": "Metsäsienikeittoa",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Maalaisperunasalaattia",
@@ -639,6 +639,10 @@
                 {
                   "name": "Vihreää salaattia",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Pepperoni-cheddarpizzaa",
+                  "meta": "VL"
                 }
               ],
               "price": "13,80 €"
@@ -732,12 +736,12 @@
               "name": "Pizzalounas",
               "dishes": [
                 {
-                  "name": "Pepperonipizzaa",
-                  "meta": "L"
-                },
-                {
                   "name": "Vihreää salaattia",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Pepperoni-valkosipulipizza",
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -797,7 +801,7 @@
               "name": "Pizzalounas",
               "dishes": [
                 {
-                  "name": "Pepperonipizzaa",
+                  "name": "Pepperoni-jalopenopizza",
                   "meta": "L"
                 },
                 {
