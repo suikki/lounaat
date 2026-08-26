@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:40:45Z",
+  "generated_at": "2026-08-26T04:06:40Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -625,24 +625,6 @@
                 {
                   "name": "Italialainen kasvispyörykkä",
                   "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Mozzarella-kirsikkatomaattipizzaa",
-                  "meta": "VL"
-                },
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Pepperoni-cheddarpizzaa",
-                  "meta": "VL"
                 }
               ],
               "price": "13,80 €"
