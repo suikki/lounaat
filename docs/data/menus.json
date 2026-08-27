@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:14:20Z",
+  "generated_at": "2026-08-27T14:19:42Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -773,7 +773,7 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Pilkotut hedelmät",
+                  "name": "Hedelmäsalaattia",
                   "meta": "L, M, G, VEG"
                 }
               ],
@@ -1186,7 +1186,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
+      "error": null
     }
   ]
 }
