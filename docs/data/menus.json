@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:03:56Z",
+  "generated_at": "2026-08-27T11:14:20Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -125,7 +125,7 @@
                   "meta": "sis. vehnä, glut. kaura, maito, SAA keittiöstä, sis. vehnä ja glut. kaura, VEG"
                 },
                 {
-                  "name": "Chef: Mureaa häränrintaa, rosmariini perunoita ja tummaa mustaherukkakastiketta",
+                  "name": "Chef: Possun poskea, rosmariini perunoita ja tummaa mustaherukkakastiketta",
                   "meta": "M, G"
                 }
               ],
@@ -153,15 +153,15 @@
               "dishes": [
                 {
                   "name": "Mallas glaseerattua possunniskaa",
-                  "meta": "M"
+                  "meta": "sis.ruis, M"
                 },
                 {
-                  "name": "Kalamureke pihvit & tilli dippi",
-                  "meta": "L, M, G"
+                  "name": "ITÄMERIPÄIVÄ: Kalamureke pihvit & tilli dippi",
+                  "meta": "SAA M,G, L, M, G"
                 },
                 {
-                  "name": "Chef: Halloumiburgeri L, KASVIS",
-                  "meta": null
+                  "name": "M, jälkiruoka keittiöstä",
+                  "meta": "sis. soija, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -170,7 +170,17 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Hernekeitto M, G, pannukakkua & hilloa",
+                  "name": "Hernekeitto (sis.sinappi), pannukakkua & hilloa",
+                  "meta": "sis. maito, kananmuna, vehnä, L, M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Falafel pyöryköitä curry-chilikastikkeella & riisiä",
                   "meta": null
                 }
               ],
@@ -343,15 +353,15 @@
                 },
                 {
                   "name": "Kasvistortillavuoka",
-                  "meta": "L"
+                  "meta": "saa myös VEG, L"
                 },
                 {
                   "name": "– salsa Rio grande",
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Kahden kalan keitto – Leppäsavukirjolohta ja puna-ahventa",
-                  "meta": "L, G"
+                  "name": "Makkarakeitto ripauksella chiliä",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
@@ -1176,7 +1186,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
     }
   ]
 }
