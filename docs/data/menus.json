@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:19:42Z",
+  "generated_at": "2026-08-28T12:58:08Z",
   "iso_week": 35,
   "restaurants": [
     {
@@ -198,15 +198,19 @@
               "dishes": [
                 {
                   "name": "Paneroitua broileria & ranch dippiä",
-                  "meta": "M"
+                  "meta": "sinappi, maito, kananmuna, L, M, G"
+                },
+                {
+                  "name": "M, dippi keittiöstä",
+                  "meta": "kananmuna, sinappi, G"
                 },
                 {
                   "name": "Juustoinen riista-peruna gratiini",
                   "meta": "maito, L, G"
                 },
                 {
-                  "name": "Chef: Caesar salaatti lohella",
-                  "meta": null
+                  "name": "Chef: Caesar salaatti pariloidulla lohella",
+                  "meta": "vehnä, kananmuna, sinappi, soija, maito, L"
                 }
               ],
               "price": "13,80 €"
@@ -217,6 +221,16 @@
                 {
                   "name": "Juuressosekeitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Kasvis-perunagratiini",
+                  "meta": "soija"
                 }
               ],
               "price": null
@@ -381,7 +395,7 @@
                   "meta": "saa possua myös M,G, M"
                 },
                 {
-                  "name": "– sitruunadippiä ja kapriksia",
+                  "name": "– sitruunadippiä (selleri) ja kapriksia",
                   "meta": "L, G"
                 },
                 {
@@ -390,7 +404,7 @@
                 },
                 {
                   "name": "Kookos-kanakeitto",
-                  "meta": "M, G"
+                  "meta": "selleri, M, G"
                 },
                 {
                   "name": "Kahvin kanssa Snickers-vaahtoa",
@@ -749,7 +763,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Sticky wings – mausteisia kanansiipiä",
+                  "name": "Mausteiset kanansiivet ja Texaspetekastike",
                   "meta": "L, M, G"
                 },
                 {
