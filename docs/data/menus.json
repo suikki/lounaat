@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T09:54:04Z",
+  "generated_at": "2026-08-31T11:40:05Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -1178,7 +1178,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.speakeasy.fi', port=443): Max retries exceeded with url: /hervanta/lounas/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.speakeasy.fi', port=443): Failed to resolve 'www.speakeasy.fi' ([Errno -2] Name or service not known)\"))"
     }
   ]
 }
