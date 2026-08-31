@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T07:05:46Z",
+  "generated_at": "2026-08-31T09:54:04Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -24,7 +24,7 @@
                 },
                 {
                   "name": "Chef: Chavre pyörykkä pita, raikas sitrus coleslaw & vihersalaatti",
-                  "meta": "M, VEG"
+                  "meta": "sis.sinappi,vehnä, M, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -241,23 +241,9 @@
                 {
                   "name": "– keitetyt kananmunat",
                   "meta": null
-                },
-                {
-                  "name": "Kahvin kanssa puutarhamarjarahkaa",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
-            },
-            {
-              "name": "Keittiöstä päivän vegaani",
-              "dishes": [
-                {
-                  "name": "Härkistä ja kasviksia stir fry",
-                  "meta": "G, VEG"
-                }
-              ],
-              "price": null
             }
           ],
           "note": null
@@ -532,8 +518,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kaura-punajuuripyöryköitä",
-                  "meta": "L, M, VEG"
+                  "name": "Falafelpihvejä",
+                  "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Aioli-katkarapuja",
@@ -847,11 +833,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Paprika burger",
+                  "name": "Paprikaburger",
                   "meta": "L"
                 },
                 {
-                  "name": "Halloumi salaatti",
+                  "name": "Halloumisalaatti",
                   "meta": "L, G"
                 }
               ],
@@ -868,11 +854,11 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Possun sisäfileetä hunaja-sinappi kastikkeessa",
+                  "name": "Possun sisäfileetä hunaja-sinappikastikkeessa",
                   "meta": "suomalaista possua, L, G"
                 },
                 {
-                  "name": "Bearnaise kanaa",
+                  "name": "Kanaa bearnaisekastikkeessa",
                   "meta": "suomalaista broileria, VL, G"
                 },
                 {
@@ -890,11 +876,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Yrttibroileri burger",
+                  "name": "Yrttibroileriburger",
                   "meta": "L"
                 },
                 {
-                  "name": "Vuohenjuusto poke",
+                  "name": "Vuohenjuusto poke -kulho",
                   "meta": "L, G"
                 }
               ],
@@ -919,15 +905,15 @@
                   "meta": null
                 },
                 {
-                  "name": "Paneroitua kampelaa pinaatti-feta täytteellä",
+                  "name": "Paneroitua kampelaa pinaatti-fetatäytteellä",
                   "meta": "G"
                 },
                 {
-                  "name": "Remoulade-kastike",
+                  "name": "Remoulade -kastiketta",
                   "meta": "M, G"
                 },
                 {
-                  "name": "perunamuusia",
+                  "name": "Perunamuussia",
                   "meta": "L, G"
                 }
               ],
@@ -937,11 +923,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Halloumi burger",
+                  "name": "Halloumiburger",
                   "meta": "L"
                 },
                 {
-                  "name": "Burger salaatti",
+                  "name": "Burgersalaatti",
                   "meta": "L, G"
                 }
               ],
@@ -962,15 +948,15 @@
                   "meta": "suomalaista possua, M"
                 },
                 {
-                  "name": "Rosmariininen kylmäkastike",
+                  "name": "Rosmariinilla maustettua kermaviili-majoneesikastiketta",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Caffitellan Chorizopyörykät",
+                  "name": "Caffitellan Chorizopyöryköitä",
                   "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "Pariisinperunat",
+                  "name": "Pariisinperunoita",
                   "meta": "L, G"
                 }
               ],
@@ -980,11 +966,11 @@
               "name": "Annosruoka",
               "dishes": [
                 {
-                  "name": "Tofu salaatti",
+                  "name": "Tofusalaatti",
                   "meta": "G,VE"
                 },
                 {
-                  "name": "Paneroitu broileri poke",
+                  "name": "Paneroitu broileri poke -kulho",
                   "meta": "L"
                 }
               ],
@@ -1001,7 +987,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Caffitellan Jauhelihalasagnea",
+                  "name": "Caffitellan jauhelihalasagnea",
                   "meta": "suomalaista nautaa ja possua, L"
                 },
                 {
