@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T06:18:08Z",
+  "generated_at": "2026-09-01T08:45:47Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -50,8 +50,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Välimeren lihamureketta",
-                  "meta": "L, G"
+                  "name": "Välimeren lihamureketta (sinappi, kananmuna, soija, maito) SAA",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Kasvis rogan josh curry",
@@ -63,15 +63,15 @@
                 },
                 {
                   "name": "– sitruuna riisiä",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 },
                 {
                   "name": "Jälkiruoaksi: Raikas ”Pina Colada” smoothie",
-                  "meta": null
+                  "meta": "M, G, VEG"
                 },
                 {
-                  "name": "Chef: Pulled pork hot dog L, paahdettua sipulia & kurkkusalaattia",
-                  "meta": null
+                  "name": "Chef: Pulled pork hot dog, paahdettua sipulia, kurkkusalaattia & ranskanperunoita",
+                  "meta": "sinappi, maito, kananmuna, selleri, vehnä, L"
                 }
               ],
               "price": "13,80 €"
@@ -81,7 +81,7 @@
               "dishes": [
                 {
                   "name": "Basilikalla höystetty kanakeitto",
-                  "meta": "L, G"
+                  "meta": "M, G"
                 }
               ],
               "price": null
@@ -257,7 +257,7 @@
               "dishes": [
                 {
                   "name": "Sitruunabroileria",
-                  "meta": "M, G"
+                  "meta": "selleri, M, G"
                 },
                 {
                   "name": "– inkivääridippi",
@@ -270,6 +270,10 @@
                 {
                   "name": "Kermainen metsäsienikeitto",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Päivän kasvis: Quornia sitruunakastikkeessa",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
