@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:45:47Z",
+  "generated_at": "2026-09-01T12:36:57Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -581,8 +581,12 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Paahdettua lohta & kantarellikastike",
-                  "meta": "L, G"
+                  "name": "Smash-burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Ranskalaisia perunoita",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -680,11 +684,7 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Lehtipihvi ranskalaisilla",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Kermaista pippurikastiketta",
+                  "name": "Paahdettua lohta & kantarellikastike",
                   "meta": "L, G"
                 }
               ],
@@ -775,12 +775,8 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Smash-burger",
-                  "meta": "L"
-                },
-                {
-                  "name": "Ranskalaisia perunoita",
-                  "meta": "L, M, G, VEG"
+                  "name": "Lehtipihvi pippurikastikkeella ja ranskalaisilla perunoilla",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -1182,7 +1178,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "ConnectionError: HTTPSConnectionPool(host='www.speakeasy.fi', port=443): Max retries exceeded with url: /hervanta/lounas/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.speakeasy.fi', port=443): Failed to resolve 'www.speakeasy.fi' ([Errno -2] Name or service not known)\"))"
+      "error": null
     }
   ]
 }
