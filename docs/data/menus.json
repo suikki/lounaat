@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:56:37Z",
+  "generated_at": "2026-09-02T07:59:33Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -98,7 +98,7 @@
               "dishes": [
                 {
                   "name": "”Linkosuon klassikko” Ranskalainen kanapata broilerin fileestä",
-                  "meta": "L, G"
+                  "meta": "maito, ohra, ruis, L"
                 },
                 {
                   "name": "Jerk uunikalaa",
@@ -106,11 +106,11 @@
                 },
                 {
                   "name": "– kasvis- riisiä",
-                  "meta": "M, G, VEG"
+                  "meta": "selleri, M, G, VEG"
                 },
                 {
                   "name": "Chef: Härkäpapu poke bowl",
-                  "meta": "M, G, VEG"
+                  "meta": "sinappi, maapähkinä, selleri, soija, seesami, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -119,8 +119,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Täyteläinen yrtti- porkkanakeitto",
-                  "meta": "M, G, VEG"
+                  "name": "Täyteläinen sipulikeitto",
+                  "meta": "maito, L, G"
                 }
               ],
               "price": null
