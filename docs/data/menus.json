@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:36:57Z",
+  "generated_at": "2026-09-02T05:56:37Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -297,12 +297,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Orvokin oma: Porkkanaletut",
-                  "meta": "L"
-                },
-                {
-                  "name": "– puolukkahilloa",
-                  "meta": null
+                  "name": "Orvokin oma: Porkkanalettuja sekä puolukkaa",
+                  "meta": "saa myös M,G, L"
                 },
                 {
                   "name": "Parsakaalisosekeittoa",
@@ -310,7 +306,7 @@
                 },
                 {
                   "name": "Kahvin kanssa mokkapalat",
-                  "meta": "saa myös M,G, L"
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -571,7 +567,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Mariannerahkaa",
+                  "name": "Suklaa-mariannerahka",
                   "meta": "L"
                 }
               ],
