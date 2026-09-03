@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:55:35Z",
+  "generated_at": "2026-09-03T08:08:50Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -137,7 +137,11 @@
               "dishes": [
                 {
                   "name": "Havaijin leikettä",
-                  "meta": "M"
+                  "meta": "vehnä, selleri, M"
+                },
+                {
+                  "name": "– ranch majoneesia",
+                  "meta": "sinappi, selleri, kananmuna, maito, L, G"
                 },
                 {
                   "name": "Tofu Palak paneer",
@@ -145,11 +149,11 @@
                 },
                 {
                   "name": "– riisiä & parmesaani perunoita",
-                  "meta": null
+                  "meta": "maito, M, VL, G, VEG"
                 },
                 {
                   "name": "Chef: Cajun paahdettua lohta & sitruuna risonia",
-                  "meta": "L"
+                  "meta": "vehnä, maito, L"
                 }
               ],
               "price": "13,80 €"
@@ -158,8 +162,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Kermainen kukkakaalikeitto",
-                  "meta": "L, G"
+                  "name": "Kermainen kukkakaalikeitto L, G, KASVIS",
+                  "meta": "maito"
                 }
               ],
               "price": null
@@ -662,15 +666,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Mansikkajäätelöä",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Suklaajäätelöä",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Vaniljajäätelöä",
+                  "name": "Jäätelöbuffet",
                   "meta": "L, G"
                 }
               ],
@@ -694,7 +690,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chorizopyörykkä, Suomi",
+                  "name": "Chorizopyörykkä",
                   "meta": "L, M, G"
                 },
                 {
@@ -702,7 +698,7 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Porsaanpaisti, viipaloitu",
+                  "name": "Porsaanpaisti",
                   "meta": "L, M, G"
                 },
                 {
