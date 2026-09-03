@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T08:08:50Z",
+  "generated_at": "2026-09-03T09:55:38Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -783,6 +783,10 @@
                 {
                   "name": "Vihreää salaattia",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Mozzarella-kirsikkatomaattipizza",
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
