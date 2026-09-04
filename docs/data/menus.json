@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:03:56Z",
+  "generated_at": "2026-09-04T09:45:32Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -180,19 +180,27 @@
               "dishes": [
                 {
                   "name": "Broilerin sisäfilettä satay- maapähkinäkastikkeessa",
-                  "meta": "M, G"
+                  "meta": "Sis. pähkinä, M, G"
                 },
                 {
                   "name": "Paneroitua seitiä pinaatti-fetatäytteellä",
-                  "meta": "L"
+                  "meta": "sis.maito,vehnä"
+                },
+                {
+                  "name": "paahdettua perunaa",
+                  "meta": "VL, G"
+                },
+                {
+                  "name": "Kermaviili dippi",
+                  "meta": "Sis. Maito, L"
                 },
                 {
                   "name": "Chef: Kikherne-pinjansiemen waldorf wrap",
-                  "meta": "M, VEG"
+                  "meta": "sis selleri,sinappi,vehnä, M, VEG"
                 },
                 {
-                  "name": "Jälkiruoaksi: Raparperi-mansikka-omena kaurapaistos",
-                  "meta": "L, G"
+                  "name": "Jälkiruoaksi: Raparperi-mansikka-omena kaurapaistos SAA",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -1012,7 +1020,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f48099d3530>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
