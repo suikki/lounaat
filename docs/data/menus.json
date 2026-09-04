@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:10:33Z",
+  "generated_at": "2026-09-04T06:03:35Z",
   "iso_week": 36,
   "restaurants": [
     {
@@ -179,11 +179,11 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Sataybroileria maapähkinäkastikkeessa",
+                  "name": "Broilerin sisäfilettä satay- maapähkinäkastikkeessa",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Paneroitu Alaskan seiti pinaatti-fetatäytteellä",
+                  "name": "Paneroitua seitiä pinaatti-fetatäytteellä",
                   "meta": "L"
                 },
                 {
@@ -191,7 +191,7 @@
                   "meta": "M, VEG"
                 },
                 {
-                  "name": "Jälkiruoaksi: Raparperi-mansikka kaurapaistos",
+                  "name": "Jälkiruoaksi: Raparperi-mansikka-omena kaurapaistos",
                   "meta": "L, G"
                 }
               ],
@@ -745,7 +745,7 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Maalaislohkoperunoita",
+                  "name": "Maustepaahdettuja perunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
@@ -1012,7 +1012,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f6e8d4f8290>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f8de6ecb7a0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
