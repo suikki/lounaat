@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T06:12:15Z",
+  "generated_at": "2026-09-07T08:27:25Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -16,15 +16,15 @@
               "dishes": [
                 {
                   "name": "Sitruunaista uunikalaa ruohosipuli-kermakastikkeella",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 },
                 {
-                  "name": "Jauheliha-punajuuripaistosta juusto kuorrutteella",
-                  "meta": "L, G"
+                  "name": "Jauheliha-punajuuripaistosta juusto kuorrutteella (maito) SAA",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Chef: Halloumi- kasvissalaatti paholaisenhillolla L, G, KASVIS",
-                  "meta": null
+                  "meta": "maito"
                 }
               ],
               "price": "13,80 €"
@@ -34,7 +34,17 @@
               "dishes": [
                 {
                   "name": "Kermainen metsäsienikeitto",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Kasvis-punajuuripaistos soijalla",
+                  "meta": "selleri"
                 }
               ],
               "price": null
