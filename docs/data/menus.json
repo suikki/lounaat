@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:02:15Z",
+  "generated_at": "2026-09-08T08:11:17Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -60,12 +60,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Sinappinen hunaja broileri",
-                  "meta": "L, G"
+                  "name": "Sinappinen hunaja broileri (soija, maito) SAA",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Kukkakaali-kikherne muhennos",
-                  "meta": "M, G, VEG"
+                  "meta": "selleri, M, G, VEG"
                 },
                 {
                   "name": "– paahdettuja syyskasviksia",
@@ -76,8 +76,8 @@
                   "meta": "M, G, VEG"
                 },
                 {
-                  "name": "Chef: Paahdettua puna-ahveta kermaisella pinaatilla ja risotolla",
-                  "meta": "L, G"
+                  "name": "Chef: Puna-ahventa kermaisella pinaattikastikkeella, perunoita & juureksia",
+                  "meta": "maito, L, G"
                 }
               ],
               "price": "13,80 €"
