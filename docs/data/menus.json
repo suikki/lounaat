@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:07:33Z",
+  "generated_at": "2026-09-09T08:14:53Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -103,20 +103,24 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Teriyaki possua",
-                  "meta": "M, G"
+                  "name": "Teriyaki possua (vehnä, seesami, soija, selleri, sinappi) SAA",
+                  "meta": "seesami, soija, selleri, sinappi, M, G"
                 },
                 {
-                  "name": "Paneroitua broilerin sisäfilettä",
-                  "meta": "M, G"
+                  "name": "Paneroitua broilerin sisäfilettä & valkosipulidippi (maito, kananmuna, sinappi) SAA",
+                  "meta": "kananmuna, sinappi, L, M, G"
                 },
                 {
-                  "name": "– juures- perunamuusia",
-                  "meta": "L, G"
+                  "name": "– juures- perunamuusia (maito) SAA",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Chef: Nochicken kasvispata & riisiä",
-                  "meta": "M, G, VEG"
+                  "meta": "soija, M, G, VEG"
+                },
+                {
+                  "name": "M, piirakkaa keittiöstä",
+                  "meta": "VEG"
                 }
               ],
               "price": "13,80 €"
@@ -126,7 +130,7 @@
               "dishes": [
                 {
                   "name": "Mausteinen kurpitsakeitto",
-                  "meta": "L, G"
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -136,7 +140,7 @@
               "dishes": [
                 {
                   "name": "suklaavanukasta",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 }
               ],
               "price": null
@@ -325,8 +329,12 @@
                   "meta": "L"
                 },
                 {
+                  "name": "– hunajaiset uunijuurekset",
+                  "meta": "M, G"
+                },
+                {
                   "name": "– puolukkahilloa",
-                  "meta": null
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Vihreä kesäkurpitsakeitto",
@@ -1048,7 +1056,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f78ba900f20>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
@@ -1210,7 +1218,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
+      "error": null
     }
   ]
 }
