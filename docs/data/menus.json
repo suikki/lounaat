@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:11:17Z",
+  "generated_at": "2026-09-09T06:07:33Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -115,8 +115,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chef: Sieni stroganoff tagliatelle pasta",
-                  "meta": "L"
+                  "name": "Chef: Nochicken kasvispata & riisiä",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -126,6 +126,16 @@
               "dishes": [
                 {
                   "name": "Mausteinen kurpitsakeitto",
+                  "meta": "L, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "suklaavanukasta",
                   "meta": "L, G"
                 }
               ],
@@ -1038,7 +1048,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f78ba900f20>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -1200,7 +1210,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
     }
   ]
 }
