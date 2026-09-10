@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:26:07Z",
+  "generated_at": "2026-09-10T06:07:10Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -174,7 +174,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Kalakeitto",
+                  "name": "Kahden kalan keitto",
                   "meta": "L, G"
                 }
               ],
@@ -724,7 +724,7 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Lehtipihvi bataattiranskalaisilla",
+                  "name": "Lehtipihvi bataattiranskalaisilla &valkosipulivoi",
                   "meta": "L, G"
                 }
               ],
@@ -836,7 +836,7 @@
         }
       ],
       "hours": "10:30–13:00",
-      "error": "ConnectionError: HTTPSConnectionPool(host='antell.fi', port=443): Max retries exceeded with url: /lounas/tampere/hermianfarmi/ (Caused by NewConnectionError(\"HTTPSConnection(host='antell.fi', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": null
     },
     {
       "key": "caffitella_duo",
@@ -1056,7 +1056,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f6b9f08d4c0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f5909b34ce0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -1218,7 +1218,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
+      "error": null
     }
   ]
 }
