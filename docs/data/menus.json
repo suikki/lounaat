@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:07:10Z",
+  "generated_at": "2026-09-10T08:14:13Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -160,12 +160,16 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Kasvis Lo Mein noodeleita",
-                  "meta": "M, VEG"
+                  "name": "Kasvis Lo Mein noodeleita M, KASVIS",
+                  "meta": "vehnä, soija, seesami, kananmuna"
+                },
+                {
+                  "name": "SAA keittiöstä",
+                  "meta": "soija, seesami, M, G, VEG"
                 },
                 {
                   "name": "Chef: Broilerin filettä vuohenjuustokastikkeella ja paahdetulla bataatilla",
-                  "meta": "L, G"
+                  "meta": "maito, sinappi, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -175,7 +179,7 @@
               "dishes": [
                 {
                   "name": "Kahden kalan keitto",
-                  "meta": "L, G"
+                  "meta": "maito, L, G"
                 }
               ],
               "price": null
@@ -362,19 +366,19 @@
                   "meta": null
                 },
                 {
-                  "name": "Makkarapannu",
+                  "name": "Maakarin makkarapannu – Amerikkalaistyylisiä leppäsavustettuja cheddar-ohutmakkaroita sekä bratwurstia",
                   "meta": "L, G"
                 },
                 {
-                  "name": "– persilja-parmesanlohkoperunat ja dijon fraiche",
-                  "meta": "L, G"
+                  "name": "– persilja-parmesanlohkoperunat ja yellow mustard dip",
+                  "meta": "L, VL, G"
                 },
                 {
-                  "name": "Kaurainen kasvis-kaalilaatikko ja puolukkasurvos",
+                  "name": "Kaurainen kasvis-kaalilaatikko hernisrouheella ja puolukkasurvos",
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Punajuurikeittoa ja inkiväärivoissa paahdettuja kikherneitä",
+                  "name": "Juustoinen punajuurikeitto",
                   "meta": "L, G"
                 },
                 {
@@ -1056,7 +1060,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7f5909b34ce0>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
