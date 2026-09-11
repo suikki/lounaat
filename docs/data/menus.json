@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:08:10Z",
+  "generated_at": "2026-09-11T09:49:31Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -204,7 +204,7 @@
                 },
                 {
                   "name": "Jälkiruoaksi: New york cheesecake",
-                  "meta": "L, G"
+                  "meta": "maito, kananmuna, L, G"
                 },
                 {
                   "name": "Chef: Naudanliha burgeri, parmesaani-mustapippuri aioli & ranskanperunat",
@@ -409,6 +409,10 @@
                 {
                   "name": "– sweet chili mayo",
                   "meta": "M, G"
+                },
+                {
+                  "name": "– uunimuusia",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Miilunpolttajan spagettia Amerikan pekonilla",
