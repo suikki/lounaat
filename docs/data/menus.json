@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:16:25Z",
+  "generated_at": "2026-09-11T06:08:10Z",
   "iso_week": 37,
   "restaurants": [
     {
@@ -408,7 +408,7 @@
                 },
                 {
                   "name": "– sweet chili mayo",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "Miilunpolttajan spagettia Amerikan pekonilla",
@@ -419,8 +419,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kahvin kanssa toivejälkiruokana Orvokin omaa porkkanakakkua",
-                  "meta": "L"
+                  "name": "Kahvin kanssa toivejälkiruokana Orvokin omaa porkkanakakkua L, saa myös jälkiruokaa",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
