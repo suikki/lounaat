@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:28:17Z",
+  "generated_at": "2026-09-14T09:04:17Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -16,15 +16,15 @@
               "dishes": [
                 {
                   "name": "Paneroitua kalaa & kurkkusalaatti dippiä",
-                  "meta": null
+                  "meta": "M, G"
                 },
                 {
                   "name": "– perunamuussia",
                   "meta": "SAA M, G, L, G"
                 },
                 {
-                  "name": "Tomaattinen lihapullavuoka",
-                  "meta": "L, G"
+                  "name": "Tomaattinen lihapullavuoka SAA Tomaattinen No chiken pata)",
+                  "meta": "L, G, VEG"
                 },
                 {
                   "name": "Chef: BURGERIVIIKKO! Rapea kanaburgeri, avocado fraiche & ranskanperunat",
