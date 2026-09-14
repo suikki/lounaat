@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:04:17Z",
+  "generated_at": "2026-09-14T10:46:42Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -15,7 +15,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Paneroitua kalaa & kurkkusalaatti dippiä",
+                  "name": "Lohimureke pihvi & kurkkusalaatti dippiä",
                   "meta": "M, G"
                 },
                 {
@@ -227,8 +227,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Lempiruoka: Possun luuttomat BBQ-ribsit",
-                  "meta": "M, G"
+                  "name": "Maakarin makkaroita",
+                  "meta": "L, G"
                 },
                 {
                   "name": "– sinihomejuustokermaperunoita ja paahdettua aiolia",
