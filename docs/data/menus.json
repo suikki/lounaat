@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:47:38Z",
+  "generated_at": "2026-09-16T06:10:25Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -73,7 +73,7 @@
               "dishes": [
                 {
                   "name": "Japanilainen ramen-keitto kanalla",
-                  "meta": "M, G"
+                  "meta": "M"
                 }
               ],
               "price": null
@@ -99,16 +99,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Bangbang broileria (seesami, soija) SAA no chicken Bang bang",
-                  "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Aasialaisia kalapihvejä, kevätsipuli dippiä",
+                  "name": "Bangbang broileria",
                   "meta": "M, G"
                 },
                 {
-                  "name": "– kermaperunaa & riisiä",
-                  "meta": null
+                  "name": "Aasialaisia kalapihvejä M, G, kevätsipuli dippiä",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Chef: BURGERIVIIKKO! Pulled pork Sloppy Joe Burger & ranskanperunat",
@@ -579,6 +575,10 @@
                 {
                   "name": "Paahdettua punajuurta",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Sitruunamajoneesia",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Mustikka-kardemummapiirakkaa",
