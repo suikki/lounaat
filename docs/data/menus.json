@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:10:25Z",
+  "generated_at": "2026-09-16T08:41:40Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -100,15 +100,23 @@
               "dishes": [
                 {
                   "name": "Bangbang broileria",
-                  "meta": "M, G"
+                  "meta": "soija, seesami, M, G"
                 },
                 {
-                  "name": "Aasialaisia kalapihvejä M, G, kevätsipuli dippiä",
-                  "meta": "L, G"
+                  "name": "Aasialaisia kalapihvejä",
+                  "meta": "vehnä, kananmuna, soija, M"
+                },
+                {
+                  "name": "– kevätsipuli dippiä",
+                  "meta": "maito, L, G"
                 },
                 {
                   "name": "Chef: BURGERIVIIKKO! Pulled pork Sloppy Joe Burger & ranskanperunat",
-                  "meta": "L"
+                  "meta": "soija, kananmuna, sinappi, vehnä, M"
+                },
+                {
+                  "name": "VEG burgeri keittiöstä Meksikon kasvispihvillä",
+                  "meta": "sis. sinappi, vehnä"
                 }
               ],
               "price": "13,80 €"
@@ -298,7 +306,7 @@
                 },
                 {
                   "name": "Orvokin oma: Pinaattiletut",
-                  "meta": "L"
+                  "meta": "saa M,G, L"
                 },
                 {
                   "name": "– puolukkahilloa",
@@ -309,8 +317,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kahvin kanssa suklaapiirakkaa",
-                  "meta": "L"
+                  "name": "Kahvin kanssa mustikkapaistosta sis. manteli ja puutarhamarjavaahtoa",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
