@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:41:40Z",
+  "generated_at": "2026-09-16T10:02:52Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -315,10 +315,6 @@
                 {
                   "name": "Kahden lohen keitto runsaalla tillillä",
                   "meta": "L, G"
-                },
-                {
-                  "name": "Kahvin kanssa mustikkapaistosta sis. manteli ja puutarhamarjavaahtoa",
-                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
