@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:02:52Z",
+  "generated_at": "2026-09-17T08:45:14Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -143,15 +143,27 @@
               "dishes": [
                 {
                   "name": "Rapeaa porsaanleikettä marinoidulla punasipulilla",
-                  "meta": "M"
+                  "meta": "vehnä, M"
                 },
                 {
                   "name": "Juustoinen kasvis-pestopasta L, KASVIS",
+                  "meta": "vehnä, maito"
+                },
+                {
+                  "name": "SAA pasta keittiöstä",
+                  "meta": "vehnä, VEG"
+                },
+                {
+                  "name": "Chef: BURGERIVIIKKO! Korean gochujang Smash burger naudan jauhelihapihvillä & bataatti ranskalaiset",
+                  "meta": "M"
+                },
+                {
+                  "name": "(vehnä, selleri, seesami, soija, sinappi, kananmuna)",
                   "meta": null
                 },
                 {
-                  "name": "Chef: BURGERIVIIKKO! Korean gochujan Smash burger, bataatti ranskalaiset",
-                  "meta": null
+                  "name": "Gluteeniton ruoka keittiöstä!",
+                  "meta": "sis. selleri"
                 }
               ],
               "price": "13,80 €"
@@ -160,7 +172,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "porkkana-kookos keitto",
+                  "name": "Porkkana-kookos keitto",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -342,12 +354,16 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kasvishernekeitto",
+                  "name": "– keittiöstä kasvisburritot",
+                  "meta": "VEG"
+                },
+                {
+                  "name": "Kasvishernekeitto MUU-jauhismurulla",
                   "meta": "G, VEG"
                 },
                 {
                   "name": "– Ahvenanmaan pannukakkua ja hilloa",
-                  "meta": null
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
