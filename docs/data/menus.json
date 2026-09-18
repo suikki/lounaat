@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:45:14Z",
+  "generated_at": "2026-09-18T06:04:19Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -189,7 +189,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Marry me kanaa",
+                  "name": "Marry-Me broileria aurinkokuivattuja tomaatteja& samettista parmesaanikastiketta",
                   "meta": "L, G"
                 },
                 {
@@ -199,6 +199,10 @@
                 {
                   "name": "Chef: BURGERIVIIKKO! Fish & chips burger",
                   "meta": "L"
+                },
+                {
+                  "name": "Vegaaninen omenapiirakka keittiöstä",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -207,7 +211,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Tomaattinen minestrone",
+                  "name": "Tomaattinen minestrone keitto",
                   "meta": "M"
                 }
               ],
@@ -1004,7 +1008,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": null
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7ff0f43ffe60>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
     },
     {
       "key": "speakeasy_hervanta",
@@ -1166,7 +1170,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
     }
   ]
 }
