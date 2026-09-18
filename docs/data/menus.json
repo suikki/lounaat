@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T09:52:51Z",
+  "generated_at": "2026-09-18T12:16:31Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -195,14 +195,6 @@
                 {
                   "name": "Mausteinen härkäpapu stir fry",
                   "meta": "soija, seesami, M, G, VEG"
-                },
-                {
-                  "name": "Chef: BURGERIVIIKKO! Fish & chips burger",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vegaaninen omenapiirakka keittiöstä",
-                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -783,6 +775,10 @@
                   "meta": "VL, G"
                 },
                 {
+                  "name": "Itte tehtyjä porkkanaohukaisia",
+                  "meta": "L"
+                },
+                {
                   "name": "Lohkoperunoita",
                   "meta": "L, M, G, VEG"
                 },
@@ -791,11 +787,19 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                },
+                {
                   "name": "Tzazikia",
                   "meta": "L, G"
                 },
                 {
                   "name": "Appelsiini-suklaavanukasta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Jäätelöpuikkoja",
                   "meta": "L, G"
                 }
               ],
