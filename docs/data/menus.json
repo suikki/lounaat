@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:21:58Z",
+  "generated_at": "2026-09-18T09:52:51Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -686,6 +686,14 @@
                 {
                   "name": "Itte tehtyjä yrtti-porkkanaohukaisia",
                   "meta": "L"
+                },
+                {
+                  "name": "Karamellisoitua possua",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Korianteri- ja limemaustettua turskaa",
+                  "meta": "L, M"
                 },
                 {
                   "name": "Perunamuusia",
