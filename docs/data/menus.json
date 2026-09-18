@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:04:19Z",
+  "generated_at": "2026-09-18T08:21:58Z",
   "iso_week": 38,
   "restaurants": [
     {
@@ -189,8 +189,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Marry-Me broileria aurinkokuivattuja tomaatteja& samettista parmesaanikastiketta",
-                  "meta": "L, G"
+                  "name": "Marry-Me broileria aurinkokuivattuja tomaatteja & samettista parmesankastiketta",
+                  "meta": "VL, G"
                 },
                 {
                   "name": "Mausteinen härkäpapu stir fry",
@@ -391,12 +391,16 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "– BBQ-dippiä, sinihomejuustodippiä, bataattiranskalaisia…",
-                  "meta": null
+                  "name": "– BBQ-dippiä , sinihomejuustodippiä ja bataattiranskalaisia",
+                  "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "– salaattipöydästä kurkkutikkuja, porkkanatikkuja, coleslawia…",
-                  "meta": null
+                  "name": "– salaattipöydästä kurkkutikkuja, porkkanatikkuja, varsiselleritikkuja ja coleslawia",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Juuressosekeitto",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Kahvin kanssa Orvokin tiramisu",
@@ -1008,7 +1012,7 @@
         }
       ],
       "hours": "10:30–14:00",
-      "error": "ConnectTimeout: HTTPSConnectionPool(host='www.caffitella.fi', port=443): Max retries exceeded with url: /lounaslista/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.caffitella.fi', port=443) at 0x7ff0f43ffe60>, 'Connection to www.caffitella.fi timed out. (connect timeout=20)'))"
+      "error": null
     },
     {
       "key": "speakeasy_hervanta",
@@ -1170,7 +1174,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
+      "error": null
     }
   ]
 }
