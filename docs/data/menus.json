@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:16:31Z",
-  "iso_week": 38,
+  "generated_at": "2026-09-21T06:32:41Z",
+  "iso_week": 39,
   "restaurants": [
     {
       "key": "linkosuo_hertta",
@@ -8,27 +8,19 @@
       "url": "https://linkosuo.fi/toimipaikka/hertta/",
       "days": [
         {
-          "date": "2026-09-14",
+          "date": "2026-09-21",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Lohimureke pihvi & kurkkusalaatti dippiä",
+                  "name": "Naudanliha kebabia ranskalaisilla perunoilla",
                   "meta": "M, G"
                 },
                 {
-                  "name": "– perunamuussia",
-                  "meta": "SAA M, G, L, G"
-                },
-                {
-                  "name": "Tomaattinen lihapullavuoka SAA Tomaattinen No chiken pata)",
-                  "meta": "L, G, VEG"
-                },
-                {
-                  "name": "Chef: BURGERIVIIKKO! Rapea kanaburgeri, avocado fraiche & ranskanperunat",
-                  "meta": "L"
+                  "name": "Punajuuripihevjä & raikas piparjuuridippi",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -37,52 +29,17 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Härkäpapu Borssi keitto",
-                  "meta": "M, G, VEG"
-                }
-              ],
-              "price": null
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-09-15",
-          "weekday": "Tiistai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Hapanimeläpossua",
-                  "meta": "M, G"
-                },
-                {
-                  "name": "Tofu green curry",
-                  "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Chef: BURGERIVIIKKO: Halloumi-pahis burgeri",
-                  "meta": "L"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Keitto",
-              "dishes": [
-                {
-                  "name": "Japanilainen ramen-keitto kanalla",
-                  "meta": "M"
+                  "name": "Kermainen basilika-tomaattikeitto",
+                  "meta": "L, G"
                 }
               ],
               "price": null
             },
             {
-              "name": "Jälkiruoka",
+              "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Hedelmäinen chiavanukas",
+                  "name": "Paistettua puna-ahventa, hunajaisia uunijuureksia & beurre blanc- kastiketta",
                   "meta": "L, G"
                 }
               ],
@@ -92,31 +49,27 @@
           "note": null
         },
         {
-          "date": "2026-09-16",
-          "weekday": "Keskiviikko",
+          "date": "2026-09-22",
+          "weekday": "Tiistai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Bangbang broileria",
-                  "meta": "soija, seesami, M, G"
+                  "name": "Sitruunaista uunilohta",
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Aasialaisia kalapihvejä",
-                  "meta": "vehnä, kananmuna, soija, M"
+                  "name": "– tilli-kermaviilikastiketta",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "– kevätsipuli dippiä",
-                  "meta": "maito, L, G"
+                  "name": "– täyteläistä perunamuusia",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Chef: BURGERIVIIKKO! Pulled pork Sloppy Joe Burger & ranskanperunat",
-                  "meta": "soija, kananmuna, sinappi, vehnä, M"
-                },
-                {
-                  "name": "VEG burgeri keittiöstä Meksikon kasvispihvillä",
-                  "meta": "sis. sinappi, vehnä"
+                  "name": "Kukkoa viinissä eli Coq au vin",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
@@ -125,86 +78,18 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Basillikalla höystettyä linssi-juureskeittoa",
+                  "name": "Samettinen juuressosekeitto",
                   "meta": "M, G, VEG"
                 }
               ],
               "price": null
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-09-17",
-          "weekday": "Torstai",
-          "sections": [
+            },
             {
-              "name": "Lounas",
+              "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Rapeaa porsaanleikettä marinoidulla punasipulilla",
-                  "meta": "vehnä, M"
-                },
-                {
-                  "name": "Juustoinen kasvis-pestopasta L, KASVIS",
-                  "meta": "vehnä, maito"
-                },
-                {
-                  "name": "SAA pasta keittiöstä",
-                  "meta": "vehnä, VEG"
-                },
-                {
-                  "name": "Chef: BURGERIVIIKKO! Korean gochujang Smash burger naudan jauhelihapihvillä & bataatti ranskalaiset",
-                  "meta": "M"
-                },
-                {
-                  "name": "(vehnä, selleri, seesami, soija, sinappi, kananmuna)",
+                  "name": "Paahdettu kasvis-feta wrap muhammara kastikkeella L, KASVIS",
                   "meta": null
-                },
-                {
-                  "name": "Gluteeniton ruoka keittiöstä!",
-                  "meta": "sis. selleri"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Keitto",
-              "dishes": [
-                {
-                  "name": "Porkkana-kookos keitto",
-                  "meta": "M, G, VEG"
-                }
-              ],
-              "price": null
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-09-18",
-          "weekday": "Perjantai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Marry-Me broileria aurinkokuivattuja tomaatteja & samettista parmesankastiketta",
-                  "meta": "VL, G"
-                },
-                {
-                  "name": "Mausteinen härkäpapu stir fry",
-                  "meta": "soija, seesami, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Keitto",
-              "dishes": [
-                {
-                  "name": "Tomaattinen minestrone keitto",
-                  "meta": "M"
                 }
               ],
               "price": null
@@ -213,8 +98,135 @@
               "name": "Jälkiruoka",
               "dishes": [
                 {
-                  "name": "Suklaista kakkua",
+                  "name": "pähkinäistä snickers rahkaa",
+                  "meta": "L, G"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-09-23",
+          "weekday": "Keskiviikko",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "HUOM! Lounas tänään klo 10.30-13.00!",
+                  "meta": null
+                },
+                {
+                  "name": "Hoisin glaseerattua possua",
+                  "meta": "M"
+                },
+                {
+                  "name": "Aromikas kasvis-vindaloo & riisiä",
+                  "meta": "M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Juustoinen myskikurpitsakeitto L, G, KASVIS",
+                  "meta": null
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Caprese salaatti paahdetulla broilerilla",
+                  "meta": "L, G"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-09-24",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Rapeaa maustevoi täytteistä Kievin kanaa",
                   "meta": "L"
+                },
+                {
+                  "name": "Mausteinen halloumi-kikhernepata L, G, KASVIS",
+                  "meta": null
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Hernekeitto & pannukakkua ja hilloa",
+                  "meta": "L, M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Lempeän chilinen katkarapupasta",
+                  "meta": "L"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-09-25",
+          "weekday": "Perjantai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Rapeaksi paneroitua pangasiusfilettä & sitruunaa",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Tex mex nachovuokaa jauhelihalla ja juustokuorrutteella",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Keitto",
+              "dishes": [
+                {
+                  "name": "Thaimaalainen kookos-kanakeitto",
+                  "meta": "M, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Chef's menu",
+              "dishes": [
+                {
+                  "name": "Mureaa possun plumaa & täyteläinen kolmen pippurin kastike",
+                  "meta": null
                 }
               ],
               "price": null
@@ -232,30 +244,34 @@
       "url": "https://linkosuo.fi/toimipaikka/lounasravintola-orvokki/",
       "days": [
         {
-          "date": "2026-09-14",
+          "date": "2026-09-21",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Maakarin makkaroita",
+                  "name": "Lyonin kanaa",
                   "meta": "L, G"
                 },
                 {
-                  "name": "– sinihomejuustokermaperunoita ja paahdettua aiolia",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Butter tofu – kylmäsavutofua ja kasviksia intialaisessa kastikkeessa",
+                  "name": "– välimeren riisiä aurinkokuivatulla tomaatilla ja pestolla",
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "– basmatiriisi",
+                  "name": "– paahdettua rakuunaporkkanaa ja kesäkurpitsaa",
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Linkosuon klassikko: Hirvenhiihtäjänkeitto",
+                  "name": "Pinaattiset kasvispihvit tuorejuustosydämellä",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "– tsatsikia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Juustoinen chili-tomaattikeitto",
                   "meta": "L, G"
                 }
               ],
@@ -265,26 +281,26 @@
           "note": null
         },
         {
-          "date": "2026-09-15",
+          "date": "2026-09-22",
           "weekday": "Tiistai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Sweet chili broileria",
+                  "name": "Ylikypsää possun niskaa Kansas cityn BBQ-kastikkeessa",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Rapeat kalapihvit",
-                  "meta": "M, G"
+                  "name": "– paahdetut valkosipuliperunat",
+                  "meta": "G, VEG"
                 },
                 {
-                  "name": "– smetanaiset tillihölskyperunat ja sitruunakermaviili",
+                  "name": "Palak paneer paneer-juustolla ja halloumilla",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Savujuustoinen porkkanasosekeitto",
+                  "name": "Parsakaalisosekeitto",
                   "meta": "L, G"
                 }
               ],
@@ -294,35 +310,31 @@
           "note": null
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-23",
           "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Lempiruokapäivä",
-                  "meta": null
-                },
-                {
-                  "name": "Häränlihapyörykät kermakastikkeessa",
+                  "name": "Puna-ahventa hollandaisekastikkeessa",
                   "meta": "L, G"
                 },
                 {
-                  "name": "– perunamuusia",
-                  "meta": "L, G"
+                  "name": "– ruohosipuliperunamuusia",
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Orvokin oma: Pinaattiletut",
-                  "meta": "saa M,G, L"
+                  "name": "Cajunbroileria kirsikkakastikkeessa",
+                  "meta": "M, G"
                 },
                 {
-                  "name": "– puolukkahilloa",
-                  "meta": null
+                  "name": "Jauhelihakaalikeitto",
+                  "meta": "M, G"
                 },
                 {
-                  "name": "Kahden lohen keitto runsaalla tillillä",
-                  "meta": "L, G"
+                  "name": "Kahvin kanssa suklaapiirakkaa",
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -331,35 +343,27 @@
           "note": null
         },
         {
-          "date": "2026-09-17",
+          "date": "2026-09-24",
           "weekday": "Torstai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Broileria cordon bleu",
-                  "meta": null
-                },
-                {
-                  "name": "– raikas kevätsipulidippi",
+                  "name": "Ahvenanmaan uunimakkaraa ja Västerbottenjuustoa",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Tex mex- jauhelihanachovuoka cheddarjuustolla",
-                  "meta": "L, G"
+                  "name": "Perinteinen jauhelihalasagne",
+                  "meta": "L"
                 },
                 {
-                  "name": "– keittiöstä kasvisburritot",
-                  "meta": "VEG"
-                },
-                {
-                  "name": "Kasvishernekeitto MUU-jauhismurulla",
+                  "name": "– höyrytetyt pikkuporkkanat",
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "– Ahvenanmaan pannukakkua ja hilloa",
-                  "meta": "L"
+                  "name": "Italialainen vegepyörykkäkeitto",
+                  "meta": "G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -368,35 +372,27 @@
           "note": null
         },
         {
-          "date": "2026-09-18",
+          "date": "2026-09-25",
           "weekday": "Perjantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Orvokin oma: Possun rosvopaistia",
+                  "name": "Maissipaneroitua kanaa ja siipikastiketta",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Mausteiset kanan koipinuijat",
-                  "meta": "M, G"
-                },
-                {
-                  "name": "– BBQ-dippiä , sinihomejuustodippiä ja bataattiranskalaisia",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "– salaattipöydästä kurkkutikkuja, porkkanatikkuja, varsiselleritikkuja ja coleslawia",
-                  "meta": "M, G"
-                },
-                {
-                  "name": "Juuressosekeitto",
-                  "meta": "G, VEG"
-                },
-                {
-                  "name": "Kahvin kanssa Orvokin tiramisu",
+                  "name": "Pepperoni-salamipizza",
                   "meta": "L"
+                },
+                {
+                  "name": "Kirkas kalakeitto",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Kahvin kanssa vaniljapannacottaa ja mangokastiketta",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -414,30 +410,34 @@
       "url": "https://antell.fi/lounas/tampere/hermianfarmi/",
       "days": [
         {
-          "date": "2026-09-14",
+          "date": "2026-09-21",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Hawaijinleikkeitä",
+                  "name": "Itte tehtyjä wieninleikkeitä",
                   "meta": "L, M"
                 },
                 {
-                  "name": "Punajuuririsottoa",
-                  "meta": "L, G"
+                  "name": "Tandoorikanaa",
+                  "meta": "L, M, G"
                 },
                 {
-                  "name": "Cheddar-kuorrutettua kanaa",
-                  "meta": "G"
+                  "name": "Satay-tofukastiketta",
+                  "meta": "L, M, VEG"
                 },
                 {
-                  "name": "Perunamuusia",
-                  "meta": "L, G"
+                  "name": "Riisiä",
+                  "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Höyrytettyä porkkanaa, parsakaalia ja papuja",
+                  "name": "Timjamipunajuuria",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Paahdettuja grilliperunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
@@ -455,77 +455,8 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Maalaislohkoperunoita",
+                  "name": "Maalaisranskalaisia",
                   "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Delilounas",
-              "dishes": [
-                {
-                  "name": "Paahdettua valkosipulikeittoa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Teriyaki-maustettua kalkkunaa",
-                  "meta": "L, M"
-                },
-                {
-                  "name": "Feta-pinaattimunakasta",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Kreikkalainen salaatti",
-                  "meta": "L, G"
-                }
-              ],
-              "price": "13,80 €"
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-09-15",
-          "weekday": "Tiistai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Pollo Limonello – Sitruksista kanaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Härkää szechuan-kastikkeessa",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Kasviskormaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Riisiä",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Paahdettua kukka- ja parsakaalia",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Mansikkakiisseliä",
-                  "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Grilliannos",
-              "dishes": [
-                {
-                  "name": "Lehtipihvi ranskalaisilla",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -538,16 +469,97 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Inkivääri-korianterikanaa",
-                  "meta": "L, M, G"
+                  "name": "Porsaanpaistia",
+                  "meta": "Suomi, L, M, G"
                 },
                 {
                   "name": "Falafelpyöryköitä",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Halloumi-melonisalaatti",
-                  "meta": "G"
+                  "name": "Katkarapu-lasinuudelisalaatti",
+                  "meta": "L, M, G"
+                }
+              ],
+              "price": "13,80 €"
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-09-22",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Teriyakikalaa",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Bearnaise-kanaa",
+                  "meta": "VL, G"
+                },
+                {
+                  "name": "Itte tehtyjä punajuuripihvejä",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Paahdettuja grilliperunoita",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Höyrytettyä porkkanaa ja sipulia",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Aiolia",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Lime-kookosjugurttijuomaa",
+                  "meta": "L, G"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Grilliannos",
+              "dishes": [
+                {
+                  "name": "Lehtipihvi maustevoilla",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Maalaisranskalaisia",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Paahdettua paprikaa ja sipulia",
+                  "meta": "L, M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Delilounas",
+              "dishes": [
+                {
+                  "name": "Kanakeittoa thaimaalaisittain",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Kasvis-munakasrullaa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Chimichurri-maustettua possua",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Katkarapu-lasinuudelisalaatti",
+                  "meta": "L, M, G"
                 }
               ],
               "price": "13,80 €"
@@ -556,7 +568,7 @@
               "name": "Pizzalounas",
               "dishes": [
                 {
-                  "name": "Tupla pepperoni-cheddarpizzaa",
+                  "name": "Paholaisen kanapizzaa",
                   "meta": "VL"
                 },
                 {
@@ -570,39 +582,130 @@
           "note": null
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-23",
           "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Korianteri- ja limemaustettua turskaa",
-                  "meta": "L, M"
-                },
-                {
-                  "name": "Karamellisoitua possua",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Tikka masala -tofua luomutofusta",
+                  "name": "Sitruuna-valkosipulikalaa",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Paistettuja perunoita",
+                  "name": "Antellin lasagnea",
+                  "meta": "L"
+                },
+                {
+                  "name": "Linssidahl – linssimuhennosta",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Paahdettua punajuurta",
+                  "name": "Perunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Sitruunamajoneesia",
+                  "name": "Karamellisoitua sipulia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Mangokiisseliä",
+                  "meta": "L, M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Grilliannos",
+              "dishes": [
+                {
+                  "name": "Lehtipihvi ranskalaisilla",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Remoulade-majoneesia",
+                  "meta": "L, M, G"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Delilounas",
+              "dishes": [
+                {
+                  "name": "Kanttarellikeittoa",
+                  "meta": "L"
+                },
+                {
+                  "name": "Maalaisperunasalaattia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Chili-mangokanaa",
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Mustikka-kardemummapiirakkaa",
-                  "meta": "L, M"
+                  "name": "Italialainen kasvispyörykkä",
+                  "meta": "L, M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            },
+            {
+              "name": "Pizzalounas",
+              "dishes": [
+                {
+                  "name": "Pepperoni-jalapeno-rucolapizzaa",
+                  "meta": "L"
+                },
+                {
+                  "name": "Vihreää salaattia",
+                  "meta": "L, M, G, VEG"
+                }
+              ],
+              "price": "13,80 €"
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-09-24",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Itte tehtyjä kotletteja",
+                  "meta": "L"
+                },
+                {
+                  "name": "Tulista smetana-uunimakkaraa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Itte tehtyjä juurespihvejä",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kukkakaali-papulisäkettä",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Puolukkalisäkettä",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Kermaista pippurikastiketta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Raparperi-mansikkarahkaa",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -615,7 +718,7 @@
                   "meta": "G"
                 },
                 {
-                  "name": "Paahdettua porkkanaa ja parsakaalia",
+                  "name": "Paahdettuja tandoorikasviksia",
                   "meta": "L, M, G, VEG"
                 }
               ],
@@ -625,19 +728,23 @@
               "name": "Delilounas",
               "dishes": [
                 {
-                  "name": "Aurajuustokeittoa",
-                  "meta": "L, G"
+                  "name": "Bataattisosekeittoa",
+                  "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Koskenlaskija-herkkusienimunakasta",
-                  "meta": "L, G"
+                  "name": "Piri piri -majoneesia",
+                  "meta": "L, M, G"
                 },
                 {
-                  "name": "Porsaanpaistia",
-                  "meta": "Suomi, L, M, G"
+                  "name": "Caesar-salaattia",
+                  "meta": "L"
                 },
                 {
-                  "name": "Nizzansalaatti",
+                  "name": "Kasviskoftat – kasvispihvejä marokkolaisittain",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "BBQ-possua",
                   "meta": "L, M, G"
                 }
               ],
@@ -647,7 +754,7 @@
               "name": "Pizzalounas",
               "dishes": [
                 {
-                  "name": "Kana-ananas-aurajuustopizza",
+                  "name": "Pepperonipizzaa",
                   "meta": "L"
                 },
                 {
@@ -661,146 +768,39 @@
           "note": null
         },
         {
-          "date": "2026-09-17",
-          "weekday": "Torstai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Koskenlaskija-pesto-uunimakkaraa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Tikka masala -kanaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Itte tehtyjä yrtti-porkkanaohukaisia",
-                  "meta": "L"
-                },
-                {
-                  "name": "Karamellisoitua possua",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Korianteri- ja limemaustettua turskaa",
-                  "meta": "L, M"
-                },
-                {
-                  "name": "Perunamuusia",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Hunajaisia rakuunaporkkanoita",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Puolukkalisäkettä",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Hedelmäsalaattia",
-                  "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Grilliannos",
-              "dishes": [
-                {
-                  "name": "Lehtipihvi bataattiranskalaisilla",
-                  "meta": "L, G"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Delilounas",
-              "dishes": [
-                {
-                  "name": "Paahdettua tomaattikeittoa",
-                  "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Sitruuna-timjamimarinoitua kanaa",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Kaura-punajuuripyörykkä",
-                  "meta": "L, M, VEG"
-                },
-                {
-                  "name": "Katkarapu-lasinuudelisalaatti",
-                  "meta": "L, M, G"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Kinkku-ananas-aurajuustopizzaa",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
-                }
-              ],
-              "price": "13,80 €"
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-09-18",
+          "date": "2026-09-25",
           "weekday": "Perjantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Itte tehtyjä maissipaneroituja kananfileitä",
+                  "name": "Sticky wings – mausteisia kanansiipiä",
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Nachopelti cheddarkastikkeella",
-                  "meta": "G"
-                },
-                {
-                  "name": "Sitruunarisottoa",
-                  "meta": "VL, G"
-                },
-                {
-                  "name": "Itte tehtyjä porkkanaohukaisia",
+                  "name": "Nyhtöpossuburgereita",
                   "meta": "L"
                 },
                 {
-                  "name": "Lohkoperunoita",
+                  "name": "Tomaatti-basilikamunakasta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Grilliperunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Grillattua kesäkurpitsaa ja paprikaa",
+                  "name": "Uunijuureksia",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Texas Pete Hot Sauce -siipikastiketta",
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Perunamuusia",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Tzazikia",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Appelsiini-suklaavanukasta",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Jäätelöpuikkoja",
-                  "meta": "L, G"
+                  "name": "Pieni makea",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -832,23 +832,58 @@
       "url": "https://www.caffitella.fi/lounaslista/",
       "days": [
         {
-          "date": "2026-09-14",
+          "date": "2026-09-21",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Jauhelihapyöryköitä cheddar-pekonikastikkeessa",
+                  "name": "Pannupihvi sipuli-kermakastikkeessa",
                   "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "BBQ-broileria",
-                  "meta": "suomalaista broileria, M, G"
+                  "name": "BBQ-broileria (suomalaista broileria) Paahdettua perunaa & riisiä",
+                  "meta": "M, G"
+                }
+              ],
+              "price": "11,90 €"
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                {
+                  "name": "Broiler burger",
+                  "meta": "L"
                 },
                 {
-                  "name": "Kermaperunaa",
-                  "meta": "L, G"
+                  "name": "Tofu poke",
+                  "meta": "G,VE"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-09-22",
+          "weekday": "Tiistai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Ylikypsää possua omenaisessa kastikkeessa",
+                  "meta": "suomalaista possua, L, G"
+                },
+                {
+                  "name": "Yrtti-valkosipulibroileria",
+                  "meta": "suomalaista broileria, L, G"
+                },
+                {
+                  "name": "Pariisinperunoita Salaattibuffet",
+                  "meta": "M, G"
                 }
               ],
               "price": "11,90 €"
@@ -861,7 +896,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Burger salaatti",
+                  "name": "Halloumi poke",
                   "meta": "L, G"
                 }
               ],
@@ -871,23 +906,66 @@
           "note": null
         },
         {
-          "date": "2026-09-15",
-          "weekday": "Tiistai",
+          "date": "2026-09-23",
+          "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Cheddar-broileria",
-                  "meta": "suomalaista broileria, L, G"
+                  "name": "Lihapullia pippurikermakastikkeessa",
+                  "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "Paneroitua possua & valkosipulimajoneesi",
-                  "meta": "suomalaista possua, L"
+                  "name": "Savulohivuokaa (suomalaista kirjolohta) Paahdettua perunaa & riisiä",
+                  "meta": "L, M, G"
+                }
+              ],
+              "price": "11,90 €"
+            },
+            {
+              "name": "Annosruoka",
+              "dishes": [
+                {
+                  "name": "Aioli burger",
+                  "meta": "L"
                 },
                 {
-                  "name": "Mausteista grilliperunaa",
+                  "name": "Tofu salaatti",
+                  "meta": "G,VE"
+                }
+              ],
+              "price": null
+            }
+          ],
+          "note": null
+        },
+        {
+          "date": "2026-09-24",
+          "weekday": "Torstai",
+          "sections": [
+            {
+              "name": "Lounas",
+              "dishes": [
+                {
+                  "name": "Sitruuna-smetanabroileria (suomalaista broileria) Kebabia tomaatti-paprikakastikkeessa",
+                  "meta": "suomalaista nautaa, L, M, G"
+                },
+                {
+                  "name": "Lohkoperunoita Salaattibuffet",
                   "meta": "M, G"
+                },
+                {
+                  "name": "PERJANTAI Smetanaista uunikirjolohta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Juustoista uunimakkaraa",
+                  "meta": "suomalaista possua, L, G"
+                },
+                {
+                  "name": "Perunamuusia Salaattibuffet",
+                  "meta": "L, G"
                 }
               ],
               "price": "11,90 €"
@@ -902,44 +980,9 @@
                 {
                   "name": "Teriyaki poke",
                   "meta": "M, G"
-                }
-              ],
-              "price": null
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-09-16",
-          "weekday": "Keskiviikko",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Possun sisäfilettä tuorejuustokastikkeessa",
-                  "meta": "suomalaista possua, L, G"
                 },
                 {
-                  "name": "Broilerin paistileikettä chimichurri-kastikkeella",
-                  "meta": "suomalaista broileria, M, G"
-                },
-                {
-                  "name": "Paahdettua perunaa & riisiä",
-                  "meta": "M, G"
-                }
-              ],
-              "price": "11,90 €"
-            },
-            {
-              "name": "Annosruoka",
-              "dishes": [
-                {
-                  "name": "Chili burger",
-                  "meta": "L"
-                },
-                {
-                  "name": "Paneroitu broileri poke",
+                  "name": "Pekoni smash burger",
                   "meta": "L"
                 }
               ],
@@ -949,77 +992,9 @@
           "note": null
         },
         {
-          "date": "2026-09-17",
-          "weekday": "Torstai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Crispy chicken & curry-jogurttikastike",
-                  "meta": "suomalaista broileria, L"
-                },
-                {
-                  "name": "Kaalikääryleet & puolukkahillo",
-                  "meta": "suomalaista nautaa ja possua, M, G"
-                },
-                {
-                  "name": "Perunamuusia",
-                  "meta": "L, G"
-                }
-              ],
-              "price": "11,90 €"
-            },
-            {
-              "name": "Annosruoka",
-              "dishes": [
-                {
-                  "name": "Juusto burger",
-                  "meta": "L"
-                },
-                {
-                  "name": "ja Broilerisalaatti",
-                  "meta": "M, G"
-                }
-              ],
-              "price": null
-            }
-          ],
-          "note": null
-        },
-        {
-          "date": "2026-09-18",
+          "date": "2026-09-25",
           "weekday": "Perjantai",
-          "sections": [
-            {
-              "name": "Lounas",
-              "dishes": [
-                {
-                  "name": "Naudan flank steak paahdetussa valkosipuli-pippurikastikkeessa",
-                  "meta": "suomalaista nautaa, L, G"
-                },
-                {
-                  "name": "Makkaramix",
-                  "meta": "suomalaista possua, L, G"
-                },
-                {
-                  "name": "Lohkoperunoita",
-                  "meta": "M, G"
-                }
-              ],
-              "price": "11,90 €"
-            },
-            {
-              "name": "Annosruoka",
-              "dishes": [
-                {
-                  "name": "Halloum burger",
-                  "meta": "L"
-                }
-              ],
-              "price": null
-            }
-          ],
+          "sections": [],
           "note": null
         }
       ],
@@ -1032,26 +1007,26 @@
       "url": "https://www.speakeasy.fi/hervanta/lounas/",
       "days": [
         {
-          "date": "2026-09-14",
+          "date": "2026-09-21",
           "weekday": "Maanantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Broilerinkoivet mango-chilimajoneesilla, basmatiriisi",
-                  "meta": "L, G"
+                  "name": "Kievinkana ja mango-chilimajoneeesi, ranskalaiset",
+                  "meta": "L"
                 },
                 {
-                  "name": "Jauhelihakiusaus",
-                  "meta": "L, G"
+                  "name": "Paistettua nuudelia ja naudanlihaa",
+                  "meta": "L"
                 },
                 {
                   "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Vadelma-valkosuklaarahka",
+                  "name": "Mustaherukkarahka",
                   "meta": "L, G"
                 }
               ],
@@ -1061,18 +1036,18 @@
           "note": null
         },
         {
-          "date": "2026-09-15",
+          "date": "2026-09-22",
           "weekday": "Tiistai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Pannupihvit pippurikastikkeella, lohkoperunat",
-                  "meta": "L"
+                  "name": "Naudan paistia punaviinikastikkeella, valkosipuliperunat",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Paneroitua kampelaa kermaviilikastikkeella",
+                  "name": "Mustamakkara ja puolukkahillo",
                   "meta": "L"
                 },
                 {
@@ -1080,7 +1055,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Munkki",
+                  "name": "Omenapiirakka vaniljakastikkeella",
                   "meta": "L"
                 }
               ],
@@ -1090,26 +1065,26 @@
           "note": null
         },
         {
-          "date": "2026-09-16",
+          "date": "2026-09-23",
           "weekday": "Keskiviikko",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Kebablihaa ja pitaleipää ranskalaisilla",
-                  "meta": "L"
+                  "name": "Chili con carne, basmatiriisi",
+                  "meta": "L, G"
                 },
                 {
-                  "name": "Kaalikääryleet puolukkahillolla",
-                  "meta": "L"
+                  "name": "Uuniperuna savulohitäytteellä",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Speakeasyn original wingsejä eri kastikevahvuuksilla",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Marjaherkku",
+                  "name": "Mango-kinuskimousse",
                   "meta": "L"
                 }
               ],
@@ -1119,7 +1094,7 @@
           "note": null
         },
         {
-          "date": "2026-09-17",
+          "date": "2026-09-24",
           "weekday": "Torstai",
           "sections": [
             {
@@ -1130,11 +1105,11 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Uunilohta remouladella, yrttiperunat",
+                  "name": "Uunilohta hollandaisella, pariisinperunat",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Porsaanleike choronkastikkeella, ranskalaiset",
+                  "name": "Porsaanleike maustevoilla, ranskalaiset",
                   "meta": "L"
                 },
                 {
@@ -1152,22 +1127,22 @@
           "note": null
         },
         {
-          "date": "2026-09-18",
+          "date": "2026-09-25",
           "weekday": "Perjantai",
           "sections": [
             {
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "SPEAKEASYN GRILLIBUFFET",
+                  "name": "SPEAKEASYN BURGERBUFFET",
                   "meta": "L"
                 },
                 {
-                  "name": "Talon ribsejä, bratwurstia, grillattua broileria ja maissia.",
+                  "name": "Talon naudanlihapihvejä ja paneroitua kanaa",
                   "meta": null
                 },
                 {
-                  "name": "Maalaisranskalaisia ja paneroituja sipulirenkaita.",
+                  "name": "Maalaisranskalaisia ja paneroituja sipulirenkaita",
                   "meta": null
                 },
                 {
@@ -1175,7 +1150,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Hedelmäsalaatti",
+                  "name": "Mansikkapirtelö",
                   "meta": null
                 }
               ],
