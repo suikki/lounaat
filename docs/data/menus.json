@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:05:58Z",
+  "generated_at": "2026-09-21T14:19:22Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -558,8 +558,8 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Katkarapu-lasinuudelisalaatti",
-                  "meta": "L, M, G"
+                  "name": "Katkarapu-caesarsalaatti",
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
