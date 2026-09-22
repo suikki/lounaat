@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:39:14Z",
+  "generated_at": "2026-09-22T12:41:02Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -560,6 +560,10 @@
                 {
                   "name": "Katkarapu-caesarsalaatti",
                   "meta": "L"
+                },
+                {
+                  "name": "Falafelpyörykkä",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -917,7 +921,7 @@
                   "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "Savulohivuokaa (suomalaista kirjolohta) Paahdettua perunaa & riisiä",
+                  "name": "Savulohivuokaa (suomalaista kirjolohta) Paahdettua perunaa",
                   "meta": "L, M, G"
                 }
               ],
@@ -948,11 +952,11 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Sitruuna-smetanabroileria (suomalaista broileria) Kebabia tomaatti-paprikakastikkeessa",
+                  "name": "Sitruuna-smetanabroileria (suomalaista broileria) Caffitellan kebabia",
                   "meta": "suomalaista nautaa, L, M, G"
                 },
                 {
-                  "name": "Lohkoperunoita Salaattibuffet",
+                  "name": "Lohkoperunoita & riisiä Salaattibuffet",
                   "meta": "M, G"
                 },
                 {
