@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:22:00Z",
+  "generated_at": "2026-09-22T08:39:14Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -56,7 +56,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Sitruunaista uunilohta",
+                  "name": "Sitruunaista uunikalaa",
                   "meta": "M, G"
                 },
                 {
@@ -65,7 +65,7 @@
                 },
                 {
                   "name": "– täyteläistä perunamuusia",
-                  "meta": "L, G"
+                  "meta": "Saa M,G, L, G"
                 },
                 {
                   "name": "Kukkoa viinissä eli Coq au vin",
@@ -89,7 +89,7 @@
               "dishes": [
                 {
                   "name": "Paahdettu kasvis-feta wrap muhammara kastikkeella L, KASVIS",
-                  "meta": null
+                  "meta": "SAA VEG"
                 }
               ],
               "price": null
@@ -99,7 +99,7 @@
               "dishes": [
                 {
                   "name": "pähkinäistä snickers rahkaa",
-                  "meta": "L, G"
+                  "meta": "SAA M,G,VEG, L, G"
                 }
               ],
               "price": null
