@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:41:25Z",
+  "generated_at": "2026-09-23T12:48:45Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -609,12 +609,24 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Teriyakikalaa",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Itte tehtyjä punajuuripihvejä",
+                  "meta": "L, M, G"
+                },
+                {
                   "name": "Perunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Karamellisoitua sipulia",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Aiolia",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Mangokiisseliä",
