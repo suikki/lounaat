@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T12:41:02Z",
+  "generated_at": "2026-09-23T06:06:23Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -325,7 +325,7 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Cajunbroileria kirsikkakastikkeessa",
+                  "name": "Cajun-maustettua broilerin sisäfileetä kirsikkakastikkeessa",
                   "meta": "M, G"
                 },
                 {
@@ -750,20 +750,6 @@
                 {
                   "name": "BBQ-possua",
                   "meta": "L, M, G"
-                }
-              ],
-              "price": "13,80 €"
-            },
-            {
-              "name": "Pizzalounas",
-              "dishes": [
-                {
-                  "name": "Pepperonipizzaa",
-                  "meta": "L"
-                },
-                {
-                  "name": "Vihreää salaattia",
-                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
