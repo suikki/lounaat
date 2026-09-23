@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:06:23Z",
+  "generated_at": "2026-09-23T08:41:25Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -120,7 +120,7 @@
                 },
                 {
                   "name": "Hoisin glaseerattua possua",
-                  "meta": "M"
+                  "meta": "SAA M, G, M"
                 },
                 {
                   "name": "Aromikas kasvis-vindaloo & riisiä",
@@ -143,7 +143,7 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Caprese salaatti paahdetulla broilerilla",
+                  "name": "Caprese salaatti paahdetulla broilerilla ja mozzarellalla",
                   "meta": "L, G"
                 }
               ],
@@ -322,7 +322,7 @@
                 },
                 {
                   "name": "– ruohosipuliperunamuusia",
-                  "meta": "M, G"
+                  "meta": "L, G"
                 },
                 {
                   "name": "Cajun-maustettua broilerin sisäfileetä kirsikkakastikkeessa",
@@ -333,8 +333,12 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Kahvin kanssa suklaapiirakkaa",
+                  "name": "Kahvin kanssa suklaapiirakkaa ripauksella polkaa",
                   "meta": "L"
+                },
+                {
+                  "name": "– saa myös jälkkäriä",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
