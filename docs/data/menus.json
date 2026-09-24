@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:15:18Z",
+  "generated_at": "2026-09-24T08:34:08Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -367,6 +367,10 @@
                 },
                 {
                   "name": "Italialainen vegepyörykkäkeitto",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Päivän vegaani keittiöstä: chili sin carne",
                   "meta": "G, VEG"
                 }
               ],
