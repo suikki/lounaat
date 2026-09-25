@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:12:20Z",
+  "generated_at": "2026-09-25T08:55:50Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -201,12 +201,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Rapeaksi paneroitua pangasiusfilettä & sitruunaa",
-                  "meta": "M, G"
+                  "name": "Rapeaksi paneroitua pangasiusfilettä ja kermaviilikastiketta",
+                  "meta": "maito, L, M, G"
                 },
                 {
                   "name": "Tex mex nachovuokaa jauhelihalla ja juustokuorrutteella",
-                  "meta": "L, G"
+                  "meta": "SAA M, G, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -226,7 +226,17 @@
               "dishes": [
                 {
                   "name": "Mureaa possun plumaa & täyteläinen kolmen pippurin kastike",
-                  "meta": null
+                  "meta": "L, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Nochicken nachovuoka",
+                  "meta": "M, VEG"
                 }
               ],
               "price": null
