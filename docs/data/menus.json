@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T08:34:08Z",
+  "generated_at": "2026-09-25T06:12:20Z",
   "iso_week": 39,
   "restaurants": [
     {
@@ -391,6 +391,10 @@
                   "meta": "M, G"
                 },
                 {
+                  "name": "– paahdetut BBQ-perunat",
+                  "meta": "G, VEG"
+                },
+                {
                   "name": "Pepperoni-salamipizza",
                   "meta": "L"
                 },
@@ -399,7 +403,7 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Kahvin kanssa vaniljapannacottaa ja mangokastiketta",
+                  "name": "Kahvin kanssa vaniljapannacottaa ja trooppista hedelmäkastiketta",
                   "meta": "L, G"
                 }
               ],
