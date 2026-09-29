@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:37:43Z",
+  "generated_at": "2026-09-29T07:01:45Z",
   "iso_week": 40,
   "restaurants": [
     {
@@ -100,7 +100,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Beef goulash",
+                  "name": "Kasvis gulassikeitto",
                   "meta": "M, G"
                 }
               ],
@@ -337,7 +337,7 @@
                 },
                 {
                   "name": "Päivän vegaani keittiöstä: Pasta carbonara kylmäsavutofulla ja lehtikaalilla",
-                  "meta": "VEG"
+                  "meta": "G, VEG"
                 }
               ],
               "price": "13,80 €"
