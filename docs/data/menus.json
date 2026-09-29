@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:01:45Z",
+  "generated_at": "2026-09-29T09:57:43Z",
   "iso_week": 40,
   "restaurants": [
     {
@@ -71,11 +71,15 @@
                 },
                 {
                   "name": "Olutkastikkeessa haudutettua possua",
-                  "meta": "M"
+                  "meta": "SAA M,G, M"
                 },
                 {
                   "name": "Käsepätzle- karamelisoidulla sipulilla viimeisteltyä juustopasta paistosta",
                   "meta": "L"
+                },
+                {
+                  "name": "Paneroituja kasvispihvejä umamisessa tomattikastikkeessa KEITTIÖSTÄ",
+                  "meta": "M, G, VEG"
                 },
                 {
                   "name": "– kirkas perunasalaatti",
@@ -110,8 +114,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Döner kebab- mit alles und scharf",
-                  "meta": "kaikilla mausteilla ja tulisena, L"
+                  "name": "Tortilla kebab kaikilla mausteilla ja tulisena",
+                  "meta": "L"
                 }
               ],
               "price": null
