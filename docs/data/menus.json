@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:49:28Z",
+  "generated_at": "2026-09-30T11:13:15Z",
   "iso_week": 40,
   "restaurants": [
     {
@@ -151,8 +151,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Jälkiruoaksi: Kaurainen omena-kanelipaistos ja vaniljakastiketta",
-                  "meta": "L, G"
+                  "name": "Jälkiruoaksi: Hedelmäpaistos",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
