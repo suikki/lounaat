@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:57:43Z",
+  "generated_at": "2026-09-30T06:51:31Z",
   "iso_week": 40,
   "restaurants": [
     {
@@ -139,7 +139,7 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Bratwurstia-sipulikastikkeella",
+                  "name": "Bratwurstia curry-sipulikastikkeella",
                   "meta": "M, G"
                 },
                 {
@@ -151,8 +151,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Jälkiruoaksi: Kaurainen omena-kanelipaistos",
-                  "meta": "L"
+                  "name": "Jälkiruoaksi: Kaurainen omena-kanelipaistos ja vaniljakastiketta",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -162,7 +162,7 @@
               "dishes": [
                 {
                   "name": "Käse-lauch suppe, juustoinen purjokeitto jauhelihalla",
-                  "meta": "M, G"
+                  "meta": "L, G"
                 }
               ],
               "price": null
@@ -171,8 +171,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Paneroitua kukkakaalia shnitzel tyyliin M, KASVIS",
-                  "meta": null
+                  "name": "Paneroitua kukkakaalia shnitzel tyyliin L, KASVIS",
+                  "meta": "SAA keitiiöstä!, M, G, VEG"
                 }
               ],
               "price": null
@@ -562,6 +562,10 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Kauranjyvää",
+                  "meta": "L, M, G, VEG"
+                },
+                {
                   "name": "Kirsikka-suklaarahkaa",
                   "meta": "L, G"
                 }
@@ -596,6 +600,10 @@
                 {
                   "name": "Caesar-salaattia",
                   "meta": "L"
+                },
+                {
+                  "name": "Herne-punajuuripihvejä",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -643,6 +651,10 @@
                 {
                   "name": "Herneitä",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Ohrahelmiä",
+                  "meta": "L, M, VEG"
                 },
                 {
                   "name": "OKTOBER Aioli",
@@ -780,8 +792,8 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Mangomajoneesia",
-                  "meta": "L, M, G"
+                  "name": "Mango-jogurttikastiketta",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Porsaanpaisti, viipaloitu",
