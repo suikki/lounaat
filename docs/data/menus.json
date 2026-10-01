@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:15:34Z",
+  "generated_at": "2026-10-01T10:17:17Z",
   "iso_week": 40,
   "restaurants": [
     {
@@ -188,12 +188,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Rapeaa tempura turskaa remoulade dipillä",
-                  "meta": "L, M, G"
+                  "name": "Rapeaa tempura paneroitua turskaa remoulade dipillä",
+                  "meta": "M"
                 },
                 {
                   "name": "Kasvislasagnea täytettynä lempeän yrttisellä aurinkokuivatulla tomaatilla L, KASVIS",
-                  "meta": null
+                  "meta": "SAA keittiöstä, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -212,7 +212,7 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Yakitory paahdettu chicken bowl",
+                  "name": "Yakitori paahdettu chicken bowl riisillä ja kasviksilla",
                   "meta": "M, G"
                 }
               ],
@@ -394,7 +394,11 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Seesampossua ja kananmunia",
+                  "name": "– aasialaisittain maustetut paahdetut perunat",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Korean seesampossua ja kananmunia",
                   "meta": "M, G"
                 },
                 {
