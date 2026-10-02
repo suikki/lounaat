@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:54:05Z",
+  "generated_at": "2026-10-02T11:10:14Z",
   "iso_week": 40,
   "restaurants": [
     {
@@ -239,10 +239,6 @@
                 {
                   "name": "Juustoinen pizza rucolalla L, KASVIS",
                   "meta": null
-                },
-                {
-                  "name": "Jälkiruoaksi: Suklaakiisseliä",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -253,16 +249,6 @@
                 {
                   "name": "Umaminen Tom Yum keitto",
                   "meta": "M, G, VEG"
-                }
-              ],
-              "price": null
-            },
-            {
-              "name": "Chef's menu",
-              "dishes": [
-                {
-                  "name": "Pariloitua lohta salsa verde kastikkeella sekä parmesaani risotolla",
-                  "meta": null
                 }
               ],
               "price": null
