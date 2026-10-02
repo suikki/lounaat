@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:17:17Z",
+  "generated_at": "2026-10-02T07:05:12Z",
   "iso_week": 40,
   "restaurants": [
     {
@@ -444,7 +444,7 @@
                 },
                 {
                   "name": "Kahvin kanssa tuoretta pullaa ja saa",
-                  "meta": "L, G"
+                  "meta": "L, M, G"
                 }
               ],
               "price": "13,80 €"
@@ -756,12 +756,24 @@
                   "meta": "L, G"
                 },
                 {
+                  "name": "Rapeaa mallaskanaa",
+                  "meta": "L, M"
+                },
+                {
+                  "name": "Peruna-sienipihvejä",
+                  "meta": "L, M, G"
+                },
+                {
                   "name": "Ryppyperunat",
                   "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Uunijuureksia",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Ohrahelmiä",
+                  "meta": "L, M, VEG"
                 },
                 {
                   "name": "Chipotlemaustettua ranskankermaa",
@@ -810,6 +822,22 @@
                 {
                   "name": "Kana-pastasalaatti",
                   "meta": "L, M"
+                },
+                {
+                  "name": "Täytettyjä paprikoita",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Katkarapu caesarsalaattia",
+                  "meta": "L"
+                },
+                {
+                  "name": "Aurajuustomurua",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Ananasta",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -855,7 +883,7 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Kukkakaali-vihreäpapu-savoijinkaalipaistosta",
+                  "name": "Höyrytettyä porkkanaa ja sipulia",
                   "meta": "L, M, G, VEG"
                 },
                 {
