@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:12:24Z",
+  "generated_at": "2026-10-05T12:22:26Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -451,6 +451,10 @@
                 {
                   "name": "Paahdettua porkkanaa",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Ohrahelmiä",
+                  "meta": "L, M, VEG"
                 },
                 {
                   "name": "Mango-chilimajoneesia",
