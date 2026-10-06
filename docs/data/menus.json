@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:38:55Z",
+  "generated_at": "2026-10-06T10:30:43Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -97,7 +97,7 @@
               "dishes": [
                 {
                   "name": "Fish & Chips herneillä ja tartar kastikkeella",
-                  "meta": "L"
+                  "meta": "M"
                 }
               ],
               "price": null
@@ -300,7 +300,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kahvin kanssa Orvokin Schwarzwälder Kirschtorte",
+                  "name": "Kahvin kanssa Orvokin Schwarzwälder Kirschtorte sis.manteli",
                   "meta": "L"
                 }
               ],
@@ -471,8 +471,12 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Lehtipihvi ranskalaisilla",
-                  "meta": "L, G"
+                  "name": "Smash-burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Maalaisranskalaisia",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -536,12 +540,8 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Smash-burger",
-                  "meta": "L"
-                },
-                {
-                  "name": "Maalaisranskalaisia",
-                  "meta": "L, M, G, VEG"
+                  "name": "Lehtipihvi ranskalaisilla",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
