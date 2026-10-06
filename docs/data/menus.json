@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:30:43Z",
+  "generated_at": "2026-10-06T12:05:28Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -471,12 +471,8 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Smash-burger",
-                  "meta": "L"
-                },
-                {
-                  "name": "Maalaisranskalaisia",
-                  "meta": "L, M, G, VEG"
+                  "name": "Lehtipihvi ranskalaisilla",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -522,6 +518,10 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Maissipaneroitua kanaa",
+                  "meta": "L, M, G"
+                },
+                {
                   "name": "Maalaislohkoperunoita",
                   "meta": "L, M, G, VEG"
                 },
@@ -532,6 +532,10 @@
                 {
                   "name": "Mustikka-kardemummapiirakkaa",
                   "meta": "L, M"
+                },
+                {
+                  "name": "Itte tehtyä raparperi-herukkapiirakkaa",
+                  "meta": "L, M"
                 }
               ],
               "price": "13,80 €"
@@ -540,8 +544,12 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Lehtipihvi ranskalaisilla",
-                  "meta": "L, G"
+                  "name": "Smash-burger",
+                  "meta": "L"
+                },
+                {
+                  "name": "Maalaisranskalaisia",
+                  "meta": "L, M, G, VEG"
                 }
               ],
               "price": "13,80 €"
