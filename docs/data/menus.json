@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:19:43Z",
+  "generated_at": "2026-10-07T10:24:10Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -113,16 +113,16 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Meheviä pannupihvejä valkosipuli-pippurikastikkeella",
-                  "meta": "L, G"
+                  "name": "Meheviä naudan pannupihvejä valkosipuli-pippurikastikkeella",
+                  "meta": "L"
                 },
                 {
-                  "name": "Kasvis- kaalilaatikkoa",
-                  "meta": "M, G"
+                  "name": "Kasvis- kaalilaatikkoa härkiksellä L, G, KASVIS",
+                  "meta": "SAA M, G, VEG"
                 },
                 {
-                  "name": "Chef: Pähkinäistä Kung Pao broileria paistetulla riisillä",
-                  "meta": "M, G"
+                  "name": "Chef: Pähkinäistä Kung Pao broileria riisillä",
+                  "meta": "M"
                 }
               ],
               "price": "13,80 €"
@@ -131,8 +131,8 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Karamellioitua sipulikeittoa",
-                  "meta": "L, G"
+                  "name": "Karamellioitua sipulikeittoa L, G, KASVIS",
+                  "meta": null
                 }
               ],
               "price": null
@@ -341,8 +341,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– piirakkaa saa myös",
-                  "meta": "M, G"
+                  "name": "saa myös omena-murupaistos ja vegaaninen vaniljakastike",
+                  "meta": "G, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -772,6 +772,10 @@
                 {
                   "name": "Paholaisen kanapizzaa",
                   "meta": "VL"
+                },
+                {
+                  "name": "Pepperoni-rucolapizzaa",
+                  "meta": "L"
                 },
                 {
                   "name": "Vihreää salaattia",
