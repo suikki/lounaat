@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:24:10Z",
+  "generated_at": "2026-10-08T07:32:56Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -613,6 +613,10 @@
                   "meta": "L, G"
                 },
                 {
+                  "name": "Antellin lasagnea",
+                  "meta": "L"
+                },
+                {
                   "name": "Maalaislohkoperunoita",
                   "meta": "L, M, G, VEG"
                 },
@@ -726,7 +730,7 @@
               "name": "Grilliannos",
               "dishes": [
                 {
-                  "name": "Hiillostettua kirjolohta",
+                  "name": "Grillattu kirjolohi",
                   "meta": "L, M, G"
                 },
                 {
