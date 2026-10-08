@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:32:56Z",
+  "generated_at": "2026-10-08T14:40:25Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -391,16 +391,20 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– smetana-ruohosipuliperunat",
-                  "meta": "L, G"
+                  "name": "– smetana-ruohosipuliperunat ja höyryperunoita",
+                  "meta": "L, G, VEG"
+                },
+                {
+                  "name": "– timjamipunajuuria",
+                  "meta": "G, VEG"
                 },
                 {
                   "name": "Jalapeno-kasvisnuggetit",
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "– vegaaninen paprikamajoneesi",
-                  "meta": "G, VEG"
+                  "name": "– paahdettu paprikadippi",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Porkkanasosekeittoa",
