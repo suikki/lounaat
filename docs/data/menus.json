@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:40:25Z",
+  "generated_at": "2026-10-09T07:30:05Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -188,11 +188,11 @@
                 },
                 {
                   "name": "Kermaisen paprikaista pepperonipastaa",
-                  "meta": "L"
+                  "meta": "SAA VEG, L"
                 },
                 {
                   "name": "Chef: Kana gyros pitaleipä tsatsikilla ja ranskanperunoilla",
-                  "meta": "L"
+                  "meta": "SAA G, L"
                 }
               ],
               "price": "13,80 €"
@@ -212,7 +212,7 @@
               "dishes": [
                 {
                   "name": "Talon mansikkaista piirakkaa",
-                  "meta": "L"
+                  "meta": "SAA ;G, L, VEG"
                 }
               ],
               "price": null
@@ -412,7 +412,7 @@
                 },
                 {
                   "name": "Kahvin kanssa mangorahkaa",
-                  "meta": "L, G"
+                  "meta": "SAA M, G, VEG, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -706,6 +706,10 @@
                 {
                   "name": "Caponata – Sisialaista munakoisopataa",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Crispy chicken – rapeaa kanaa",
+                  "meta": "L, M"
                 },
                 {
                   "name": "Valkosipuliperunoita",
