@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:30:05Z",
+  "generated_at": "2026-10-09T10:43:00Z",
   "iso_week": 41,
   "restaurants": [
     {
@@ -212,7 +212,7 @@
               "dishes": [
                 {
                   "name": "Talon mansikkaista piirakkaa",
-                  "meta": "SAA ;G, L, VEG"
+                  "meta": "SAA ;G, M, VEG"
                 }
               ],
               "price": null
