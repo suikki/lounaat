@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:28:50Z",
+  "generated_at": "2026-10-13T07:49:46Z",
   "iso_week": 42,
   "restaurants": [
     {
@@ -266,7 +266,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Marry me-broileria",
+                  "name": "Marry me broileria – mehevää broilerin rintaa aurinkokuivattu tomaatti-parmesankastikkeessa",
                   "meta": "L, G"
                 },
                 {
@@ -274,7 +274,7 @@
                   "meta": "saa myös VEG,G, L, G"
                 },
                 {
-                  "name": "– puolukkahilloa",
+                  "name": "– mustaherukkahilloa",
                   "meta": null
                 },
                 {
@@ -305,10 +305,6 @@
                 {
                   "name": "Orvokin oma: Porkkanaletut",
                   "meta": "L"
-                },
-                {
-                  "name": "– mustaherukkahilloa",
-                  "meta": null
                 },
                 {
                   "name": "Juustoinen parsakaalikeitto",
