@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:08:34Z",
+  "generated_at": "2026-10-14T06:15:02Z",
   "iso_week": 42,
   "restaurants": [
     {
@@ -510,6 +510,14 @@
                 {
                   "name": "Kermavaahtoa",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Suklaakonvehteja",
+                  "meta": "G"
+                },
+                {
+                  "name": "Suklaapisara-keksejä",
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -605,8 +613,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Maalaisperunasalaattia",
-                  "meta": "L, G"
+                  "name": "Shichimi togarashi -maustettua pastasalaattia",
+                  "meta": "L, M, VEG"
                 }
               ],
               "price": "13,80 €"
