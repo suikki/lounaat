@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:15:02Z",
+  "generated_at": "2026-10-14T08:50:46Z",
   "iso_week": 42,
   "restaurants": [
     {
@@ -103,12 +103,20 @@
                   "meta": "M"
                 },
                 {
+                  "name": "– inkivääri-jogurtti dippi",
+                  "meta": "L, G"
+                },
+                {
                   "name": "Lihapullia yrttisessä tomaattikastikkeessa",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Basillikalla höystetty kana-kasviskeitto",
+                  "name": "– perunamuussia",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Thai basillikalla höystetty kana-kasviskeitto",
+                  "meta": "M, G"
                 }
               ],
               "price": "13,80 €"
@@ -117,8 +125,8 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Umaminen Pho keitto",
-                  "meta": "M, VEG"
+                  "name": "Umaminen Pho keitto tofulla",
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -311,8 +319,16 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kahvin kanssa Biscoff-keksimoussea",
-                  "meta": "L"
+                  "name": "Keittiöstä porkkanapihvit ja savupaprikamajoneesi",
+                  "meta": "M, G"
+                },
+                {
+                  "name": "Kahvin kanssa Biscoff-keksimoussea L, saa myös",
+                  "meta": "VEG"
+                },
+                {
+                  "name": "– saa myös keksimoussea",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
