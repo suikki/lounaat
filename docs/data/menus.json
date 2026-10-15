@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:19:20Z",
+  "generated_at": "2026-10-15T05:57:32Z",
   "iso_week": 42,
   "restaurants": [
     {
@@ -601,12 +601,24 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Mausteista porsaanniskaa",
+                  "meta": "L, M, G"
+                },
+                {
                   "name": "Riisiä",
                   "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Paahdettuja tandoorikasviksia",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kermaista sinappikastiketta",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Keksiannos",
