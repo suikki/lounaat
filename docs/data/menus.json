@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:57:32Z",
+  "generated_at": "2026-10-15T08:25:54Z",
   "iso_week": 42,
   "restaurants": [
     {
@@ -356,6 +356,10 @@
                   "meta": "saa myös L,G, L"
                 },
                 {
+                  "name": "– keittiöstä valkosipuli-persiljabroileria",
+                  "meta": "M, G"
+                },
+                {
                   "name": "– currymajoneesia",
                   "meta": "M, G"
                 },
@@ -364,7 +368,11 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Hernekeitto palvikinkulla",
+                  "name": "– paahdetut chili-inkiväärikasvikset",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Hernekeitto kinkulla",
                   "meta": "M, G"
                 },
                 {
