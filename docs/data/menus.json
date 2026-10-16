@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:25:54Z",
+  "generated_at": "2026-10-16T05:56:43Z",
   "iso_week": 42,
   "restaurants": [
     {
@@ -189,7 +189,7 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Aromaattista Välimeren Kasvis pataa",
+                  "name": "Aromaattista Välimeren kasvis pataa",
                   "meta": "M, G, VEG"
                 },
                 {
@@ -204,7 +204,7 @@
               "dishes": [
                 {
                   "name": "Mehevä juustohampurilainen & ranskanperunat",
-                  "meta": "L, M, G"
+                  "meta": "L"
                 }
               ],
               "price": null
@@ -213,7 +213,7 @@
               "name": "Jälkiruoka",
               "dishes": [
                 {
-                  "name": "Appelsiini-jugurtti pannacotta",
+                  "name": "Appelsiini-jugurtti hyvettä",
                   "meta": "L, G"
                 }
               ],
