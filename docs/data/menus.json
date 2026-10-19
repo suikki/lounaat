@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:04:15Z",
+  "generated_at": "2026-10-19T14:45:26Z",
   "iso_week": 43,
   "restaurants": [
     {
@@ -62,12 +62,12 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Chef: sweet & sour kalaa, sticky rice",
-                  "meta": "M, G"
+                  "name": "Chef: Täysjyväpaneroitua kalaa, bearnaisekastiketta & ranskanperunoita",
+                  "meta": "M"
                 },
                 {
-                  "name": "Banaanikakkua vaniljakastikkeella",
-                  "meta": "L"
+                  "name": "VEG ruoka keittiöstä: chavrepyörykät aiolilla",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -78,6 +78,16 @@
                 {
                   "name": "Kermainen kukkakaalikeitto L, G, KASVIS",
                   "meta": null
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "Mokkapalat",
+                  "meta": "M, ja jälkiruoka keittiöstä, G, VEG"
                 }
               ],
               "price": null
