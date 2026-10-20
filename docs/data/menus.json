@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:41:17Z",
+  "generated_at": "2026-10-20T12:47:41Z",
   "iso_week": 43,
   "restaurants": [
     {
@@ -336,7 +336,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– mausteiset lohkoperunat",
+                  "name": "– uuniranskalaiset",
                   "meta": "G, VEG"
                 },
                 {
@@ -593,6 +593,10 @@
                 {
                   "name": "Uunijuureksia",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Lime-kermaviilikastiketta",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Mustaherukka-vadelmakiisseliä",
