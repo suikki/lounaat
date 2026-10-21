@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:47:41Z",
+  "generated_at": "2026-10-21T08:42:17Z",
   "iso_week": 43,
   "restaurants": [
     {
@@ -295,8 +295,12 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "– perunamuusia ja tartarkastiketta",
-                  "meta": "L, M, G"
+                  "name": "– perunamuusia ja höyryperunoita",
+                  "meta": "L, G, VEG"
+                },
+                {
+                  "name": "– tartarkastiketta",
+                  "meta": "M, G"
                 },
                 {
                   "name": "Orvokin oma: Voissa paistetut pinaattiletut",
@@ -599,6 +603,10 @@
                   "meta": "L, G"
                 },
                 {
+                  "name": "Tzazikia",
+                  "meta": "L, G"
+                },
+                {
                   "name": "Mustaherukka-vadelmakiisseliä",
                   "meta": "L, M, G, VEG"
                 },
@@ -690,10 +698,6 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Tzazikia",
-                  "meta": "L, G"
-                },
-                {
                   "name": "Mariannerahkaa",
                   "meta": "L"
                 },
@@ -779,6 +783,10 @@
                 {
                   "name": "Paahdettuja kaskijuureksia",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Tzazikia",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Perinteistä marjapiirakkaa",
