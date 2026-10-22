@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:42:17Z",
+  "generated_at": "2026-10-22T06:10:28Z",
   "iso_week": 43,
   "restaurants": [
     {
@@ -146,8 +146,8 @@
                   "meta": null
                 },
                 {
-                  "name": "Chef: Sticky Ribbs & lämmin perunasalaatti marinoiduilla tomaateilla",
-                  "meta": "M, G"
+                  "name": "Ei chef annosta tänään henkilöstövajeen vuoksi",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -340,8 +340,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– uuniranskalaiset",
-                  "meta": "G, VEG"
+                  "name": "– uuniranskalaiset ja valkosipulidippiä",
+                  "meta": "L, G, VEG"
                 },
                 {
                   "name": "Pitkään haudutettu lihakaalilaatikko",
