@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:10:28Z",
+  "generated_at": "2026-10-22T08:44:30Z",
   "iso_week": 43,
   "restaurants": [
     {
@@ -156,8 +156,18 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Hernekeitto palvikinkulla & pannukakkua & hilloa",
-                  "meta": "M, G"
+                  "name": "Hernekeitto kinkulla & pannukakkua & hilloa",
+                  "meta": "M, ja jälkkärit keittiöstä, L, M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Meksikon kasvispihvejä pähkinäisellä satay kastikkeella",
+                  "meta": null
                 }
               ],
               "price": null
@@ -340,8 +350,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– uuniranskalaiset ja valkosipulidippiä",
-                  "meta": "L, G, VEG"
+                  "name": "– uuniranskalaisia ja aiolia",
+                  "meta": "M, G, VEG"
                 },
                 {
                   "name": "Pitkään haudutettu lihakaalilaatikko",
