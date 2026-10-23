@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:40:04Z",
+  "generated_at": "2026-10-23T10:12:34Z",
   "iso_week": 43,
   "restaurants": [
     {
@@ -379,8 +379,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Rapeaa kananpojan paistileikettä",
-                  "meta": "M, G"
+                  "name": "Kievin kanaa",
+                  "meta": "L"
                 },
                 {
                   "name": "– sweet chili majoneesia",
@@ -395,8 +395,8 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kahvin kanssa Orvokin porkkanakakkua",
-                  "meta": "L"
+                  "name": "Kahvin kanssa suklaa-tuorejuustomoussea",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
