@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:12:34Z",
+  "generated_at": "2026-10-23T12:41:18Z",
   "iso_week": 43,
   "restaurants": [
     {
@@ -781,6 +781,10 @@
                 {
                   "name": "Mantelikalaa",
                   "meta": "L, M"
+                },
+                {
+                  "name": "Tulista smetana-uunimakkaraa",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Kasvispyöryköitä",
