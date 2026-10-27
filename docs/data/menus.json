@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:25:34Z",
+  "generated_at": "2026-10-27T09:09:29Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -51,7 +51,7 @@
               "dishes": [
                 {
                   "name": "Paneroitua hietakampelaa & sitrus dippi",
-                  "meta": "L, M"
+                  "meta": "M"
                 },
                 {
                   "name": "Juustoinen jauheliha-kesäkurpitsa melanzane",
@@ -64,6 +64,10 @@
                 {
                   "name": "Jälkiruoaksi: Talon omenapiirakkaa",
                   "meta": "M"
+                },
+                {
+                  "name": "VEG ja jälkiruoka keittiöstä",
+                  "meta": "G"
                 }
               ],
               "price": "13,80 €"
@@ -72,7 +76,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "samettinen tomaattikeitto",
+                  "name": "Samettinen tomaattikeitto",
                   "meta": "L, G"
                 }
               ],
@@ -254,7 +258,7 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Seesam-kasvisnuudelit ylikypsällä possulla",
+                  "name": "Seesam-kasvisnuudelit ylikypsällä possulla sis. kananmuna",
                   "meta": "saa myös VEG, G, M, G"
                 },
                 {
@@ -464,7 +468,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Teema Metsäsienilasagnette",
+                  "name": "Metsäsienilasagnette",
                   "meta": "L"
                 },
                 {
@@ -500,6 +504,10 @@
                 {
                   "name": "Lehtipihvi maustevoilla",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Maalaisranskalaisia",
+                  "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Tandoorikasviksia",
