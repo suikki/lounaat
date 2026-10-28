@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:55:32Z",
+  "generated_at": "2026-10-28T09:50:22Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -111,7 +111,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chef: Pangasus filettä pinaattikastikkeella, perunoita & juureksia",
+                  "name": "Chef: Pangasius filettä pinaattikastikkeella, perunoita & juureksia",
                   "meta": "L, G"
                 }
               ],
@@ -123,6 +123,16 @@
                 {
                   "name": "Mausteinen kurpitsakeitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Nochickeniä paholaisenkastikkeella",
+                  "meta": null
                 }
               ],
               "price": null
@@ -283,12 +293,12 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Broileria Tikka masala",
-                  "meta": "saa myös M,G, L, G"
+                  "name": "– steakhouse-maustetut paahdetut perunat",
+                  "meta": "selleri, G, VEG"
                 },
                 {
-                  "name": "– valkosipulinaanleipää",
-                  "meta": null
+                  "name": "Broileria Tikka masala",
+                  "meta": "saa myös M,G, L, G"
                 },
                 {
                   "name": "Samettinen kukkakaalisosekeitto",
