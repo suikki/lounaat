@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:10:42Z",
+  "generated_at": "2026-10-29T11:35:50Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -152,8 +152,12 @@
                   "meta": "saa M,G, L, M, G"
                 },
                 {
-                  "name": "Kasvis Lo Mein noodeleita",
-                  "meta": "M, VEG"
+                  "name": "Kasvis Lo Mein noodeleita M, kasvis",
+                  "meta": null
+                },
+                {
+                  "name": "Vegaaniset chavre pyörykät taivaallisessa tomaattikastikkeessa",
+                  "meta": null
                 },
                 {
                   "name": "Chef: Broilerin filettä vuohenjuustokastikkeella ja paahdetulla bataatilla",
