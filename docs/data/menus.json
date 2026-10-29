@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:50:22Z",
+  "generated_at": "2026-10-29T07:14:38Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -583,6 +583,10 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Ohrahelmiä",
+                  "meta": "L, M, VEG"
+                },
+                {
                   "name": "Puolukkavispipuuroa",
                   "meta": "L, M, VEG"
                 },
@@ -686,8 +690,8 @@
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Avokadopastaa",
-                  "meta": "L, M, VEG"
+                  "name": "Avocado-valkosipulipasta",
+                  "meta": "L"
                 },
                 {
                   "name": "Hunajaisia rakuunaporkkanoita",
