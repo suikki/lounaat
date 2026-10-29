@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:14:38Z",
+  "generated_at": "2026-10-29T10:10:42Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -152,8 +152,8 @@
                   "meta": "saa M,G, L, M, G"
                 },
                 {
-                  "name": "Kasvis Lo Mein noodeleita M, KASVIS",
-                  "meta": null
+                  "name": "Kasvis Lo Mein noodeleita",
+                  "meta": "M, VEG"
                 },
                 {
                   "name": "Chef: Broilerin filettä vuohenjuustokastikkeella ja paahdetulla bataatilla",
