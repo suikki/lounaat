@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:28:56Z",
+  "generated_at": "2026-10-30T07:17:35Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -660,6 +660,10 @@
                   "meta": "L"
                 },
                 {
+                  "name": "Vegaanista lehtikaalimoussakaa",
+                  "meta": "L, M, VEG"
+                },
+                {
                   "name": "Paistettuja perunoita",
                   "meta": "L, M, G, VEG"
                 },
@@ -678,6 +682,10 @@
                 {
                   "name": "Itte tehty marjapiirakka",
                   "meta": "L, M"
+                },
+                {
+                  "name": "Itte tehtyä raparperipiirakkaa",
+                  "meta": "L"
                 },
                 {
                   "name": "Kahviannos, maito ja sokeri",
