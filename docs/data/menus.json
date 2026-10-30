@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:17:35Z",
+  "generated_at": "2026-10-30T10:12:30Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -360,7 +360,7 @@
               "dishes": [
                 {
                   "name": "Orvokin oma: Mausteinen pulled pork",
-                  "meta": "M, G"
+                  "meta": "selleri, M, G"
                 },
                 {
                   "name": "– lankkuperunat ja kurkkumajoneesi",
@@ -375,8 +375,8 @@
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Kahvin kanssa pullavanukasta ja kermavaahtoa",
-                  "meta": null
+                  "name": "Kahvin kanssa pullavanukasta ja kunnon kermavaahtoa",
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
