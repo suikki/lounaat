@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:27:37Z",
+  "generated_at": "2026-10-30T14:19:27Z",
   "iso_week": 44,
   "restaurants": [
     {
@@ -753,6 +753,14 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Makkaramix",
+                  "meta": "L, M"
+                },
+                {
+                  "name": "Itte tehtyjä punajuuriohukaisia",
+                  "meta": "L"
+                },
+                {
                   "name": "Maalaisranskalaisia",
                   "meta": "L, M, G, VEG"
                 },
@@ -763,6 +771,14 @@
                 {
                   "name": "Frankensteinin Kurkkumajoneesi",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Mango-jogurttikastiketta",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Ohrahelmiä",
+                  "meta": "L, M, VEG"
                 },
                 {
                   "name": "Sitruuna-lakritsirahkaa",
