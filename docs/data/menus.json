@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:46:16Z",
+  "generated_at": "2026-11-02T11:25:18Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -173,7 +173,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Wieninleikettä anjoviksella & karpiksella",
+                  "name": "Wieninleikettä anjoviksella & kapriksilla",
                   "meta": "M"
                 },
                 {
@@ -291,15 +291,15 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "– perinteinen perunamuusi",
-                  "meta": "L, G"
+                  "name": "– perinteinen perunamuusi ja höyryperunat",
+                  "meta": "L, G, VEG"
                 },
                 {
                   "name": "Kiinalainen mustapippurikana",
                   "meta": "M, G"
                 },
                 {
-                  "name": "– riisiä",
+                  "name": "– basmatiriisiä",
                   "meta": "G, VEG"
                 },
                 {
