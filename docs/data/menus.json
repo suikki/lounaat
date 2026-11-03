@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:25:18Z",
+  "generated_at": "2026-11-03T08:00:30Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -50,24 +50,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Italia päivä Hertassa",
-                  "meta": null
-                },
-                {
-                  "name": "Pollo alla cacciatora",
+                  "name": "Metsästäjän kanapata",
                   "meta": "M, G"
                 },
                 {
-                  "name": "Täyteläinen jauheliha Lasagne al forno",
+                  "name": "Jauheliha lasagne",
                   "meta": "L"
-                },
-                {
-                  "name": "– panzanella salaatti",
-                  "meta": "M, VEG"
-                },
-                {
-                  "name": "Chef: : Risotto alla puttanesca VL, kasvis",
-                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -83,10 +71,10 @@
               "price": null
             },
             {
-              "name": "Jälkiruoka",
+              "name": "Keittiöstä päivän vegaani",
               "dishes": [
                 {
-                  "name": "mansikka-marenkikakkua",
+                  "name": "Kasvispihvejä metsästäjän kastikkeella",
                   "meta": null
                 }
               ],
@@ -192,6 +180,16 @@
               "dishes": [
                 {
                   "name": "Juustoinen tomaattikeitto L, G, KASVIS",
+                  "meta": null
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "mansikka-marenkikakkua",
                   "meta": null
                 }
               ],
@@ -417,10 +415,6 @@
                 {
                   "name": "Banaanismoothieta",
                   "meta": "L, G"
-                },
-                {
-                  "name": "Kahviannos, maito ja sokeri",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -494,10 +488,6 @@
                 {
                   "name": "Mansikkahilloa",
                   "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Kahviannos, maito ja sokeri",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -584,10 +574,6 @@
                 },
                 {
                   "name": "Mokka-kaakaorahkaa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Kahviannos, maito ja sokeri",
                   "meta": "L, G"
                 }
               ],
@@ -680,10 +666,6 @@
                 {
                   "name": "Vaniljakastiketta",
                   "meta": "G"
-                },
-                {
-                  "name": "Kahviannos, maito ja sokeri",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
@@ -787,10 +769,6 @@
                 {
                   "name": "Churrot",
                   "meta": "L, M, VEG"
-                },
-                {
-                  "name": "Kahviannos, maito ja sokeri",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
