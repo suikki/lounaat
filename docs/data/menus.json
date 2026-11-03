@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:00:30Z",
+  "generated_at": "2026-11-03T11:01:28Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -54,8 +54,8 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Jauheliha lasagne",
-                  "meta": "L"
+                  "name": "Ei chef annosta tänään henkilökunnan vajeen vuoksi",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -74,7 +74,7 @@
               "name": "Keittiöstä päivän vegaani",
               "dishes": [
                 {
-                  "name": "Kasvispihvejä metsästäjän kastikkeella",
+                  "name": "Kasvispihvejä valkosipulimajoneesilla",
                   "meta": null
                 }
               ],
@@ -268,7 +268,7 @@
                   "meta": "G, VEG"
                 },
                 {
-                  "name": "Parsakaalisosekeitto",
+                  "name": "Koskenlaskijan parsakaalikeitto",
                   "meta": "L, G"
                 }
               ],
