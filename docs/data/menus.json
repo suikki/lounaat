@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:09:42Z",
+  "generated_at": "2026-11-04T15:31:56Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -557,6 +557,10 @@
                   "meta": "L, G"
                 },
                 {
+                  "name": "Antellin lasagnea",
+                  "meta": "L"
+                },
+                {
                   "name": "Maalaislohkoperunoita",
                   "meta": "L, M, G, VEG"
                 },
@@ -570,6 +574,10 @@
                 },
                 {
                   "name": "Mokka-kaakaorahkaa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Vaniljakiisseliä",
                   "meta": "L, G"
                 }
               ],
