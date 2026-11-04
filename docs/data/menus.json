@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:35:14Z",
+  "generated_at": "2026-11-04T11:09:42Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -97,10 +97,6 @@
                 {
                   "name": "Thai vihreää currya tofusta",
                   "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Chef: Broileri shawarma pita raikkaalla jugurtti kastikkeella ja mausteisella salsall & ranskanperunoilla",
-                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -285,8 +281,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Puna-ahventa sitruuna-smetanakastikkeessa",
-                  "meta": "L, G"
+                  "name": "Rapeaa kalaa ja sitruunamajoneesia",
+                  "meta": "M, G"
                 },
                 {
                   "name": "– perinteinen perunamuusi ja höyryperunat",
