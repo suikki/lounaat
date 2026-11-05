@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:31:56Z",
+  "generated_at": "2026-11-05T07:58:15Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -127,10 +127,10 @@
                 },
                 {
                   "name": "Rapeaa paneroitua kalaa sekä tartar kastiketta",
-                  "meta": "L, G"
+                  "meta": "SAA kalaa ja dippiä keittiöstä!, L, M, G"
                 },
                 {
-                  "name": "Chef: Mexican nyhtökaura bowl, raikasta salsaa ja avokado fraichea",
+                  "name": "Chef: Mexican härkäpapu bowl, raikasta salsaa ja avokado fraichea",
                   "meta": "M, G, VEG"
                 }
               ],
@@ -319,10 +319,10 @@
               "dishes": [
                 {
                   "name": "Makkarapannu",
-                  "meta": "L, G"
+                  "meta": "M, G"
                 },
                 {
-                  "name": "– dijoncreme ja mausteiset lohkoperunat",
+                  "name": "– dijoncreme ja tacomaustetut lohkoperunat",
                   "meta": "L, G, VEG"
                 },
                 {
@@ -330,7 +330,7 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Hunajainen kasviskanakeitto",
+                  "name": "Hunajainen kasvis-kanakeitto",
                   "meta": "M, G"
                 }
               ],
@@ -967,8 +967,8 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Paneroitua broileria & hunaja-sinappidippi",
-                  "meta": "suomalaista broileria, L, G"
+                  "name": "Paneroitu porsaan fileeleike & hunaja-sinappidippi",
+                  "meta": "suomalaista possua, L, M, G"
                 },
                 {
                   "name": "Juustoista uunimakkaraa",
