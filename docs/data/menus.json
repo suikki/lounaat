@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:58:15Z",
+  "generated_at": "2026-11-05T15:36:16Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -351,6 +351,14 @@
                   "meta": "M, G"
                 },
                 {
+                  "name": "– sinihomejuustokermaviiliä",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "– mango-chiliriisiä ja paahdettuja punajuuria",
+                  "meta": null
+                },
+                {
                   "name": "Tuhti kinkku-pekonipastavuoka",
                   "meta": "L"
                 },
@@ -658,6 +666,14 @@
                 {
                   "name": "Timjamipunajuuria",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Pinaattiriisiä",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Ohrahelmiä",
+                  "meta": "L, M, VEG"
                 },
                 {
                   "name": "Metsäsienikastiketta",
