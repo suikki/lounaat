@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T08:00:16Z",
+  "generated_at": "2026-11-06T11:08:01Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -157,7 +157,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Wieninleikettä anjoviksella & kapriksilla",
+                  "name": "Wieninleikettä kapriksilla",
                   "meta": "M"
                 },
                 {
@@ -368,7 +368,7 @@
                 },
                 {
                   "name": "Kahvin kanssa banoffeerahkaa",
-                  "meta": "L"
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -445,12 +445,16 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Kasvis-munakas",
-                  "meta": "L, G"
+                  "name": "Papu-kasvistacoja",
+                  "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Katkarapu-lasinuudelisalaattia",
-                  "meta": "L, M, G"
+                  "name": "Aurinkotomaattipesto-mozzarellaa",
+                  "meta": "G"
+                },
+                {
+                  "name": "Lehtikaali-pesto-pastasalaattia",
+                  "meta": "L, M, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -514,16 +518,16 @@
                   "meta": "L, M, G"
                 },
                 {
+                  "name": "Feta-pinaattimunakasta",
+                  "meta": "L, G"
+                },
+                {
                   "name": "Chimichurri-maustettua possua",
                   "meta": "L, M, G"
                 },
                 {
-                  "name": "Kasviskoftat – kasvispihvejä marokkolaisittain",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Mangomajoneesia",
-                  "meta": "L, M, G"
+                  "name": "Tomaatti-couscoussalaattia",
+                  "meta": "L, M, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -531,10 +535,6 @@
             {
               "name": "Pizzalounas",
               "dishes": [
-                {
-                  "name": "Kinkku-ananas-aurajuustopizzaa",
-                  "meta": "L"
-                },
                 {
                   "name": "Vihreää salaattia",
                   "meta": "L, M, G, VEG"
@@ -609,16 +609,20 @@
               "name": "Delilounas",
               "dishes": [
                 {
-                  "name": "Aurajuustokeittoa",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Feta-pinaattimunakasta",
-                  "meta": "L, G"
-                },
-                {
-                  "name": "Papu-kasvistacoja",
+                  "name": "Basilika-tomaattikeittoa",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Chipotle-ananas-kanatacoja",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Aioli-kananmunakatkarapuja",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Garam masala -maustettua bulgursalaattia",
+                  "meta": "L, M, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -724,12 +728,12 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Caesar-salaattia",
-                  "meta": "L"
-                },
-                {
                   "name": "BBQ-possua",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Caesar-salaattia",
+                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
