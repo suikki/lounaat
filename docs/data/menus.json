@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:36:16Z",
+  "generated_at": "2026-11-06T08:00:16Z",
   "iso_week": 45,
   "restaurants": [
     {
@@ -787,8 +787,12 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
-                  "name": "Churrot",
+                  "name": "Pieni makea",
                   "meta": "L, M, VEG"
+                },
+                {
+                  "name": "Pieni makea",
+                  "meta": "L, M"
                 }
               ],
               "price": "13,80 €"
