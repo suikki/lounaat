@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:01:28Z",
+  "generated_at": "2026-11-10T13:35:33Z",
   "iso_week": 46,
   "restaurants": [
     {
@@ -469,6 +469,10 @@
                 },
                 {
                   "name": "Herkkutatti-hasselpähkinärisottoa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Pyttipannua",
                   "meta": "L, G"
                 },
                 {
