@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:11:26Z",
+  "generated_at": "2026-11-11T12:48:18Z",
   "iso_week": 46,
   "restaurants": [
     {
@@ -571,12 +571,20 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Häränmurekepihvejä",
+                  "meta": "L, M, G"
+                },
+                {
                   "name": "Riisiä",
                   "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Paahdettuja tandoorikasviksia",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Itte tehtyä toscapiirakkaa",
