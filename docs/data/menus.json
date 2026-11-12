@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:26:16Z",
+  "generated_at": "2026-11-12T11:29:22Z",
   "iso_week": 46,
   "restaurants": [
     {
@@ -130,6 +130,10 @@
                 {
                   "name": "Tomaattista tonnikalapastaa",
                   "meta": "M"
+                },
+                {
+                  "name": "Vegaaninen tofupata keittiöstä",
+                  "meta": "M, G, VEG"
                 },
                 {
                   "name": "Chef´s: Juustoburgeri, savuinen majoneesi & ranskanperunat",
