@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:29:22Z",
+  "generated_at": "2026-11-12T13:51:06Z",
   "iso_week": 46,
   "restaurants": [
     {
@@ -134,10 +134,6 @@
                 {
                   "name": "Vegaaninen tofupata keittiöstä",
                   "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Chef´s: Juustoburgeri, savuinen majoneesi & ranskanperunat",
-                  "meta": "L"
                 }
               ],
               "price": "13,80 €"
@@ -674,8 +670,16 @@
                   "meta": "L, M, G, VEG"
                 },
                 {
+                  "name": "Paistettua riisiä",
+                  "meta": "L, M, G"
+                },
+                {
                   "name": "Valkosipulijogurttia",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Hiillostettua kirjolohta",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Mustikkasmoothieta",
