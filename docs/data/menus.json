@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:48:18Z",
+  "generated_at": "2026-11-12T08:26:16Z",
   "iso_week": 46,
   "restaurants": [
     {
@@ -699,7 +699,7 @@
               "dishes": [
                 {
                   "name": "Maa-artisokkakeittoa",
-                  "meta": "L, M, G, VEG"
+                  "meta": "L, G"
                 },
                 {
                   "name": "Peruna-sienipihvejä",
@@ -961,7 +961,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Makkaramix",
+                  "name": "Makkaramix Jyvässeudun toimipisteissä Uunimakkaraa",
                   "meta": "suomalaista possua, L, G"
                 },
                 {
