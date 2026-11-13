@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:51:06Z",
+  "generated_at": "2026-11-13T08:09:50Z",
   "iso_week": 46,
   "restaurants": [
     {
@@ -163,7 +163,7 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Värikäs peruna-kasvisvuoka herniksellä",
+                  "name": "Värikäs peruna-kasvisvuoka härkiksellä",
                   "meta": "M, G, VEG"
                 },
                 {
@@ -342,11 +342,11 @@
                 },
                 {
                   "name": "– mac n cheese tirauksella tabascoa",
-                  "meta": null
+                  "meta": "L"
                 },
                 {
                   "name": "BBQ-pulled chicken hot dog",
-                  "meta": null
+                  "meta": "M"
                 },
                 {
                   "name": "– jalapeno-aioli",
@@ -358,7 +358,7 @@
                 },
                 {
                   "name": "Kahvin kanssa suklaavanukasta",
-                  "meta": null
+                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
