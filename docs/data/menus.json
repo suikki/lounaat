@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T08:09:50Z",
+  "generated_at": "2026-11-13T13:13:27Z",
   "iso_week": 46,
   "restaurants": [
     {
@@ -762,6 +762,10 @@
                 },
                 {
                   "name": "Kukkakaalia",
+                  "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Grilliperunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
