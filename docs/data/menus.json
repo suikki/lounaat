@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T08:04:31Z",
+  "generated_at": "2026-11-16T11:42:32Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -19,8 +19,12 @@
                   "meta": "M"
                 },
                 {
-                  "name": "karamelisoidulla sipulilla viimeisteltyä juustopasta paistosta",
-                  "meta": "L"
+                  "name": "karamelisoidulla sipulilla viimeisteltyä juustopasta paistosta L, KASVIS",
+                  "meta": null
+                },
+                {
+                  "name": "Kasvis-tofu tandoori keittiöstä",
+                  "meta": "M, G, VEG"
                 },
                 {
                   "name": "Chef: Pitkään haudutettua Broileria tandoorikastikkeessa, aromaattista riisiä sekä jugurtti-kurkku raita",
