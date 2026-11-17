@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:47:19Z",
+  "generated_at": "2026-11-17T09:19:32Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -79,7 +79,7 @@
               "dishes": [
                 {
                   "name": "Kokin naudan pannupihviä, kermaista sipulikastiketta & paahdettua perunaa",
-                  "meta": "L, G"
+                  "meta": "L"
                 }
               ],
               "price": null
