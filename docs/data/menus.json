@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:19:32Z",
+  "generated_at": "2026-11-17T14:39:26Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -480,6 +480,14 @@
                 {
                   "name": "Kasvis-fetapannua",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Chorizopyöryköitä",
+                  "meta": "L, M, G"
+                },
+                {
+                  "name": "Pankopaneroituja kananfileitä",
+                  "meta": "L, M"
                 },
                 {
                   "name": "Perunoita",
