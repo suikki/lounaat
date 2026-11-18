@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:39:10Z",
+  "generated_at": "2026-11-18T11:55:39Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -99,12 +99,8 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Gratinoidut kasvispihvit aurinkokuivatulla tomaatilla & ananaksella",
-                  "meta": "M, G, VEG"
-                },
-                {
-                  "name": "Chef: Pariloitu lohi teriyaki bowl, värikkäillä lisukkeilla",
-                  "meta": "M, G"
+                  "name": "Gratinoidut kasvispihvit aurinkokuivatulla tomaatilla & ananaksella L, G, KASVIS",
+                  "meta": "SAA keittiöstä!, VEG"
                 }
               ],
               "price": "13,80 €"
@@ -114,7 +110,7 @@
               "dishes": [
                 {
                   "name": "täyteläinen punajuuri-porkkanakeitto",
-                  "meta": "M, G"
+                  "meta": "M, G, VEG"
                 }
               ],
               "price": null
@@ -134,11 +130,11 @@
                   "meta": "M"
                 },
                 {
-                  "name": "Myskikurpitsa-kaalipaistos feta murulla L,G,KASVIS",
+                  "name": "Myskikurpitsa-kaalipaistos fetamurulla L, G, KASVIS",
                   "meta": null
                 },
                 {
-                  "name": "Perunamuusia",
+                  "name": "– perunamuusia",
                   "meta": "L, G"
                 }
               ],
@@ -148,7 +144,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "Hernekeittoa palvikinkulla",
+                  "name": "Hernekeittoa palvikinkulla ja pannukakkua ja hilloa",
                   "meta": "M, G"
                 }
               ],
@@ -158,7 +154,7 @@
               "name": "Chef's menu",
               "dishes": [
                 {
-                  "name": "Paneroitu broileri pihvi burgeri. Paholaisenhillolla, punasipulilla ja ranskanperunoilla",
+                  "name": "Kanaburgeri paholaisenhillolla, punasipulilla ja ranskanperunoilla",
                   "meta": "M"
                 }
               ],
@@ -183,11 +179,11 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chef: LASTEN PERJANTAI Lihapulla & nakki kori, kasvistikkuja ja jugurtti dippi",
+                  "name": "Chef: LASTEN PERJANTAI Lihapulla- & nakkikori, kasvistikkuja ja jugurtti dippiä",
                   "meta": null
                 },
                 {
-                  "name": "Jälkiruoaksi: Lettu buffet, kermavaahtoa, hilloa sekä suklaakastiketta",
+                  "name": "Jälkiruoaksi: Lettubuffet, kermavaahtoa, hilloa sekä suklaakastiketta",
                   "meta": "L"
                 }
               ],
@@ -197,7 +193,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "samettista Juuressosekeittoa",
+                  "name": "Samettista Juuressosekeittoa",
                   "meta": "M, G, VEG"
                 }
               ],
