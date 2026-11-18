@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:39:26Z",
+  "generated_at": "2026-11-18T08:39:10Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -286,7 +286,7 @@
               "dishes": [
                 {
                   "name": "Pannulla paistetut rapeat kanaleikkeet",
-                  "meta": "M"
+                  "meta": "M, G"
                 },
                 {
                   "name": "– persilja-parmesanlohkoperunat ja paprikamajoneesi",
@@ -306,7 +306,7 @@
                 },
                 {
                   "name": "Kahvin kanssa Orvokin omenapiirakkaa ja vaniljavaahtoa",
-                  "meta": "L, G"
+                  "meta": "L, M, G"
                 }
               ],
               "price": "13,80 €"
