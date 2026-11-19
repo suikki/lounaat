@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:52:41Z",
+  "generated_at": "2026-11-19T14:30:57Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -351,7 +351,7 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Tempurapaneroidut turskapalat",
+                  "name": "Rapeat kalapihvit",
                   "meta": "M"
                 },
                 {
@@ -684,12 +684,20 @@
                   "meta": "L, G"
                 },
                 {
+                  "name": "Härkis-tacopastaa",
+                  "meta": "VL"
+                },
+                {
                   "name": "Perunamuusia",
                   "meta": "L, G"
                 },
                 {
                   "name": "Paahdettua paprikaa ja munakoisoa",
                   "meta": "L, M, G, VEG"
+                },
+                {
+                  "name": "Paistettua riisiä",
+                  "meta": "L, M, G"
                 },
                 {
                   "name": "Mariannerahkaa",
@@ -1197,7 +1205,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": null
+      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
     }
   ]
 }
