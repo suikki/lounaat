@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:15:42Z",
+  "generated_at": "2026-11-19T08:54:32Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -131,11 +131,11 @@
                 },
                 {
                   "name": "Myskikurpitsa-kaalipaistos fetamurulla L, G, KASVIS",
-                  "meta": null
+                  "meta": "saa m,g,veg"
                 },
                 {
-                  "name": "– perunamuusia",
-                  "meta": "L, G"
+                  "name": "– Kermaperunaa",
+                  "meta": "saa m,g,veg, L, G"
                 }
               ],
               "price": "13,80 €"
@@ -203,7 +203,7 @@
           "note": null
         }
       ],
-      "hours": "10:30–13:30",
+      "hours": "10:30–13:00",
       "error": null
     },
     {
@@ -322,7 +322,11 @@
                   "meta": "L"
                 },
                 {
-                  "name": "Broileria Piri Piri",
+                  "name": "– mustapippuriketsuppia",
+                  "meta": "G, VEG"
+                },
+                {
+                  "name": "Broileria Piri Piri HOT!",
                   "meta": "M, G"
                 },
                 {
