@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:39:11Z",
+  "generated_at": "2026-11-20T08:41:03Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -175,11 +175,11 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "Juustoinen kahden kalan vuoka",
+                  "name": "Juustoinen kahden kalan vuoka lohella ja puna-ahvenella",
                   "meta": "L, G"
                 },
                 {
-                  "name": "Chef: LASTEN PERJANTAI Lihapulla- & nakkikori, kasvistikkuja ja jugurtti dippiä",
+                  "name": "Chef: LASTEN PERJANTAI Lihapulla- & nakkikori ranskalaisilla, kasvistikkuja, jugurttidippiä ja majoneesia",
                   "meta": null
                 },
                 {
@@ -352,7 +352,7 @@
               "dishes": [
                 {
                   "name": "Rapeat kalapihvit",
-                  "meta": "M"
+                  "meta": "M, G"
                 },
                 {
                   "name": "– uuniranskalaiset ja tartarkastike",
