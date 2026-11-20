@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:41:03Z",
+  "generated_at": "2026-11-20T14:08:27Z",
   "iso_week": 47,
   "restaurants": [
     {
@@ -779,12 +779,28 @@
                   "meta": "L, M, G"
                 },
                 {
+                  "name": "Tulista smetana-uunimakkaraa",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Kasvistacoja",
+                  "meta": "L, M, G, VEG"
+                },
+                {
                   "name": "Paahdettuja grilliperunoita",
                   "meta": "L, M, G, VEG"
                 },
                 {
                   "name": "Paahdettuja kaskijuureksia",
                   "meta": "L, M, G"
+                },
+                {
+                  "name": "Perunamuusia",
+                  "meta": "L, G"
+                },
+                {
+                  "name": "Chipotlemaustettua ranskankermaa",
+                  "meta": "L, G"
                 },
                 {
                   "name": "Marjapiirakka",
