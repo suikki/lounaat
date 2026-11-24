@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:12:00Z",
+  "generated_at": "2026-11-24T11:07:55Z",
   "iso_week": 48,
   "restaurants": [
     {
@@ -70,11 +70,11 @@
                   "meta": "M"
                 },
                 {
-                  "name": "Värikäs kasvis- nuudeli stir fry",
-                  "meta": "M, VEG"
+                  "name": "Värikäs kasvis- nuudeli stir fry M, kasvis",
+                  "meta": null
                 },
                 {
-                  "name": "Chef: Broilerinfilettä kermaisessa pesto-kastikkeessa, paahdettua perunaa ja porkkanaa",
+                  "name": "Chef: Broilerinfilettä kermaisessa pesto-kastikkeessa, paahdettua perunaa ja kasviksia",
                   "meta": "L, G"
                 }
               ],
@@ -84,7 +84,7 @@
               "name": "Keitto",
               "dishes": [
                 {
-                  "name": "kermainen maissi chowder L, G, KASVIS",
+                  "name": "Kermainen maissi chowder L, G, KASVIS",
                   "meta": null
                 }
               ],
@@ -95,7 +95,7 @@
               "dishes": [
                 {
                   "name": "Talon mokkapaloja",
-                  "meta": "L"
+                  "meta": "SAA ja M, VEG, L, M, G"
                 }
               ],
               "price": null
@@ -115,16 +115,12 @@
                   "meta": "L, G"
                 },
                 {
-                  "name": "Tulinen kasvis- tortillavuoka seitanilla sekä jalapenoilla",
+                  "name": "Tulinen kasvis- nachovuoka seitanilla sekä jalapenoilla",
                   "meta": "M, VEG"
                 },
                 {
-                  "name": "Chef: Porsaan lehtipihviä, Chipotle maustevoi ja röstiperunat",
+                  "name": "Chef: Porsaan lehtipihvi, Chipotle maustevoita ja röstiperunoita",
                   "meta": "L, G"
-                },
-                {
-                  "name": "Jälkiruoaksi: Raikas hedelmäsalaatti",
-                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -135,6 +131,16 @@
                 {
                   "name": "Karamellioitua sipulikeittoa",
                   "meta": "L, G"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Jälkiruoka",
+              "dishes": [
+                {
+                  "name": "raikas hedelmäsalaatti",
+                  "meta": null
                 }
               ],
               "price": null
@@ -280,6 +286,10 @@
                 {
                   "name": "Tulinen juustokeitto",
                   "meta": "L, G"
+                },
+                {
+                  "name": "Kahvin kanssa vaniljavanukasta (sis. laktoosi) ja mansikkahilloa",
+                  "meta": null
                 }
               ],
               "price": "13,80 €"
@@ -884,8 +894,8 @@
                   "meta": "suomalaista nautaa ja possua, L, G"
                 },
                 {
-                  "name": "Pariisinperunoita Kasvissosekeitto",
-                  "meta": "L, M, G"
+                  "name": "Pariisinperunoita",
+                  "meta": "M, G"
                 }
               ],
               "price": "11,90 €"
