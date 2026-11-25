@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:07:55Z",
+  "generated_at": "2026-11-25T09:55:52Z",
   "iso_week": 48,
   "restaurants": [
     {
@@ -112,7 +112,7 @@
               "dishes": [
                 {
                   "name": "Täyteläisen juustoista broileria",
-                  "meta": "L, G"
+                  "meta": "SAA M,G, L, G"
                 },
                 {
                   "name": "Tulinen kasvis- nachovuoka seitanilla sekä jalapenoilla",
@@ -619,16 +619,8 @@
                   "meta": "L, M, VEG"
                 },
                 {
-                  "name": "Naudan jauhettu burgerliha, Suomi",
-                  "meta": "L, M, G"
-                },
-                {
-                  "name": "Metsäsienikuutioita",
+                  "name": "Maalaisranskalaisia",
                   "meta": "L, M, G, VEG"
-                },
-                {
-                  "name": "Emmentaljuustoa",
-                  "meta": "L, G"
                 }
               ],
               "price": "13,80 €"
