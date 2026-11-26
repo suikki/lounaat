@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:55:52Z",
+  "generated_at": "2026-11-26T09:40:16Z",
   "iso_week": 48,
   "restaurants": [
     {
@@ -156,12 +156,12 @@
               "name": "Lounas",
               "dishes": [
                 {
-                  "name": "Linkosuon konditorian herkkuja maistatuksessa tänään klo 12-13.30. Tervetuloa!",
+                  "name": "Linkosuon konditorian herkkuja maistatuksessa tänään klo 11.00. Tervetuloa!",
                   "meta": null
                 },
                 {
-                  "name": "Alaskanseiti filettä rapealla täysjyväpaneroinnilla",
-                  "meta": "M"
+                  "name": "Rapeaa pinaatti-feta täytteistä kalarullaa",
+                  "meta": null
                 },
                 {
                   "name": "Kermaisen paprikaista pepperonipastaa",
@@ -180,6 +180,16 @@
                 {
                   "name": "Mausteinen tomaattikeitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "Nochicken kasvispata",
+                  "meta": null
                 }
               ],
               "price": null
@@ -346,15 +356,15 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "– currymajoneesia",
-                  "meta": "M, G"
+                  "name": "– currymajoneesia ja salsaperunoita",
+                  "meta": "M, G, VEG"
                 },
                 {
                   "name": "Mehevä kasvislasagne",
                   "meta": "L"
                 },
                 {
-                  "name": "Kermainen kalakeitto",
+                  "name": "Kermainen lohikeitto",
                   "meta": "L, G"
                 }
               ],
