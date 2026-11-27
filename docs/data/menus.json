@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:47:30Z",
+  "generated_at": "2026-11-27T09:45:37Z",
   "iso_week": 48,
   "restaurants": [
     {
@@ -213,7 +213,7 @@
                   "meta": "M, G"
                 },
                 {
-                  "name": "BBQ paahdettuja broilerin koipinuijia",
+                  "name": "BBQ paahdettuja broilerin koipinuijia ja dippiä",
                   "meta": "M, G"
                 },
                 {
@@ -229,6 +229,16 @@
                 {
                   "name": "Kookos-porkkanakeitto",
                   "meta": "M, G, VEG"
+                }
+              ],
+              "price": null
+            },
+            {
+              "name": "Keittiöstä päivän vegaani",
+              "dishes": [
+                {
+                  "name": "veg nakkeja ja pyöryköitä ja sitrus dippiä",
+                  "meta": null
                 }
               ],
               "price": null
@@ -386,7 +396,7 @@
                 },
                 {
                   "name": "Uunimakkara kaikilla mausteilla",
-                  "meta": "L, G"
+                  "meta": "M, G"
                 },
                 {
                   "name": "– smetanainen perunamuusi",
@@ -1193,7 +1203,7 @@
         }
       ],
       "hours": "10:30–14:30",
-      "error": "RuntimeError: scraper returned 0 dishes and 0 notes"
+      "error": null
     }
   ]
 }
